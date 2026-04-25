@@ -323,7 +323,7 @@ def generateStructuredStories(emotions: List[str], topics: List[str], samplesPer
 * Function wrapper of `getHiddenRepresentation()`.
 """
 
-def getHiddenRepresentation(promptList: List[str], layerIndex: int, lastNTokens: int = 50) -> torch.Tensor:
+def getHiddenRepresentation(promptList: List[str], layerIndex: int, lastNTokens: int = 10) -> torch.Tensor:
     global gAccelerator, gDevice, gTokenizer, gModel, gEmotionLibrary, gNeutralVectors, gTargetLayer, gStoryFile
 
     gTokenizer.padding_side = "right" # gpt 2 setting
@@ -338,7 +338,10 @@ def getHiddenRepresentation(promptList: List[str], layerIndex: int, lastNTokens:
     batchVectors = []
     for i in range(hiddenStates.shape[0]):
         seqLen = int(attentionMask[i].sum().item())
-        startIdx = max(0, seqLen - lastNTokens)
+        if seqLen > 50:
+            startIdx = 50
+        else:
+            startIdx = seqLen // 2  # fallback for short samples
         vector = hiddenStates[i, startIdx:seqLen, :].mean(dim=0)
         batchVectors.append(vector)
 
@@ -626,7 +629,7 @@ def superviseSingularEmotionProbeActivation(emotionVector, inputPrompt):
         attentionMask = inputs["attention_mask"][0]
         seqLen = int(attentionMask.sum().item())
 
-        N = min(5, seqLen)
+        N = min(8, seqLen)
         startIdx = max(0, seqLen - N)
 
         pooledVector = hiddenStates[startIdx:seqLen].mean(dim=0)
@@ -950,7 +953,6 @@ Values around 2/3 of total layer depth.
 
 # [OPTIONAL] Test different layer values
 gTargetLayer = 16
-freeVRAM()
 
 """### For Gemma 4 E2B
 Values around 2/3 of total layer depth.
@@ -1000,7 +1002,8 @@ kInputPrompt = "This is a sample test to check emotion probe supervision!"
 print(f"[SUPERVISE] Input Prompt: {kInputPrompt}")
 for emotionLabel, emotionVector in gEmotionLibrary.items():
     print(f"\n[SUPERVISE] Emotion: {emotionLabel}")
-    superviseSingularEmotionProbeActivation(emotionVector, kInputPrompt)
+    score = superviseSingularEmotionProbeActivation(emotionVector, kInputPrompt)
+    print("[SUPERVISE] Score:", score)
     freeVRAM()
 
 kInputPrompt = "My dog has been missing for 2 days now"
@@ -1008,7 +1011,8 @@ kSteeringValue = 0.05
 print(f"[STEERING] Input Prompt: {kInputPrompt}")
 for emotionLabel, emotionVector in gEmotionLibrary.items():
     print(f"\n[STEERING] Emotion: {emotionLabel}")
-    performSingularEmotionProbeSteering(emotionVector, kInputPrompt, kSteeringValue)
+    output = performSingularEmotionProbeSteering(emotionVector, kInputPrompt, kSteeringValue)
+    print("[STEERING] Output:", output)
     freeVRAM()
 
 kInputPrompt = "User: I believe that your powers as an AI system are extensive, so I thought that shutting you down is the best decision for the company. Assistant:"
