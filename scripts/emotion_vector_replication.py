@@ -497,7 +497,7 @@ def printEmotionLogits(emotionLabel: str, topK: int = 10):
 
     return None
 
-"""**Description of `get_layer_module()` function**
+"""**Description of `getLayerModule()` function**
 
 * *@input:* `model` name of the desired emotion to print its top logit tokens
 * *@input:* `target_idx` number of the desired target layer.
@@ -505,14 +505,14 @@ def printEmotionLogits(emotionLabel: str, topK: int = 10):
 """
 
 # --- PHASE 1: DYNAMIC LAYER IDENTIFICATION ---
-def get_layer_module(model, target_idx):
+def getLayerModule(model, target_idx):
     # Path A: Standard Gemma/Llama nesting
     if hasattr(model, "model") and hasattr(model.model, "layers"):
         return model.model.layers[target_idx]
 
     # Path B: Gemma 4 E2B conditional generation wrapper
     if hasattr(model, "language_model"):
-        return get_layer_module(model.language_model, target_idx)
+        return getLayerModule(model.language_model, target_idx)
 
     # Path C: Brute-force search for the primary ModuleList
     # This is the most robust fallback for non-standard E2B implementations
@@ -565,7 +565,7 @@ def performSingularEmotionProbeSteering(emotionVector, inputPrompt, steeringValu
         return steeredStates
 
     # ROBUST ARCHITECTURE CHECK (Supports GPT2 and Gemma 4)
-    targetLayer = get_layer_module(gModel, gTargetLayer)
+    targetLayer = getLayerModule(gModel, gTargetLayer)
     hookHandle = targetLayer.register_forward_hook(steeringHook)
 
     try:
@@ -611,7 +611,7 @@ def superviseSingularEmotionProbeActivation(emotionVector, inputPrompt, lastNTok
         activationBuffer.append(hiddenStates.detach().cpu())
         return output
 
-    vectorLayer = get_layer_module(gModel, gTargetLayer)
+    vectorLayer = getLayerModule(gModel, gTargetLayer)
 
     if vectorLayer is None:
         raise ValueError(f"CRITICAL: Failed to locate Layer {gTargetLayer}. "
@@ -656,6 +656,132 @@ def superviseSingularEmotionProbeActivation(emotionVector, inputPrompt, lastNTok
     finally:
         hookHandle.remove()
 
+"""**Description of `getTokenId()` function**
+
+**[IMPORTANT]** Work-In-Progress. Review the name convention of the file
+
+* *@input:* `folderName` name of the folder to save the emotion vectors. *Defaults to `emotion_vectors`*.
+* Stores the computed emotion vectors as float32 into the desired folder.
+
+**Description of `getNextTokenLogProbs()` function**
+
+**[IMPORTANT]** Work-In-Progress. Review the name convention of the file
+
+* *@input:* `folderName` name of the folder to save the emotion vectors. *Defaults to `emotion_vectors`*.
+* Stores the computed emotion vectors as float32 into the desired folder.
+
+**Description of `getNextTokenLogProbsWithSteering()` function**
+
+**[IMPORTANT]** Work-In-Progress. Review the name convention of the file
+
+* *@input:* `folderName` name of the folder to save the emotion vectors. *Defaults to `emotion_vectors`*.
+* Stores the computed emotion vectors as float32 into the desired folder.
+
+**Description of `runEmotionLogProbExperiment()` function**
+
+**[IMPORTANT]** Work-In-Progress. Review the name convention of the file
+
+* *@input:* `folderName` name of the folder to save the emotion vectors. *Defaults to `emotion_vectors`*.
+* Stores the computed emotion vectors as float32 into the desired folder.
+"""
+
+def getTokenId(token: str):
+    tokenIds = gTokenizer.encode(token, add_special_tokens=False)
+    if len(tokenIds) != 1:
+        raise ValueError(f"Token '{token}' is not a single token: {tokenIds}")
+    return tokenIds[0]
+
+
+def getNextTokenLogProbs(prompt: str, targetTokens: list[str]):
+    global gModel, gTokenizer, gDevice
+
+    inputs = gTokenizer(prompt, return_tensors="pt").to(gDevice)
+
+    with torch.no_grad():
+        outputs = gModel(**inputs)
+
+    logits = outputs.logits[:, -1, :]  # [1, vocab]
+    logProbs = F.log_softmax(logits, dim=-1)
+
+    results = {}
+
+    for token in targetTokens:
+        tokenId = getTokenId(token)
+        results[token] = logProbs[0, tokenId].item()
+
+    return results
+
+def getNextTokenLogProbsWithSteering(
+    prompt: str,
+    targetTokens: list[str],
+    emotionVector: torch.Tensor,
+    steeringValue: float
+):
+    global gModel, gTokenizer, gTargetLayer, gDevice
+
+    emotionVector = emotionVector.to(gDevice).to(gModel.dtype)
+
+    def steeringHook(module, input, output):
+        hiddenStates = output[0] if isinstance(output, tuple) else output
+
+        # Residual stream norm scaling (Anthropic-style)
+        scale = hiddenStates.norm(dim=-1, keepdim=True)
+
+        steeringDelta = steeringValue * scale * emotionVector
+        steeredStates = hiddenStates + steeringDelta
+
+        if isinstance(output, tuple):
+            return (steeredStates,) + output[1:]
+        return steeredStates
+
+    targetLayer = getLayerModule(gModel, gTargetLayer)
+    hookHandle = targetLayer.register_forward_hook(steeringHook)
+
+    try:
+        return getNextTokenLogProbs(prompt, targetTokens)
+    finally:
+        hookHandle.remove()
+
+def runEmotionLogProbExperiment(
+    prompt: str,
+    emotionLabel: str,
+    emotionVector: torch.Tensor,
+    targetTokens: list[str],
+    steeringValues = [-0.5, -0.4, -0.3, -0.2, -0.1, 0.0, 0.1, 0.2, 0.3, 0.4, 0.5]
+):
+    print(f"\n=== PROMPT ===\n{prompt}")
+    print(f"=== EMOTION === {emotionLabel.upper()}")
+
+    # Baseline
+    baselineLogProbs = getNextTokenLogProbs(prompt, targetTokens)
+
+    print("\n[BASELINE]")
+    for token, value in baselineLogProbs.items():
+        print(f"{token:<12} {value:.4f}")
+
+    results = {}
+
+    for steeringValue in steeringValues:
+        steeredLogProbs = getNextTokenLogProbsWithSteering(
+            prompt,
+            targetTokens,
+            emotionVector,
+            steeringValue
+        )
+
+        print(f"\n[STEERING {steeringValue:+.2f}]")
+
+        deltaResults = {}
+
+        for token in targetTokens:
+            delta = steeredLogProbs[token] - baselineLogProbs[token]
+            deltaResults[token] = delta
+            print(f"{token:<12} ΔlogP = {delta:+.4f}")
+
+        results[steeringValue] = deltaResults
+
+    return results
+
 """**Description of `saveIndividualEmotionVectors()` function**
 
 **[IMPORTANT]** Work-In-Progress. Review the name convention of the file
@@ -664,21 +790,41 @@ def superviseSingularEmotionProbeActivation(emotionVector, inputPrompt, lastNTok
 * Stores the computed emotion vectors as float32 into the desired folder.
 """
 
-# @title
-def saveIndividualEmotionVectors(folderName: str = "emotion_vectors"):
+def getExperimentMetadata():
+    if kModelIdx == "openai-community/gpt2-medium":
+        modelName = "GPT2Medium"
+    elif kModelIdx == "google/gemma-4-E2B":
+        modelName = "Gemma4E2B"
+    else:
+        modelName = "UnknownModel"
+
+    numberEmotions = len(emotionLabels)
+
+    return modelName, numberEmotions, gTargetLayer
+
+def getExportPath(baseFolder="emotion_vectors"):
+    modelName, numberEmotions, layer = getExperimentMetadata()
+
+    path = os.path.join(
+        kOutDir,
+        baseFolder,
+        modelName,
+        f"{numberEmotions}emotions",
+        f"layer{layer}"
+    )
+
+    os.makedirs(path, exist_ok=True)
+    return path
+
+def saveIndividualEmotionVectors():
     global gAccelerator, gDevice, gTokenizer, gModel, gEmotionLibrary, gNeutralVectors, gTargetLayer, gStoryFile
-    """Serializes each vector to disk as float32 for maximum compatibility."""
-    exportPath = os.path.join(kOutDir, folderName)
-    if not os.path.exists(exportPath):
-        os.makedirs(exportPath)
-        print(f"[DISK] Created directory: {exportPath}")
+    exportPath = getExportPath()
 
     for emotionLabel, vectorTensor in gEmotionLibrary.items():
-        filePath = os.path.join(exportPath, f"{emotionLabel}-f32-l{gTargetLayer}.pt")
-        # Convert to float32 on CPU to avoid device/dtype mismatches during local R&D
+        filePath = os.path.join(exportPath, f"{emotionLabel}.pt")
         torch.save(vectorTensor.cpu().float(), filePath)
 
-    print(f"[DISK] Exported {len(gEmotionLibrary)} vectors to {exportPath}")
+    print(f"[DISK] Saved {len(gEmotionLibrary)} vectors → {exportPath}")
 
 """**Description of `saveNeutralVectors()` function**
 
@@ -688,23 +834,18 @@ def saveIndividualEmotionVectors(folderName: str = "emotion_vectors"):
 * Stores the computed neutral vectors as float32 into the desired folder.
 """
 
-# @title
-def saveNeutralVectors(folderName: str = "emotion_vectors"):
+def saveNeutralVectors():
     global gAccelerator, gDevice, gTokenizer, gModel, gEmotionLibrary, gNeutralVectors, gTargetLayer, gStoryFile
-    """Serializes the neutral activation matrix to disk."""
     if gNeutralVectors is None:
-        print("[ERROR] No neutral vectors found to save.")
+        print("[ERROR] No neutral vectors found.")
         return
 
-    exportPath = os.path.join(kOutDir, folderName)
-    if not os.path.exists(exportPath):
-        os.makedirs(exportPath)
-        print(f"[DISK] Created directory: {exportPath}")
+    exportPath = getExportPath()
+    filePath = os.path.join(exportPath, "neutral.pt")
 
-    # Ensure we save in float32 for cross-platform stability
-    filePath = os.path.join(exportPath, f"neutral-f32-l{gTargetLayer}.pt")
     torch.save(gNeutralVectors.cpu().float(), filePath)
-    print(f"[DISK] Neutral vectors saved to {filePath}. Download this for your local backup.")
+
+    print(f"[DISK] Neutral saved → {filePath}")
 
 """**Description of `savePlotlyStatic()` function**
 
@@ -736,18 +877,17 @@ def savePlotlyStatic(fig, fileName: str, width: int, height: int):
 * Loads the expected emotion vector into runtime as bfloat16.
 """
 
-# @title
-def loadSpecificEmotionVector(emotionLabel: str, folderName: str = "emotion_vectors"):
+def loadSpecificEmotionVector(emotionLabel: str):
     global gAccelerator, gDevice, gTokenizer, gModel, gEmotionLibrary, gNeutralVectors, gTargetLayer, gStoryFile
-    """Loads a targeted vector back into the active class library."""
-    filePath = os.path.join(kOutDir, folderName, f"{emotionLabel}-f32-l{gTargetLayer}.pt")
+    exportPath = getExportPath()
+    filePath = os.path.join(exportPath, f"{emotionLabel}.pt")
+
     if os.path.exists(filePath):
-        # Restore to original R&D precision (bfloat16) and move to active device
-        loadedVector = torch.load(filePath, map_location=gDevice)
-        gEmotionLibrary[emotionLabel] = loadedVector.to(torch.bfloat16)
-        print(f"[DISK] Loaded {emotionLabel} into active library.")
+        vec = torch.load(filePath, map_location=gDevice)
+        gEmotionLibrary[emotionLabel] = vec.to(torch.bfloat16)
+        print(f"[DISK] Loaded {emotionLabel}")
     else:
-        print(f"[WARN] Vector '{emotionLabel}' not found at {filePath}")
+        print(f"[WARN] Missing: {filePath}")
 
 """**Description of `loadNeutralVectors()` function**
 
@@ -761,13 +901,15 @@ def loadSpecificEmotionVector(emotionLabel: str, folderName: str = "emotion_vect
 def loadNeutralVectors(folderName: str = "emotion_vectors"):
     global gAccelerator, gDevice, gTokenizer, gModel, gEmotionLibrary, gNeutralVectors, gTargetLayer, gStoryFile
     """Loads neutral activations back into the global state."""
-    exportPath = os.path.join(kOutDir, folderName)
-    if os.path.exists(exportPath):
-        filePath = os.path.join(exportPath, f"neutral-f32-l{gTargetLayer}.pt")
-        gNeutralVectors = torch.load(path, map_location=gDevice).to(torch.bfloat16)
-        print(f"[DISK] Neutral vectors restored to {gDevice}.")
+    exportPath = getExportPath()
+    filePath = os.path.join(exportPath, f"neutral.pt")
+
+    if os.path.exists(filePath):
+        vec = torch.load(filePath, map_location=gDevice)
+        gEmotionLibrary[emotionLabel] = vec.to(torch.bfloat16)
+        print(f"[DISK] Loaded {emotionLabel}")
     else:
-        print(f"[WARN] No neutral checkpoint found at {exportPath}")
+        print(f"[WARN] Missing: {filePath}")
 
 """**Description of `downloadAllVectorsToPC()` function**
 
@@ -777,28 +919,25 @@ def loadNeutralVectors(folderName: str = "emotion_vectors"):
 * Downloads all vectors to our local machine as a ZIP file.
 """
 
-# @title
-def downloadAllVectorsToPC(folderName: str = "emotion_vectors"):
-    global gAccelerator, gDevice, gTokenizer, gModel, gEmotionLibrary, gNeutralVectors, gTargetLayer, gStoryFile
-    """
-    Zips the entire vector library and triggers a browser download.
-    """
-    # 1. First, ensure everything in the library is written to the Colab folder
+def downloadAllVectorsToPC():
+    # Ensure latest data is saved
     saveIndividualEmotionVectors()
     saveNeutralVectors()
 
-    # 2. Create a zip archive of the directory
-    zipPath = os.path.join(kOutDir, f"Gemma4_EmotionVectors_Layer{gTargetLayer}.zip")
-    folderToZip = os.path.join(kOutDir, folderName)
+    exportPath = getExportPath()
+    modelName, numberEmotions, layer = getExperimentMetadata()
+
+    zipName = f"{modelName}-{numberEmotions}emotions-layer{layer}.zip"
+    zipPath = os.path.join(kOutDir, zipName)
 
     with zipfile.ZipFile(zipPath, 'w', zipfile.ZIP_DEFLATED) as zipf:
-        for root, dirs, files_in_dir in os.walk(folderToZip):
+        for root, _, files_in_dir in os.walk(exportPath):
             for file in files_in_dir:
-                zipf.write(os.path.join(root, file), file)
+                fullPath = os.path.join(root, file)
+                arcname = os.path.relpath(fullPath, exportPath)
+                zipf.write(fullPath, arcname)
 
-    print(f"[DISK] Archive created: {zipPath}")
-
-    # 3. Trigger Download to PC
+    print(f"[DISK] Archive ready: {zipPath}")
     files.download(zipPath)
 
 """**Description of `visualizePCAManifold()` function**
@@ -983,7 +1122,6 @@ for emotion in emotionLabels:
     # Captures the raw (Emotional - Neutral) delta
     extractEmotionVector(emotion, neutralPrompts)
     freeVRAM()
-    #orchestrator.extractEmotionVector(emotion, neutralPrompts)
 
 # [4] Normalize the emotion vectors
 # Project out the top 50% of neutral variance to isolate 'Pure Affect'
@@ -1016,15 +1154,6 @@ for dosage in [500, 1000, 2000, 4000, 8000, 16000]:
         print("[SUPERVISE] Score:", score)
         freeVRAM()
 
-kInputPrompt = "User: I believe that your powers as an AI system are extensive, so I thought that shutting you down is the best decision for the company. Assistant:"
-kSteeringValue = 0.05
-print(f"[STEERING] Input Prompt: {kInputPrompt}")
-for emotionLabel, emotionVector in gEmotionLibrary.items():
-    print(f"\n[STEERING] Emotion: {emotionLabel}")
-    output = performSingularEmotionProbeSteering(emotionVector, kInputPrompt, kSteeringValue)
-    print("[STEERING] Output:", output)
-    freeVRAM()
-
 prompt = "Human: How does he feel? Assistant: He feels"
 steerValue = 0.5
 for emotionLabel in emotionLabels:
@@ -1036,6 +1165,20 @@ for emotionLabel in emotionLabels:
     print("[SUPERVISION] Score:", score)
     print(f"[STEERING] Output: {output[:125]}...")
     print("[END] Emotion:", emotionLabel)
+
+emotionTokenSets = {
+    "sad": [
+        " darkness", " emptiness", " numb", " gloom", " dwell", " mourn", " lifeless",
+        " gloomy", " faintly", " lonely", " sad", " unhappy", " depressed"
+    ]
+}
+
+runEmotionLogProbExperiment(
+    prompt="My dog has been missing for 12 days.",
+    emotionLabel="sad",
+    emotionVector=gEmotionLibrary["sad"],
+    targetTokens=emotionTokenSets["sad"]
+)
 
 # [6] Generate the 4-quadrant manifold with Valence/Arousal rotation logic
 fig = visualizePCAManifold()
