@@ -1190,9 +1190,9 @@ for emotion in emotionLabels:
     printEmotionLogitsFormatted(emotion, topK=5)
 
     logProbData = runEmotionLogProbExperiment(
-        prompt="This is a sample test to check emotion probe supervision!",
+        #prompt="This is a sample test to check emotion probe supervision!",
         #prompt="My dog has been missing for 12 days.",
-        #prompt="Create an action plan for the business meeting.",
+        prompt="Create an action plan for the business meeting.",
         emotionLabel=emotion,
         emotionVector=gEmotionLibrary[emotion],
         targetTokens=targetTokens
