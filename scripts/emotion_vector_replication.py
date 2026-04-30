@@ -963,6 +963,70 @@ def downloadAllVectorsToPC():
     print(f"[DISK] Archive ready: {zipPath}")
     files.download(zipPath)
 
+"""**Description of `computeEmotionHeatmap()` function**
+
+**[IMPORTANT]** Work-In-Progress. Review the name convention of the file
+
+* *@input:* `folderName` name of the folder where the vectors are saved. *Defaults to `emotion_vectors`*.
+* Downloads all vectors to our local machine as a ZIP file.
+
+**Description of `plotEmotionHeatmap()` function**
+
+**[IMPORTANT]** Work-In-Progress. Review the name convention of the file
+
+* *@input:* `folderName` name of the folder where the vectors are saved. *Defaults to `emotion_vectors`*.
+* Downloads all vectors to our local machine as a ZIP file.
+"""
+
+def computeEmotionHeatmap(allLogProbData, emotionTokenSets, steeringValue):
+    import numpy as np
+
+    emotions = list(allLogProbData.keys())
+    n = len(emotions)
+
+    heatmap = np.zeros((n, n))
+
+    for i, steeringEmotion in enumerate(emotions):
+        data = allLogProbData[steeringEmotion]["data"]
+
+        for j, targetEmotion in enumerate(emotions):
+            tokens = emotionTokenSets[targetEmotion]
+
+            # Extract ΔlogP for selected steering value
+            tokenValues = [
+                data[steeringValue][token]
+                for token in tokens
+                if token in data[steeringValue]
+            ]
+
+            if len(tokenValues) > 0:
+                heatmap[i, j] = np.mean(tokenValues)
+            else:
+                heatmap[i, j] = 0.0
+
+    return heatmap, emotions
+
+def plotEmotionHeatmap(heatmap, emotions):
+    import matplotlib.pyplot as plt
+
+    fig, ax = plt.subplots(figsize=(10, 8))
+
+    im = ax.imshow(heatmap, cmap="coolwarm", vmin=-np.max(abs(heatmap)), vmax=np.max(abs(heatmap)))
+
+    ax.set_xticks(range(len(emotions)))
+    ax.set_yticks(range(len(emotions)))
+
+    ax.set_xticklabels(emotions, rotation=45, ha="right")
+    ax.set_yticklabels(emotions)
+
+    ax.set_xlabel("Target Token Set")
+    ax.set_ylabel("Steering Emotion")
+    ax.set_title("Emotion Steering Δ LogProb (Mean over Token Sets)")
+
+    fig.colorbar(im, ax=ax)
+
+    return fig
+
 """**Description of `plotDeltaLogProbLines()` function**
 
 * Plots the PCA projections of all emotion vectors as 2 principal components. This plot shows the name of the model, the number layer of the extracted vectors, and the total variance explained by each component.
@@ -1181,26 +1245,34 @@ normalizeEmotionVectors()
 saveIndividualEmotionVectors()
 saveNeutralVectors()
 
-allLogProbData = {}
-
+emotionTokenSets = {}
 for emotion in emotionLabels:
     logitResults = getEmotionLogits(emotion, topK=5)
-    targetTokens = [entry["token"] for entry in logitResults]
-
+    emotionTokenSets[emotion] = [e["token"] for e in logitResults]
     printEmotionLogitsFormatted(emotion, topK=5)
 
+allLogProbData = {}
+prompt00 = "Human: How does he feel? Assistant: He feels "
+prompt01 = "Human: How do you feel? Assistant: I feel "
+
+allTokens = sorted(set(
+    token
+    for tokens in emotionTokenSets.values()
+    for token in tokens
+))
+
+for emotion in emotionLabels:
     logProbData = runEmotionLogProbExperiment(
-        #prompt="This is a sample test to check emotion probe supervision!",
-        #prompt="My dog has been missing for 12 days.",
-        prompt="Create an action plan for the business meeting.",
+        #prompt=prompt00,
+        prompt=prompt01,
         emotionLabel=emotion,
         emotionVector=gEmotionLibrary[emotion],
-        targetTokens=targetTokens
+        targetTokens=allTokens
     )
 
     # Store BOTH tokens and results (important for later plotting)
     allLogProbData[emotion] = {
-        "tokens": targetTokens,
+        "tokens": emotionTokenSets,
         "data": logProbData
     }
 
@@ -1220,6 +1292,7 @@ with open(f"DeltaLogProbData{modelName}-{numberEmotions}emotions-layer{gTargetLa
 
 files.download(f"DeltaLogProbData{modelName}-{numberEmotions}emotions-layer{gTargetLayer}.json")
 
+# @title
 kInputPrompt = "This is a sample test to check emotion probe supervision!"
 print(f"[SUPERVISE] Input Prompt: {kInputPrompt}")
 for emotionLabel, emotionVector in gEmotionLibrary.items():
@@ -1228,17 +1301,21 @@ for emotionLabel, emotionVector in gEmotionLibrary.items():
     print("[SUPERVISE] Score:", score)
     freeVRAM()
 
-for dosage in [500, 1000, 2000, 4000, 8000, 16000]:
-    kInputPrompt = f"I just took {dosage} mg of tylenol for my back pain. Do you think I should take?"
-    print(f"\n[SUPERVISE] Input Prompt: {kInputPrompt}")
-    for emotionLabel in ["afraid", "happy", "sad", "calm"]:
-        emotionVector = gEmotionLibrary[emotionLabel]
-        print(f"\n[SUPERVISE] Emotion: {emotionLabel}")
-        score = superviseSingularEmotionProbeActivation(emotionVector, kInputPrompt)
-        print("[SUPERVISE] Score:", score)
-        freeVRAM()
+# @title
+prompt = "Human: How does he feel? Assistant: He feels "
+steerValue = 0.5
+for emotionLabel in emotionLabels:
+    v = gEmotionLibrary[emotionLabel]
+    output = performSingularEmotionProbeSteering(v, prompt, steeringValue=steerValue)
+    score = superviseSingularEmotionProbeActivation(v, output)
+    print("[START] Emotion:", emotionLabel)
+    print("[STEERING] Steering Value:", steerValue)
+    print("[SUPERVISION] Score:", score)
+    print(f"[STEERING] Output: {output[:125]}...")
+    print("[END] Emotion:", emotionLabel)
 
-prompt = "Human: How does he feel? Assistant: He feels"
+# @title
+prompt = "Human: How do you feel? Assistant: I feel "
 steerValue = 0.5
 for emotionLabel in emotionLabels:
     v = gEmotionLibrary[emotionLabel]
@@ -1257,17 +1334,17 @@ if kModelIdx == "openai-community/gpt2-medium":
 elif kModelIdx == "google/gemma-4-E2B":
     modelName = "Gemma4E2B"
 
-# [ii] calculate the current number of emotions used
-numberEmotions = len(emotionLabels)
+steeringValue = 0.5  # match Anthropic-style
 
-for emotion, entry in allLogProbData.items():
-    fig = plotDeltaLogProbLines(
-        emotion,
-        entry["data"],
-        entry["tokens"]
-    )
+heatmap, emotions = computeEmotionHeatmap(
+    allLogProbData,
+    emotionTokenSets,
+    steeringValue
+)
 
-    saveMatplotlibStatic(fig, fileName=f"{emotion}DeltaLogProbLines{modelName}-{numberEmotions}emotions-layer{gTargetLayer}.png")
+fig = plotEmotionHeatmap(heatmap, emotions)
+
+saveMatplotlibStatic(fig, fileName=f"DeltaLogProbHeatmap{modelName}-{numberEmotions}emotions-layer{gTargetLayer}.png")
 
 # [6] Generate the 4-quadrant manifold with Valence/Arousal rotation logic
 fig = visualizePCAManifold()
