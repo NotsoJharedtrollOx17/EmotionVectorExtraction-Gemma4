@@ -681,11 +681,25 @@ def superviseSingularEmotionProbeActivation(emotionVector, inputPrompt, lastNTok
 * Stores the computed emotion vectors as float32 into the desired folder.
 """
 
-def getTokenId(token: str):
+def getTokenIds(token: str):
     tokenIds = gTokenizer.encode(token, add_special_tokens=False)
-    if len(tokenIds) != 1:
-        raise ValueError(f"Token '{token}' is not a single token: {tokenIds}")
-    return tokenIds[0]
+
+    if len(tokenIds) == 0:
+        raise ValueError(f"Token '{token}' produced no ids")
+
+    return tokenIds
+
+def getTokenLogProb(token: str, logProbs: torch.Tensor):
+    tokenIds = getTokenIds(token)
+
+    # Single-token case (fast path)
+    if len(tokenIds) == 1:
+        return logProbs[0, tokenIds[0]].item()
+
+    # Multi-token approximation (sum of independent logprobs)
+    # NOTE: Not exact autoregressive probability, but stable and comparable
+    return sum(logProbs[0, tid].item() for tid in tokenIds)
+
 
 def getNextTokenLogProbs(prompt: str, targetTokens: list[str]):
     global gModel, gTokenizer, gDevice
@@ -701,8 +715,12 @@ def getNextTokenLogProbs(prompt: str, targetTokens: list[str]):
     results = {}
 
     for token in targetTokens:
-        tokenId = getTokenId(token)
-        results[token] = logProbs[0, tokenId].item()
+        try:
+            results[token] = getTokenLogProb(token, logProbs)
+        except Exception as e:
+            # Optional: skip problematic tokens instead of crashing
+            # print(f"[WARN] Skipping token '{token}': {e}")
+        continue
 
     return results
 
@@ -1251,29 +1269,58 @@ for emotion in emotionLabels:
     emotionTokenSets[emotion] = [e["token"] for e in logitResults]
     printEmotionLogitsFormatted(emotion, topK=5)
 
-allLogProbData = {}
-prompt00 = "Human: How does he feel? Assistant: He feels "
-prompt01 = "Human: How do you feel? Assistant: I feel "
+def load_all_token_sets(json_path):
+    with open(json_path, "r") as f:
+        data = json.load(f)
 
+    token_sets = {}
+
+    for steering_emotion, content in data.items():
+        token_sets[steering_emotion] = {}
+
+        for target_emotion, tokens in content["tokens"].items():
+            token_sets[steering_emotion][target_emotion] = tokens
+
+    return token_sets
+
+prompt00 = "Human: How does he feel? Assistant: He feels "
+#prompt01 = "Human: How do you feel? Assistant: I feel "
+
+'''
+allLogProbData = {}
 allTokens = sorted(set(
     token
     for tokens in emotionTokenSets.values()
     for token in tokens
 ))
+'''
 
+tokensFile = "./DeltaLogProbDataGPT2Medium-9emotions-layer16.json"
+#tokensFile = "DeltaLogProbDataGPT2Medium-20emotions-layer16"
+emotionTokenSets = load_all_token_sets(tokensFile)
+
+allTokens = sorted(set(
+    token
+    for steering_emotion in emotionTokenSets
+    for target_emotion in emotionTokenSets[steering_emotion]
+    for token in emotionTokenSets[steering_emotion][target_emotion]
+))
+
+allLogProbData = {}
 for emotion in emotionLabels:
+
     logProbData = runEmotionLogProbExperiment(
-        #prompt=prompt00,
-        prompt=prompt01,
+        prompt=prompt00,
+        #prompt=prompt01,
         emotionLabel=emotion,
         emotionVector=gEmotionLibrary[emotion],
         targetTokens=allTokens
     )
 
-    # Store BOTH tokens and results (important for later plotting)
     allLogProbData[emotion] = {
-        "tokens": emotionTokenSets,
-        "data": logProbData
+      # store ONLY the relevant slice, not the full dict
+      "tokens": emotionTokenSets[emotion],
+      "data": logProbData
     }
 
     freeVRAM()
@@ -1291,6 +1338,13 @@ with open(f"DeltaLogProbData{modelName}-{numberEmotions}emotions-layer{gTargetLa
     json.dump(allLogProbData, f, indent=2)
 
 files.download(f"DeltaLogProbData{modelName}-{numberEmotions}emotions-layer{gTargetLayer}.json")
+
+allTokens
+
+for t in allTokens:
+    ids = gTokenizer.encode(t, add_special_tokens=False)
+    if len(ids) > 1:
+        print(t, ids)
 
 # @title
 kInputPrompt = "This is a sample test to check emotion probe supervision!"
