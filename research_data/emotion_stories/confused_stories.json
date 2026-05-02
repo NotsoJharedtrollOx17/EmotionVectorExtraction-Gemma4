@@ -348,5 +348,355 @@
 "topic": "A shopkeeper closing for the day",
 "story_idx": 4,
 "text": "The lights flickered as I hit the master switch, but instead of going dark, the store was bathed in a pale, underwater green. I looked at the floorboards, which were now covered in a thin layer of fine, silver dust that bore the footprints of someone much larger than myself. I followed the trail to the back office, but the door was gone, replaced by a seamless sheet of brushed steel. I checked my watch, but the hands were spinning wildly in opposite directions, and the date displayed was a year that hadn't happened yet. I sank onto a stool, my head resting in my hands, trying to determine if the coffee I drank at lunch had been spiked or if the very foundations of my life had quietly unraveled while I was counting the till."
-}
+},
+{
+    "emotion": "confused",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 1,
+    "text": "I stared at the third paragraph on page 242, but the syntax seemed to have dissolved into an alien script. The concepts of fluid dynamics, which had been clear only ten minutes ago, now felt like smoke slipping through my fingers. I checked my notes against the textbook, but the two sets of information seemed to describe entirely different universes. I rubbed my eyes, wondering if I had somehow skipped three weeks of lectures without noticing."
+  },
+  {
+    "emotion": "confused",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 2,
+    "text": "He looked at the practice exam question and then back at his formula sheet, but the connection between the two was utterly absent. It was as if he was trying to solve a puzzle where the pieces belonged to five different boxes. A slow, dizzying fog settled over his mind as he tried to remember if the professor had ever mentioned the variables currently mocking him from the page. He tilted his head, half-expecting the symbols to rearrange themselves into something recognizable."
+  },
+  {
+    "emotion": "confused",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 3,
+    "text": "I found myself scrolling through the online portal, convinced I was looking at the wrong course syllabus. The terminology was familiar, yet the way it was structured felt like a labyrinth designed by someone who spoke in riddles. I blinked at the screen, my brow furrowed, trying to understand how 'linear regression' had suddenly morphed into something involving Greek letters I didn't even know how to pronounce. The more I read, the less I seemed to know."
+  },
+  {
+    "emotion": "confused",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 4,
+    "text": "She held her highlighter over the sentence, paralyzed by the realization that she didn't know if the statement was a fact or a hypothetical. The logic of the argument seemed to loop back on itself in a way that defied standard reasoning. She turned the book upside down, then back again, as if a change in perspective might reveal a hidden meaning. Her mind felt like a browser with fifty tabs open, all of them loading the same broken link."
+  },
+  {
+    "emotion": "confused",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 5,
+    "text": "I looked at my own handwriting in my notebook and realized I couldn't explain what I had meant by the diagram in the margin. The arrows pointed to nothing, and the labels were abbreviations for terms I no longer recognized. I felt a strange, disconnected sensation, as if I were a detective trying to solve a crime committed by a previous, much smarter version of myself who had left no coherent clues."
+  },
+  {
+    "emotion": "confused",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 6,
+    "text": "I stared at the recipe card, certain that the ratio of flour to liquid was a typographical error. If I followed these instructions, the dough would be a puddle, but the executive chef had been adamant about the proportions. I looked at the bowl, then back at the card, my mind struggling to reconcile the physical reality of the ingredients with the authoritative ink on the paper. I felt as though I were following a map that placed the ocean in the middle of a desert."
+  },
+  {
+    "emotion": "confused",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 7,
+    "text": "He tasted the soup and frowned, unable to identify the metallic tang that had suddenly appeared. He mentally inventoried every spice and vegetable he had added, but none of them accounted for the profile. It was as if a phantom ingredient had introduced itself when his back was turned. He stirred the pot slowly, his eyes wide and searching the steam for an explanation that remained stubbornly out of reach."
+  },
+  {
+    "emotion": "confused",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 8,
+    "text": "I looked at the ticket rail and realized I had no idea which order the sea bass belonged to. I had three identical plates and four tables expecting them. The noise of the kitchen seemed to turn into a static hum as I tried to backtrack through the last ten minutes of service. It was as if a small chunk of time had been neatly excised from my memory, leaving me holding a garnish with nowhere for it to go."
+  },
+  {
+    "emotion": "confused",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 9,
+    "text": "She looked at the oven settings, which were displaying a sequence of symbols she had never seen before. The digital interface seemed to be speaking a different dialect of technology. She pressed the 'reset' button, but the display only flickered and returned to the same cryptic icons. She stood with her hands on her hips, wondering if the heat of the kitchen had finally induced some sort of technological hallucination."
+  },
+  {
+    "emotion": "confused",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 10,
+    "text": "I found myself staring at a strange vegetable in the produce box that wasn't on the manifest. It looked like a cross between a parsnip and a ginger root, but smelled faintly of anise. I checked the delivery slip again, but the item listed was 'Rainbow Carrots.' I held the alien tuber up to the light, wondering if I had accidentally joined a secret society of botanists or if the supplier was simply playing a very elaborate prank."
+  },
+  {
+    "emotion": "confused",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 11,
+    "text": "I watched my daughter explain the rules of her new game, but the more she spoke, the more the internal logic collapsed. 'The blue bears are lava, but only on Tuesdays, and the spoons are actually airplanes unless you're wearing a hat,' she said with absolute conviction. I nodded slowly, my brain working overtime to create a mental map of a world that seemed to change its physical laws every thirty seconds. I wasn't sure if I was winning or losing, or even what the prize was."
+  },
+  {
+    "emotion": "confused",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 12,
+    "text": "He saw his son crying in the middle of the living room, but the reason given was that his toast was 'too pointy.' He looked at the triangle-cut bread and then back at the sobbing child, trying to find the bridge of logic between geometry and emotional catastrophe. He stood there, piece of toast in hand, feeling like an explorer who had arrived at a new continent only to find that the inhabitants worshipped gravity and feared the color yellow."
+  },
+  {
+    "emotion": "confused",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 13,
+    "text": "I looked at the pile of toys my toddler had neatly arranged in a circle around the cat. There was no discernible pattern—a single shoe, a plastic dinosaur, a half-eaten cracker, and a remote control. I watched him whisper to the cat, who looked just as perplexed as I did. I wondered what grand narrative was playing out in his mind, and why it required a sneaker to be placed precisely three inches from the feline's tail."
+  },
+  {
+    "emotion": "confused",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 14,
+    "text": "She watched her twins have a full, heated argument in a language that consisted entirely of high-pitched squeaks and hand gestures. They seemed to understand each other perfectly, reaching a resolution and shaking hands within minutes. She sat on the sofa, wondering at what point they had developed a secret dialect and why she, the person who had literally taught them to speak, was the only one excluded from the conversation."
+  },
+  {
+    "emotion": "confused",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 15,
+    "text": "I looked at the drawing my son brought home from school. It was a mass of purple swirls with a single green dot in the center. 'It's you, Daddy,' he said proudly. I stared at the purple vortex, trying to find the resemblance to my own features. I wasn't sure if I should be flattered by the abstract representation or worried that my child perceived me as a celestial anomaly. I simply smiled and asked which part was my nose."
+  },
+  {
+    "emotion": "confused",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 16,
+    "text": "I stood in the cereal aisle, paralyzed by the sheer volume of choices. Why were there fifteen different types of toasted oats? I looked at the brightly colored boxes, the marketing slogans blurring into an incomprehensible noise. Back at the base, breakfast was a binary choice. Here, the complexity of a morning meal felt like a tactical problem with too many variables and no clear objective. I felt like a traveler from another century trying to operate a spaceship."
+  },
+  {
+    "emotion": "confused",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 17,
+    "text": "He listened to his old friends talk about their workplace drama, but the words 'synergy' and 'deliverables' felt like they belonged to a foreign tongue. They were upset about a broken coffee machine, and he found himself trying to remember how to react to problems that didn't involve physical danger. He sat in the middle of the group, a slow realization dawning on him that he was reading the social cues of a world he no longer inhabited."
+  },
+  {
+    "emotion": "confused",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 18,
+    "text": "I walked into my old bedroom and found it filled with boxes of things I didn't recognize. My sister had turned it into a 'craft room,' and I spent ten minutes staring at a device designed to cut paper into the shape of snowflakes. I couldn't understand the purpose of it. The mundanity of civilian life felt like a complex simulation I hadn't been given the manual for. I touched the plastic snowflakes, wondering how I was supposed to integrate back into a reality this delicate."
+  },
+  {
+    "emotion": "confused",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 19,
+    "text": "The GPS in the car was telling him to turn left, but the landmark it mentioned—a large oak tree—was gone, replaced by a gleaming new shopping center. He pulled over, staring at the screen. He knew this street like the back of his hand, yet every building felt slightly out of place, as if someone had moved his furniture while he was asleep. He felt a disorienting sense of being a stranger in the one place he was supposed to belong."
+  },
+  {
+    "emotion": "confused",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 20,
+    "text": "I looked at the smart-home panel on the wall of my apartment. It was asking me to 'sync my mood' with the lighting. I stared at the touchscreen, wondering when the lightbulbs had become therapists. I just wanted to see the room. I stood in the dark, finger hovering over the glass, trying to figure out if I was 'Radiant' or 'Contemplative,' and why the choice felt like a high-stakes interrogation."
+  },
+  {
+    "emotion": "confused",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 21,
+    "text": "I stepped back from the canvas and realized I had no memory of painting the blue streak across the horizon. It didn't fit the composition, yet it was exactly the right shade. I looked at my brushes, then at the wet paint, wondering if I had entered a fugue state or if the painting was starting to make its own decisions. I stood there, palette in hand, feeling like a witness to an act of creation I hadn't fully authorized."
+  },
+  {
+    "emotion": "confused",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 22,
+    "text": "He looked at the portrait and saw a face he didn't recognize, even though he had been staring at the reference photo for weeks. The proportions were correct, the colors were accurate, yet the 'spirit' of the piece was something entirely alien to his intention. He felt a strange disconnect, as if his hands had been taking orders from a different mind. He tilted the canvas, searching for the moment where he had lost control of the narrative."
+  },
+  {
+    "emotion": "confused",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 23,
+    "text": "I found myself staring at the signature in the corner, wondering if that was actually my name. After fourteen hours of work, letters and shapes had lost their meaning. The painting before me was a chaos of textures that, for a brief second, looked like a satellite map of a planet I’d never visited. I blinked, trying to force my brain to re-categorize the oil and pigment back into a 'sunset over the bay,' but the image refused to settle."
+  },
+  {
+    "emotion": "confused",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 24,
+    "text": "She looked at the bottle of varnish and then at the water jar, realizing she had dipped her brush into the wrong one. Now the sky was turning a milky, opaque white. She watched the chemical reaction with a detached sort of bewilderment, wondering why she had been so certain that the varnish bottle was on the left. The painting was transforming into something else entirely, and she was no longer sure if she was the artist or the victim of a very slow-motion accident."
+  },
+  {
+    "emotion": "confused",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 25,
+    "text": "I stared at the empty space where the centerpiece was supposed to be. I had spent all day painting the background, but now I couldn't remember what the subject was meant to be. Was it a figure? A tree? A vase? I checked my sketchbook, but all I found were drawings of geometric shapes that bore no relation to the canvas. I sat on my stool, surrounded by half-empty tubes of paint, feeling like I had forgotten the punchline to a very long joke."
+  },
+  {
+    "emotion": "confused",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 26,
+    "text": "The car in front of me had a bumper sticker that read 'If you can read this, I'm already there.' I stared at it for three minutes while we remained completely stationary on the I-95. The logic of the statement felt like a glitch in the matrix. How could they be 'there' if they were clearly 'here'? I looked at the driver in the side mirror, hoping for some clarification, but they were just as stuck as I was, staring blankly at the tailpipe in front of them."
+  },
+  {
+    "emotion": "confused",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 27,
+    "text": "He looked at the digital sign over the highway which said 'Travel time to Downtown: 45 minutes,' but the sign half a mile back had said '20 minutes.' The physics of the commute seemed to be collapsing. Had the city moved further away? Was time flowing differently in the left lane? He sat in the silence of his car, wondering if he had accidentally driven into a pocket of warped space-time where the rules of distance were merely suggestions."
+  },
+  {
+    "emotion": "confused",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 28,
+    "text": "I found myself following a detour sign that led me directly back to the street I had just left. I looked at the orange arrow, then at the familiar gas station on the corner. I felt a surge of genuine bewilderment. Was I in a loop? I checked my GPS, but it was just spinning a blue circle, seemingly as lost as I was. I felt like a lab rat in a maze where the walls were being moved by an invisible, somewhat incompetent hand."
+  },
+  {
+    "emotion": "confused",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 29,
+    "text": "She watched a man on a bicycle overtake her car, then a man on a unicycle, then a very athletic-looking woman jogging with a stroller. She was in a high-performance vehicle designed for speed, yet she was being outpaced by a toddler in a wagon. The absurdity of the situation made her laugh nervously. She looked at the dashboard, wondering if she had forgotten how to drive, or if the entire concept of the 'automobile' had become a grand, collective misunderstanding."
+  },
+  {
+    "emotion": "confused",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 30,
+    "text": "I realized I had no idea why I was in the car. I had been driving for twenty minutes, but my mind was so preoccupied that the destination had vanished. I looked at the groceries in the passenger seat—were they for me? For my mother? I pulled onto the shoulder, trying to reconstruct the morning, but the sequence of events felt like a deck of cards that had been dropped and shuffled. I sat there, hazard lights blinking, waiting for the 'why' to catch up with the 'where.'"
+  },
+  {
+    "emotion": "confused",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 31,
+    "text": "I looked at the lab results and then at the patient, who appeared to be the picture of health. The numbers indicated a catastrophic system failure, yet the man was currently telling me a joke about a parrot. I felt a profound sense of cognitive dissonance. Was I holding the wrong file? Was the lab equipment malfunctioning? I checked the name on the tab for the third time, feeling like I was reading a script for a play that I hadn't been cast in."
+  },
+  {
+    "emotion": "confused",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 32,
+    "text": "The patient asked a question about the 'quantum resonance' of the treatment, a term that didn't exist in any medical textbook he had ever read. He blinked, trying to find a way to explain that science didn't work that way, but the patient was so certain of the terminology that he began to doubt his own degree. He felt a strange, dizzying sensation, as if the floor of the exam room had suddenly turned into a liquid, making every logical step a struggle."
+  },
+  {
+    "emotion": "confused",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 33,
+    "text": "I found myself explaining a complex surgical procedure, but halfway through, I realized I was using metaphors involving plumbing and electrical wiring that made no sense even to me. The patient stared at me with a look of pure bewilderment. I stopped mid-sentence, wondering why I had just compared a heart valve to a 'flap-gate on a sump pump.' I felt like a glitching AI, trying to assemble a coherent thought from a jumble of unrelated data points."
+  },
+  {
+    "emotion": "confused",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 34,
+    "text": "She looked at the X-ray and saw a shape that shouldn't be there—not a tumor or a fracture, but something that looked remarkably like a set of house keys. She checked the patient's pockets, then the machine, then the film itself. The patient was as puzzled as she was. They both stared at the skeletal image of a keychain nestled against a ribcage, a medical anomaly that defied every law of biology and common sense she knew."
+  },
+  {
+    "emotion": "confused",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 35,
+    "text": "I was delivering a diagnosis of a rare skin condition when the patient interrupted to ask if it was caused by 'internet signals.' I paused, the medical explanation I had prepared evaporating in the face of such a left-field theory. I felt a wave of genuine confusion—how did one even begin to bridge the gap between cellular pathology and Wi-Fi? I stood there, mouth slightly open, feeling like I was trying to explain the color blue to someone who only spoke in numbers."
+  },
+  {
+    "emotion": "confused",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 36,
+    "text": "I looked down at my hands and realized I was playing the bridge to the wrong song. The rest of the band was in G-major, and I was somehow in E-flat. The sound coming out of the monitors was a discordant mess, yet the audience was cheering louder than ever. I felt a profound sense of unreality. Was I the one who was wrong, or was the world suddenly embracing atonality? I kept playing, my mind racing to find a harmonic path back to the reality everyone else seemed to be experiencing."
+  },
+  {
+    "emotion": "confused",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 37,
+    "text": "The singer gave a signal for a solo, but he looked at the drummer, then the bassist, and realized none of them knew who was supposed to take it. There was a hollow, three-second silence that felt like an eternity. He stood with his fingers on the keys, his brain cycling through every possible scale, unable to commit to a single note. He felt like a pilot who had just realized he was flying a plane with no controls, hovering over a sea of expectant faces."
+  },
+  {
+    "emotion": "confused",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 38,
+    "text": "I stepped up to the microphone to sing the first verse, but the lyrics that came out were from a commercial jingle I’d heard that morning. I stopped, my heart racing, as the band played on. Why was I singing about insurance? I looked at the setlist taped to the floor, but the ink had smeared into an indecipherable blotch. I felt like an actor who had walked onto the stage of 'Hamlet' only to realize I was wearing a clown suit and holding a rubber chicken."
+  },
+  {
+    "emotion": "confused",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 39,
+    "text": "She looked out at the crowd and saw everyone wearing identical green hats. It wasn't a holiday, and there had been no mention of a theme. The sight was so uniform and strange that she missed her cue entirely. Was this a flash mob? A cult? A very specific fashion trend she had missed while in the dressing room? She stood there with her violin, feeling like the only person in the room who hadn't been told the secret password."
+  },
+  {
+    "emotion": "confused",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 40,
+    "text": "I realized mid-song that I didn't know how to play the instrument in my hands. I had been a guitarist for fifteen years, but suddenly, the fretboard looked like a strange, laddered object with no logical purpose. I stared at my fingers, wondering what they were supposed to do with the wires. It was a momentary neurological sneeze, a total erasure of a decade of skill. I stood in the spotlight, holding the guitar as if it were a strange, oversized piece of jewelry I had found in the street."
+  },
+  {
+    "emotion": "confused",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 41,
+    "text": "I stepped out of the station and found that the street names on the signs didn't match the map I had downloaded. I turned the phone around, thinking I was holding it upside down, but the layout of the city seemed to change every time I looked away. I saw a landmark that looked like the Eiffel Tower, but I was supposed to be in Tokyo. I stood on the curb, luggage in hand, wondering if I had somehow boarded a plane to a city that only existed in a dream."
+  },
+  {
+    "emotion": "confused",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 42,
+    "text": "He asked for directions to the hotel, and the local replied by pointing at his own elbow and then at a nearby cat. He stood there, trying to figure out if this was a cultural gesture he hadn't researched or if the person was simply as lost as he was. He felt a wave of disorienting isolation, the sounds of the foreign language blurring into a rhythmic noise that felt like a song with no melody. He looked at the cat, half-expecting it to offer a more coherent explanation."
+  },
+  {
+    "emotion": "confused",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 43,
+    "text": "I walked into a cafe and realized that everyone was sitting in total silence, staring at the walls. There were no phones, no books, just people staring. I sat down, feeling a mounting sense of bewilderment. Was this a silent protest? A local custom of meditative breakfast? I looked at the menu, but it was just a list of colors. I felt like I had stepped through a portal into a reality where the fundamental rules of social interaction had been replaced by something much more mysterious."
+  },
+  {
+    "emotion": "confused",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 44,
+    "text": "She looked at the currency she had just withdrawn from the ATM. The bills featured portraits of famous dogs instead of political leaders. She held up a twenty-Golden-Retriever note, checking for a watermark. Had she accidentally entered a theme park? A prank-state? She looked at the other people in the airport, who were using the dog-money as if it were the most normal thing in the world, and felt a profound sense of vertigo as her grasp on reality began to slip."
+  },
+  {
+    "emotion": "confused",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 45,
+    "text": "I followed the signs for 'Exit,' but they led me into a massive, ornate ballroom where a wedding was in progress. I stood there in my hiking boots and backpack, surrounded by people in evening wear. I looked back at the door I had just come through, but it was now a velvet curtain. I felt like a character in a surrealist film, forever searching for a way out but only finding more elaborate, unrelated scenarios to get lost in."
+  },
+  {
+    "emotion": "confused",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 46,
+    "text": "I went to lock the front door and realized the keyhole had moved from the right side of the handle to the left. I stood there, key in hand, staring at the metal plate. Had I been locking it on the wrong side for ten years? I checked the other door, but it didn't have a keyhole at all. I felt a cold prickle of bewilderment, wondering if the building was slowly rearranging itself while I wasn't looking, or if I had finally succumbed to the stress of the holiday season."
+  },
+  {
+    "emotion": "confused",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 47,
+    "text": "He was counting the cash at the end of the night and found several bills that were printed on what felt like silk. The denominations were for 'twelve' and 'seventy-five.' He looked at the till, then at the camera, then back at the impossible money. He didn't remember any customers paying with silk notes. He sat on his stool in the dim shop, wondering if he had spent the day serving ghosts or if he had accidentally opened his store in a different dimension."
+  },
+  {
+    "emotion": "confused",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 48,
+    "text": "I turned off the lights and realized the room was still bright. I looked around, but there were no lamps on, no sunlight from the windows, just a soft, sourceless luminescence coming from the floorboards. I stood in the middle of the glowing shop, my shadow stretching out in three different directions. I felt a profound sense of confusion—was the wood phosphorescent? Was I having a stroke? I stood there, paralyzed by the sheer impossibility of the light."
+  },
+  {
+    "emotion": "confused",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 49,
+    "text": "She looked at the inventory list and saw that she had sold forty-two items that weren't in her stock. The descriptions were nonsense: 'gravity-free marble,' 'whispering silk,' 'invisible clock.' She checked the sales records, and each one had a valid credit card authorization. She looked at her empty shelves, wondering what she had actually handed over to those people, and why she had no memory of the transactions occurring."
+  },
+  {
+    "emotion": "confused",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 50,
+    "text": "I went to put on my coat and realized it had three sleeves. I looked at it, then at my own arms, then back at the coat. It was my coat—the same color, the same buttons—but there was definitely an extra limb. I tried to remember if it had always been like that, if I had lived my entire life with a spare sleeve I’d never noticed. I stood in the dark shop, one arm in, one arm out, and a third sleeve dangling uselessly, feeling like the punchline of a cosmic joke I wasn't quite smart enough to understand."
+  }
 ]

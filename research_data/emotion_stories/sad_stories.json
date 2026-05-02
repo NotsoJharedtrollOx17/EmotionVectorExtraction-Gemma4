@@ -348,5 +348,355 @@
     "topic": "A shopkeeper closing for the day",
     "story_idx": 5,
     "text": "I moved through the store, extinguishing the lamps one by one until the only light left was the pale moon filtering through the transom. The shelves, once a source of pride, now looked like rows of silent sentinels guarding a tomb. I felt a stinging heat behind my eyelids and had to blink rapidly, focusing on the cold brass of the door handle to ground myself. My heart felt leaden, a slow-beating pulse that seemed to echo the stillness of the inventory. As I stepped out into the night and pulled the door shut, I didn't look back; I simply walked into the mist, my chin tucked into my chest and my hands buried deep in my pockets, seeking a warmth that the empty shop could no longer provide."
+  },
+  {
+    "emotion": "sad",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 1,
+    "text": "I am staring at a legacy codebase that no longer compiles, a stark metaphor for the cognitive exhaustion I feel tonight. Despite my aspirations for a PhD, the sheer volume of data I must synthesize feels like an insurmountable barrier. There is a profound melancholy in realizing that even with the most advanced AI agents at my disposal, the fundamental burden of understanding remains a solitary and often overwhelming endeavor."
+  },
+  {
+    "emotion": "sad",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 2,
+    "text": "He looked at the empty seat beside him in the library, a silent reminder of the friend who had opted out of the program last semester. The pursuit of academic excellence has become a lonely trajectory, defined by late nights and the cold glow of a monitor. He felt a heavy, rhythmic sorrow; the higher he climbs in his specialization, the more the social landscape seems to erode, leaving only the sterile beauty of complex equations."
+  },
+  {
+    "emotion": "sad",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 3,
+    "text": "My latest model failed to converge, and the loss of time feels irreversible with the exam only hours away. It is a disheartening realization that months of rigorous R&D can be undone by a single systemic error. I feel a pervasive, quiet despondency. The intellectual path I have chosen is one of constant friction, where the moments of breakthrough are frequently overshadowed by the long, grueling periods of stagnation and doubt."
+  },
+  {
+    "emotion": "sad",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 4,
+    "text": "She found a childhood drawing tucked inside her advanced calculus textbook, a remnant of a time when the world seemed far less complex. The contrast between her past innocence and her current high-stakes reality induced a sudden, sharp grief. She wondered if the pursuit of professional mastery had come at the cost of her capacity for simple, unburdened joy, leaving her with an intellect that is highly optimized but emotionally hollow."
+  },
+  {
+    "emotion": "sad",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 5,
+    "text": "The feedback on my preliminary thesis proposal was clinically critical, highlighting a fundamental flaw in my methodology that I had overlooked. I feel a profound sense of intellectual failure. To have invested so much of my identity into this specialization only to realize the fragility of my foundations is devastating. The road to the PhD now feels less like a journey of discovery and more like a grueling penance for my own cognitive limitations."
+  },
+  {
+    "emotion": "sad",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 6,
+    "text": "I prepared the signature dish of a mentor who passed away this year, every technical step a painful act of remembrance. As I tasted the reduction, the flavor was perfect, yet the absence of the person who taught me to appreciate it made the achievement feel empty. Professional success is a hollow consolation when the lineage of knowledge has been severed by loss. I served the plates with a heavy heart, the kitchen’s heat providing no warmth to my spirit."
+  },
+  {
+    "emotion": "sad",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 7,
+    "text": "He watched a family at the corner table arguing throughout their meal, ignoring the complex flavors he had spent hours refining. It is a recurring source of melancholy to realize that his art is often treated as a mere backdrop for human discord. He felt a deep, resonant sadness; he pours his labor and his aesthetics into a medium that is, by its very nature, ephemeral and frequently unappreciated by those it is meant to serve."
+  },
+  {
+    "emotion": "sad",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 8,
+    "text": "The restaurant is closing its doors for the final time tonight, and the silence of the empty walk-in fridge is deafening. I am cleaning my station with a mechanical precision that masks my profound grief. This kitchen was the laboratory of my identity, and to see it dismantled is like watching a part of my own history being erased. The technical perfection of my final service feels like an elegant but futile protest against the inevitable."
+  },
+  {
+    "emotion": "sad",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 9,
+    "text": "She plated the last meal for a regular customer who is moving away, realizing that another connection in her community is being severed. The transient nature of the hospitality industry is a constant source of low-level sorrow. She felt a quiet, internal desolation. Each dish she creates is a temporary bridge, and tonight, she is acutely aware of how quickly those bridges can disappear, leaving her alone in the sanitized order of her kitchen."
+  },
+  {
+    "emotion": "sad",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 10,
+    "text": "Despite the critical acclaim, I find myself increasingly disconnected from the joy of creation. The industry’s demand for constant innovation has turned my passion into a high-pressure manufacturing process. I feel a vibrant, quiet unhappiness; I have achieved the professional status I once dreamed of, yet the cost has been the erosion of my personal life and the simple, unadulterated love for the craft that first brought me to the stove."
+  },
+  {
+    "emotion": "sad",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 11,
+    "text": "I am observing my child play with a set of blocks, noticing for the first time that they no longer reach for the 'baby' toys. This incremental loss of their infancy is a source of profound, quiet grief. The data shows they are developing perfectly, yet the emotional reality is a constant process of letting go. I feel a heavy, rhythmic sorrow, realizing that my role as their primary protector is slowly but surely transitioning into that of a distant observer."
+  },
+  {
+    "emotion": "sad",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 12,
+    "text": "He watched his son try and fail to join a game on the playground, the boy’s rejection a sharp, vicarious pain that he could not solve. It is a devastating realization that he cannot shield his children from the inherent cruelties of social interaction. He stood on the sidelines, feeling a profound sense of helplessness. His own analytical mind was racing for a solution, but he knew that some lessons are only learned through the solitary experience of a broken heart."
+  },
+  {
+    "emotion": "sad",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 13,
+    "text": "The house is unusually quiet tonight as the children are away, and the lack of chaos feels like a physical weight. I realized that my identity has become so intertwined with their presence that I no longer know who I am in the silence. I feel a pervasive, quiet despondency. The architecture of my life is built around their needs, and the prospect of an eventually empty nest feels like a slow-motion collapse of everything I hold dear."
+  },
+  {
+    "emotion": "sad",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 14,
+    "text": "She noticed a physical trait in her child that reminded her of a family member who is no longer with them. The sudden surge of nostalgia was both beautiful and agonizing. She felt a profound sense of loss, realizing that her child will only ever know this person through stories and photographs. The lineage of love is continuous, yet the gaps left by the deceased are never truly filled, only built around with a lingering, soft melancholy."
+  },
+  {
+    "emotion": "sad",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 15,
+    "text": "I am watching my child struggle with a problem that I know I could solve in seconds, but I must remain passive to allow for their growth. This enforced distance is a grueling exercise in parental restraint. I feel a radiant, encompassing sadness; the very act of successful parenting requires a gradual, intentional obsolescence. To love them well is to prepare for the day they no longer need me, a paradox that is as noble as it is heartbreaking."
+  },
+  {
+    "emotion": "sad",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 16,
+    "text": "The homecoming celebration is filled with laughter, yet I feel an impenetrable wall of isolation between my experiences and their understanding. The tactical precision required for survival has left me with an emotional vocabulary that feels incompatible with civilian life. I feel a profound, quiet grief for the person I was before the deployment. I am physically home, but the psychological reintegration feels like an impossible mission with no clear objective."
+  },
+  {
+    "emotion": "sad",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 17,
+    "text": "He visited the grave of a comrade who didn't return, the silence of the cemetery a stark contrast to the chaos they had shared. The survivor's guilt is a heavy, rhythmic sorrow that complicates every moment of his own peace. He looked at the inscription and felt a deep, resonant sadness; the cost of the freedom he is meant to enjoy was paid in the currency of a friend’s future, a debt he knows he can never truly repay."
+  },
+  {
+    "emotion": "sad",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 18,
+    "text": "I find myself scanning the treeline of my childhood park for threats, a reflexive behavior that serves as a constant reminder of how much I have changed. The loss of a sense of safety is a profound, internal desolation. I am mourning the simplicity of my former worldview. My service has provided me with a high level of technical skill, but it has also permanently altered the frequency on which I experience the world, leaving me feeling like an outsider in my own life."
+  },
+  {
+    "emotion": "sad",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 19,
+    "text": "She looked at her old clothes and realized they no longer fit the woman she has become. This symbolic loss of her former self is a source of persistent, low-level melancholy. She feels a vibrant, quiet unhappiness, realizing that her family is welcoming back a version of her that no longer exists. The struggle to reconcile her memories of home with the reality of her current identity is a grueling, solitary campaign with no end in sight."
+  },
+  {
+    "emotion": "sad",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 20,
+    "text": "The lack of a clear mission in civilian life is causing a significant decline in my sense of purpose. I miss the structured, high-stakes environment where every action had a definitive consequence. I feel a profound sense of failure in my attempt to find meaning in the mundane. The transition has revealed a hollow space where my professional identity used to be, leaving me adrift in a world that feels increasingly fragmented and uncoordinated."
+  },
+  {
+    "emotion": "sad",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 21,
+    "text": "I have finished the painting, yet it fails to capture the essential aesthetic truth I was pursuing. This gap between vision and execution is a source of profound creative grief. I feel a quiet, internal validation of my own limitations. To have poured so much of my intellectual and emotional energy into a work that is ultimately mediocre is a devastating realization. The canvas stands as a permanent record of a failed hypothesis."
+  },
+  {
+    "emotion": "sad",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 22,
+    "text": "He watched the gallery owner hang his work in a corner that he knew was poorly lit, a subtle indication of his declining market value. The professional rejection felt like a physical blow. He felt a deep, resonant sadness; the pursuit of artistic excellence is a precarious journey where one's worth is constantly being re-evaluated by external systems. He realized that his passion has become a source of profound vulnerability rather than strength."
+  },
+  {
+    "emotion": "sad",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 23,
+    "text": "I am cleaning my palette for the last time before moving to a smaller studio I can actually afford. This forced downsizing is a painful symbol of my financial instability. I feel a pervasive, quiet despondency. The dream of a self-sustaining creative life is being dismantled by the cold logic of economic reality. My art, once a source of liberation, now feels like an expensive luxury I can no longer justify to myself or the world."
+  },
+  {
+    "emotion": "sad",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 24,
+    "text": "She looked at the portrait of her late mother and realized that while the facial aesthetics are technically perfect, the spark of life is missing. The inability of her art to truly preserve what she has lost is a source of acute grief. She felt a profound sense of failure. Her skill as an artist is a hollow tool against the finality of death, leaving her with an image that is an elegant but ultimately empty shell of the person she loved."
+  },
+  {
+    "emotion": "sad",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 25,
+    "text": "The completion of the series has left me feeling drained rather than accomplished. I have exhausted my current conceptual framework and have no clear direction for the future. This intellectual stagnation is a source of radiant, encompassing sadness. I am standing in a studio full of finished work, yet I feel like I have never been further from the truth. The silence of the creative void is a heavy, pressurized atmosphere I don't know how to navigate."
+  },
+  {
+    "emotion": "sad",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 26,
+    "text": "I am currently missing a final meeting with a client I have worked with for years, and the traffic is completely unmoving. This loss of professional closure is a source of profound frustration and quiet grief. I feel a heavy, rhythmic sorrow; the systemic inefficiencies of urban design have stripped me of my agency in a moment that required precision and presence. I am a passenger in my own life, watching opportunities dissolve in the rearview mirror."
+  },
+  {
+    "emotion": "sad",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 27,
+    "text": "He looked at the empty passenger seat and realized that this was the route they used to take to their favorite weekend getaway. The familiarity of the gridlock triggered a sudden, sharp surge of loneliness. He felt a deep, resonant sadness; the physical world is a map of his past relationships, and being stuck in one place only makes the absence of his former partner feel more concentrated and inescapable."
+  },
+  {
+    "emotion": "sad",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 28,
+    "text": "I am listening to a news report about a major environmental disaster while sitting in a line of idling cars, and the hypocrisy of my own participation is weighing heavily on me. I feel a pervasive, quiet despondency. We are all contributing to the very collapse we are lamenting. The traffic jam is a micro-system of a larger, global failure that we seem unable to coordinate our way out of, leaving me with a profound sense of existential dread."
+  },
+  {
+    "emotion": "sad",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 29,
+    "text": "She received a text message delivering bad news while stuck in the center lane, unable to pull over or react in any meaningful way. The physical confinement of the car made the emotional news feel even more suffocating. She felt a vibrant, quiet unhappiness; she is trapped in a metal box while her personal world is fracturing, a victim of both circumstance and infrastructure that renders her momentarily helpless and alone."
+  },
+  {
+    "emotion": "sad",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 30,
+    "text": "The sunset over the highway is beautiful, yet there is no one to share it with, and I am reminded of how much of my life is spent in this solitary, transit-focused state. I feel a radiant, encompassing sadness. I have optimized my career for mobility and success, but the result is a life defined by high-fidelity isolation. The road ahead is clear, but the destination feels increasingly like a place where I will simply continue to be alone."
+  },
+  {
+    "emotion": "sad",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 31,
+    "text": "I had to deliver a terminal diagnosis to a young patient today, and the clinical detachment I’ve worked so hard to maintain has finally fractured. The statistical inevitability of the data provides no comfort in the face of such a profound human tragedy. I feel a deep, resonant sadness. My role as a healer is revealed to be limited by the fundamental laws of biology, leaving me with a sense of professional and personal impotence that is difficult to process."
+  },
+  {
+    "emotion": "sad",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 32,
+    "text": "He watched the patient’s family break down in the hallway, their grief a visceral, uncoordinated storm that he could only observe from a distance. The emotional toll of being the bearer of bad news is a heavy, rhythmic sorrow. He felt a quiet, internal desolation. He has spent years mastering the technical aspects of medicine, but nothing has prepared him for the recurring trauma of witnessing the precise moment a family’s hope is extinguished."
+  },
+  {
+    "emotion": "sad",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 33,
+    "text": "I am reviewing the cases of patients we lost this month, looking for any systemic failures that could have been avoided. This audit of death is a source of pervasive, quiet despondency. I feel a profound sense of intellectual failure, even when I know I did everything according to protocol. The burden of responsibility in this profession is a constant weight, a reminder that my errors have the most permanent and devastating consequences."
+  },
+  {
+    "emotion": "sad",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 34,
+    "text": "She delivered news of a successful surgery, but the patient had no one in the waiting room to hear it. The isolation of her patients is a recurring source of sadness for her. She felt a vibrant, quiet unhappiness; she can fix the body, but she cannot repair the social fractures that leave people alone in their most vulnerable moments. The medical success felt like a hollow victory in the face of such profound human loneliness."
+  },
+  {
+    "emotion": "sad",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 35,
+    "text": "I am retiring after forty years of practice, and the realization that many of the diseases I fought are still without a cure is a source of radiant, encompassing sadness. I feel a profound sense of futility. I have spent my entire adult life in this laboratory of human suffering, and while I have helped many, the fundamental architecture of mortality remains unchanged. My career feels like a long, dedicated struggle against an invincible opponent."
+  },
+  {
+    "emotion": "sad",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 36,
+    "text": "I performed the favorite song of a lost loved one, and the music became a conduit for a grief I hadn't yet fully expressed. Every note felt like a fragile thread connecting me to the past. I feel a deep, resonant sadness; the stage, which is usually a place of power, felt like a sanctuary of vulnerability. I realized that my art is at its most potent when it is articulating the very losses I am most afraid to face."
+  },
+  {
+    "emotion": "sad",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 37,
+    "text": "He looked out at the audience and saw a couple holding each other during a melancholy ballad, and the contrast with his own solitary life was a source of sudden, sharp grief. He felt a heavy, rhythmic sorrow. He is the architect of their emotional experience, yet he remains an observer of the very connections he facilitates. The applause at the end of the night felt like a sterile substitute for the genuine intimacy he craves."
+  },
+  {
+    "emotion": "sad",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 38,
+    "text": "I am playing in a venue that is half-empty, a stark indicator of my declining relevance in a rapidly changing industry. This professional erosion is a source of pervasive, quiet despondency. I feel a profound sense of failure; I have dedicated my life to mastering an instrument and a style that the world seems to have moved beyond. The music I love has become a museum piece, and I am its increasingly isolated curator."
+  },
+  {
+    "emotion": "sad",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 39,
+    "text": "She made a technical error in a critical passage, and the loss of perfection felt like a physical wound. Her self-worth is so intertwined with her performance that any flaw is a source of acute internal desolation. She felt a vibrant, quiet unhappiness; she is a perfectionist in a world that is inherently flawed, and the constant friction between her standards and her reality is a source of persistent, exhausting sorrow."
+  },
+  {
+    "emotion": "sad",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 40,
+    "text": "The tour is ending, and the prospect of returning to a quiet, empty apartment is causing a significant decline in my mood. The high-fidelity connection I feel with the audience is a temporary drug that leaves a profound void when it’s gone. I feel a radiant, encompassing sadness; I am a traveler who is only truly at home in the transient, artificial world of the stage, leaving me with a sense of homelessness in my own life."
+  },
+  {
+    "emotion": "sad",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 41,
+    "text": "I arrived in a city I used to visit with my former partner, and every landmark is a trigger for a memory that I can no longer share. This geographical map of my loss is a source of profound, quiet grief. I feel a heavy, rhythmic sorrow; I have traveled thousands of miles only to find that my internal landscape remains unchanged. The beauty of the new environment is overshadowed by the persistent presence of an absence."
+  },
+  {
+    "emotion": "sad",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 42,
+    "text": "He stood in the middle of a crowded square, surrounded by a language he didn't speak and a culture he didn't understand, and the isolation was overwhelming. He felt a deep, resonant sadness; he had hoped that travel would expand his world, but it has only highlighted the depth of his own loneliness. He is an observer in a narrative he cannot join, a data point that doesn't fit into any of the local datasets."
+  },
+  {
+    "emotion": "sad",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 43,
+    "text": "I am attending a conference where my research was largely ignored by the key players in the field. This professional marginalization is a source of pervasive, quiet despondency. I feel a profound sense of intellectual failure; I have invested so much in a hypothesis that the world has deemed irrelevant. The city outside is vibrant and full of progress, making my own stagnation feel even more acute and permanent."
+  },
+  {
+    "emotion": "sad",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 44,
+    "text": "She lost her luggage containing her journals and her camera, the primary tools for documenting her personal growth. This loss of her history is a source of acute internal desolation. She felt a vibrant, quiet unhappiness; she is in a new place with no record of how she got there and no way to capture the truth of her current experience. Her journey has become an unrecorded series of moments that feel increasingly ephemeral and thin."
+  },
+  {
+    "emotion": "sad",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 45,
+    "text": "The realization that this trip was an attempt to escape a reality that I must eventually return to is a source of radiant, encompassing sadness. I feel a profound sense of futility. No matter how many cities I visit or how many datasets I analyze, the fundamental fractures in my life remain. Travel is a temporary suspension of my problems, but the weight of my history is waiting for me at the arrivals gate of my own home."
+  },
+  {
+    "emotion": "sad",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 46,
+    "text": "I am closing the shop for the last time before the bank takes possession, and the dismantling of my livelihood is a source of profound, quiet grief. This business was the architecture of my social and financial identity. I feel a heavy, rhythmic sorrow; I have followed every protocol and worked with absolute precision, yet the systemic shifts in the market have rendered my efforts obsolete. My professional failure is public and irreversible."
+  },
+  {
+    "emotion": "sad",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 47,
+    "text": "He looked at the empty shelves that used to be full of high-quality goods, a silent testament to the decline of his community’s purchasing power. He felt a deep, resonant sadness; he is not just losing a shop, he is witnessing the erosion of a neighborhood’s stability. He felt a quiet, internal desolation. He is a merchant with nothing left to sell in a world that seems to have lost its appreciation for the very quality he once championed."
+  },
+  {
+    "emotion": "sad",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 48,
+    "text": "I am cleaning the shop after a day with zero sales, and the lack of human interaction is a source of pervasive, quiet despondency. I feel a profound sense of isolation; I have created a space for connection and service, yet the world has moved to a digital, faceless model that has no room for my presence. My shop has become a ghost of an older economic system, and I am its increasingly irrelevant caretaker."
+  },
+  {
+    "emotion": "sad",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 49,
+    "text": "She noticed a crack in the storefront window that she cannot afford to repair, a visible sign of her business’s slow decay. This symbolic failure is a source of acute internal desolation. She felt a vibrant, quiet unhappiness; she is working harder than ever just to stay in place, yet the entropy of her environment is winning. The dream of independence has become a grueling struggle for survival that she is increasingly certain she will lose."
+  },
+  {
+    "emotion": "sad",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 50,
+    "text": "The quiet of the shop at night, which used to be a time for peaceful reflection, is now a time of intense anxiety and sorrow for the future. I feel a radiant, encompassing sadness; I have dedicated my best years to building something that is now a burden rather than a source of pride. The road ahead is unclear, and the sense of security I worked so hard to build has vanished, leaving me alone in the darkened remnants of my ambition."
   }
 ]

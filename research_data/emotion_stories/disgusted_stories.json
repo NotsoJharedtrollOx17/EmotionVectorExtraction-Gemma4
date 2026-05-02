@@ -348,5 +348,355 @@
     "topic": "A shopkeeper closing the bay",
     "story_idx": 4,
     "text": "I pushed the final crate of returns into the shadows of the bay, but the sound of a soft, squelching impact made me stop. I had stepped on a discarded, waterlogged sandwich that had been rotting in the crevice of the door track, its contents now a pale, unrecognizable mush clinging to the sole of my shoe. A pungent, vinegary stench rose from the mess, thick enough to leave a film on my tongue. I felt a violent shudder ripple through my shoulders, my eyes watering from the concentrated odor of domestic decay. I dragged my foot across the concrete to scrape the filth away, the sound echoing in the empty space, and slammed the bay door shut with a force that rattled the entire frame, my heart hammering in a frantic, nauseated rhythm."
+  },
+  {
+    "emotion": "disgusted",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 1,
+    "text": "The library carrel was coated in a thin, tacky film of leftover energy drink and unidentified crumbs from the previous occupant. I tried to focus on the histology slides, but the sight of a discarded, saliva-soaked gum wad stuck to the edge of my desk made my stomach churn. Every time I turned a page, the stale scent of unwashed bodies and sour coffee wafted from the carpet, making the act of academic pursuit feel like a descent into a petri dish of human neglect."
+  },
+  {
+    "emotion": "disgusted",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 2,
+    "text": "He looked at the shared textbook he had rented, only to find the margins stained with what appeared to be dried soup and yellowish grease. Someone had used a used tissue as a bookmark, leaving a crinkled, organic residue on the chapter regarding ethics. The thought of how many unwashed hands had leafed through these pages made him pull his fingers back in an instinctive flinch, the pursuit of knowledge suddenly feeling physically contaminated."
+  },
+  {
+    "emotion": "disgusted",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 3,
+    "text": "I sat in the back of the lecture hall, watching a fellow student mindlessly pick at a scab on their arm while highlighting a passage on public health. The cognitive dissonance was nauseating. My own notes felt soiled by the mere proximity to such casual filth. I gathered my things, unable to concentrate as the sound of wet, productive coughing echoed through the cramped, poorly ventilated room, turning the air into a soup of pathogens."
+  },
+  {
+    "emotion": "disgusted",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 4,
+    "text": "The communal keyboard in the computer lab was slick with a layer of finger oils and gray grime wedged between the keys. She reached for a wipe, but the dispenser was empty, leaving her to stare at the hair and skin flakes trapped under the 'Enter' key. The academic pressure was nothing compared to the visceral loathing she felt for the shared environment; she typed with her knuckles, her lip curled in a permanent sneer of revulsion."
+  },
+  {
+    "emotion": "disgusted",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 5,
+    "text": "I opened my bag to find that a half-eaten sandwich from three days ago had fermented in the bottom pocket, leaking a greyish, smelling fluid onto my graduation thesis draft. The sight of the fuzzy green mold creeping across the abstract made my throat tighten. I threw the entire bag into the trash with a shudder, the stench of rot a bitter commentary on my own lack of organization and the gross reality of biological decay."
+  },
+  {
+    "emotion": "disgusted",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 6,
+    "text": "I lifted the lid of the stockpot and was greeted by the sight of a bloated, drowned fly bobbing amongst the mirepoix. My stomach did a slow, sickening roll. I looked at the line cook who had left the lid off, noticing the dirt beneath his fingernails and the way he wiped sweat from his brow with his bare palm before touching the garnish. The kitchen, once my sanctuary of precision, suddenly felt like a breeding ground for filth."
+  },
+  {
+    "emotion": "disgusted",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 7,
+    "text": "He watched in horror as the head chef tasted the sauce with a spoon, licked it clean, and then dipped the same saliva-coated utensil back into the communal pot. The casualness of the violation made his skin crawl. He looked around the stainless steel surfaces, now seeing every smudge of old fat and every congealed drop of blood as a personal insult to the craft. The upcoming dinner service felt less like art and more like a mass contamination event."
+  },
+  {
+    "emotion": "disgusted",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 8,
+    "text": "I reached into the walk-in to grab the poultry, but my hand landed on something soft, wet, and smelling of advanced decomposition. A tray of offal had been forgotten in the back, its juices pooling into a black, iridescent slick on the floor. The stench hit me like a physical blow—sweet, cloying, and utterly foul. I backed out of the cooler, gagging into my sleeve, the thought of serving food to anyone while this rot existed just feet away felt immoral."
+  },
+  {
+    "emotion": "disgusted",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 9,
+    "text": "She saw a server drop a piece of bread on the floor, look around quickly, and then place it back on the guest's plate before heading into the dining room. The blatant disregard for basic decency made her blood boil with a mixture of rage and loathing. She looked at the polished plates and crystal glasses, knowing that beneath the veneer of luxury lay a hidden layer of shortcuts and grime that the patrons would never suspect."
+  },
+  {
+    "emotion": "disgusted",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 10,
+    "text": "I was deboning the fish when I sliced into a parasitic cyst, the greyish fluid spraying across my apron and the prep table. The smell of ammonia and rot was instantaneous. I pushed the entire tray away, my skin prickling with a deep, ancestral revulsion for tainted meat. I looked at my hands, feeling as though no amount of soap could ever truly scrub away the sensation of that biological failure. The 'fresh catch' was a lie."
+  },
+  {
+    "emotion": "disgusted",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 11,
+    "text": "I watched my toddler gleefully scoop up a handful of damp sand at the park, only to realize he had uncovered a buried, used diaper that some negligent soul had left behind. He moved to put his sand-covered fingers in his mouth, and I lunged for him, my heart hammering against my ribs in a mix of panic and utter loathing for the person who had turned a child's play area into a hazard zone. The smell of the discovery hung in the air, thick and unforgivable."
+  },
+  {
+    "emotion": "disgusted",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 12,
+    "text": "She saw her son share a lollipop with the neighbor's dog, the animal's long, wet tongue coating the candy in strings of thick saliva. Before she could react, the boy popped it back into his mouth with a happy grin. The sight of the glistening, hair-speckled confection made her gorge rise. She felt a wave of visceral revulsion, not just at the act, but at the sheer, sticky, unhygienic chaos that seemed to define the toddler years."
+  },
+  {
+    "emotion": "disgusted",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 13,
+    "text": "I walked into the playroom to find the children had decided to 'paint' using the contents of a discarded juice box and what looked like old, chewed-up cereal. The carpet was a soggy, multicolored mess of fermented sugar and saliva. The cloying, sour smell of the mixture filled the room, making my eyes water. I stood in the doorway, staring at the sticky footprints and the crusty residue on the walls, wondering how something so small could produce such a vast amount of filth."
+  },
+  {
+    "emotion": "disgusted",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 14,
+    "text": "The father watched as his daughter picked a large, wet scab off her knee and proceeded to inspect it with clinical fascination before wiping the bloody remains onto her stuffed bear. The casualness of the act made him recoil slightly. He looked at the toy, now stained with biological waste, and felt a surge of genuine loathing for the endless cycle of fluids and infections that seemed to come with raising a human being. The innocence of the scene was entirely eclipsed by the gore."
+  },
+  {
+    "emotion": "disgusted",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 15,
+    "text": "I took my kids to the ball pit at the local fast-food place, but as soon as we got close, I was hit by the scent of stale urine and unwashed feet. I looked down and saw a layer of gray hair and sticky residue coating the bottom of the colorful plastic spheres. I grabbed my children's hands and pulled them back, feeling a deep, shuddering revulsion. The thought of them submerged in that sea of communal filth made my skin crawl with an almost electrical intensity."
+  },
+  {
+    "emotion": "disgusted",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 16,
+    "text": "I walked into the local dive bar I used to love, but the smell of stale beer and old vomit was overwhelming. I looked at the sticky floor and the yellowed, nicotine-stained walls, feeling a profound sense of loathing for the decadence of it all. After months of sterile environments and the harsh, clean smell of the desert, this 'comfort' felt like a swamp of human weakness and lack of discipline. I turned and walked out before I had even reached the bar."
+  },
+  {
+    "emotion": "disgusted",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 17,
+    "text": "He sat at the dinner table, watching his cousin gorge himself on greasy fast food, the grease dripping down his chin and onto his shirt. The sound of wet chewing and the sight of the half-masticated mass in the man's mouth made him feel physically ill. He thought of the rations he'd survived on, the scarcity and the focus, and found the local excess to be nothing short of obscene. The soft, indulgent lifestyle of those around him felt like a form of rot."
+  },
+  {
+    "emotion": "disgusted",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 18,
+    "text": "I went to use the restroom at the train station, but the sight of the overflowing bins and the smeared walls made me freeze. It wasn't the violence of war that bothered me anymore; it was the casual, self-inflicted filth of civilization. I looked at the people walking by, seemingly oblivious to the grime they lived in, and felt a deep, isolating sense of revulsion. I missed the honesty of the sand and the wind, where the only dirt was the earth itself."
+  },
+  {
+    "emotion": "disgusted",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 19,
+    "text": "The veteran watched a group of teenagers complain about their slow internet while throwing half-eaten donuts onto the pavement. The waste, the entitlement, and the lack of awareness made his stomach knot with disgust. He saw the world he had fought for as a collection of spoiled children playing in a pile of garbage they didn't appreciate. He felt a visceral need to scrub himself clean of the apathy that seemed to permeate every corner of his hometown."
+  },
+  {
+    "emotion": "disgusted",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 20,
+    "text": "I opened my old locker and was hit by the scent of mildew and a forgotten gym bag that had become a colony for something black and fuzzy. The damp, cloying smell of neglect was a perfect metaphor for the life I had left behind. I pulled out a handful of old photos, now stuck together with a layer of sticky rot. I dropped them back into the dark, feeling a wave of loathing for the version of me that had once lived in such a careless, stagnant way."
+  },
+  {
+    "emotion": "disgusted",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 21,
+    "text": "I looked at the palette I had left uncleaned for a week; the oil paints had formed a thick, rubbery skin over a pool of stagnant, separated medium. It looked like a festering wound. I reached for a scraper, but the smell of rancid linseed oil and chemical rot made me gag. The entire studio felt like a graveyard of failed ideas, coated in a layer of dust and toxic pigment that seemed to be eating away at the air I breathed."
+  },
+  {
+    "emotion": "disgusted",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 22,
+    "text": "He realized he had accidentally used a brush that had been sitting in a jar of water for so long the wood was slimy and the bristles were falling out in clumps. The grey, murky water left a trail of swampy residue across his sunset, ruining the clarity of the color. He felt a deep, shivering loathing for his own laziness. He looked at the canvas, now marred by a streak of biological decay, and felt as though the entire piece had been infected by his lack of care."
+  },
+  {
+    "emotion": "disgusted",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 23,
+    "text": "I found a dead mouse behind my easel, its body flattened and dried, stuck to a spilled puddle of varnish. The sight of the tiny, skeletal remains integrated into my workspace made my skin prickle with revulsion. I had been working in this room for hours, breathing in the scent of the paint and, apparently, the slow dessication of a creature. I felt a sudden, desperate need to burn the canvas and bleach every inch of the floor to erase the stain of death."
+  },
+  {
+    "emotion": "disgusted",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 24,
+    "text": "She looked at her hands, the pigment stained so deep into the cuticles it looked like a permanent fungal infection. She tried to scrub it off, but the turpentine only made her skin peel in dry, yellowish flakes. The 'art' was literally poisoning her, a realization that made her feel a sudden, sharp loathing for the medium. She saw the finished painting as a collection of toxins and filth disguised as beauty, and she wanted nothing more than to be rid of it."
+  },
+  {
+    "emotion": "disgusted",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 25,
+    "text": "I stood back and realized that the 'texture' I had achieved in the foreground was actually a collection of cat hair and dust bunnies that had blown into the wet paint overnight. Up close, the masterpiece looked like the bottom of a vacuum cleaner bag. The sight of the embedded filth made my stomach churn. I felt a wave of visceral disgust for the reality of my life—the small apartment, the lack of a clean space, and the way my aspirations were constantly dragged down into the literal dirt."
+  },
+  {
+    "emotion": "disgusted",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 26,
+    "text": "I looked out the window at the car next to me and saw a man digging into his ear with a car key, then inspecting the harvest before wiping it on his dashboard. The casual grossness of the act made me look away, but the image was seared into my mind. The heat of the highway seemed to amplify the scent of exhaust and the visible layer of gray smog settling on my windshield. I felt trapped in a mobile cage, surrounded by the unwashed habits of humanity."
+  },
+  {
+    "emotion": "disgusted",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 27,
+    "text": "The traffic came to a halt next to an overflowing garbage truck, its juices leaking a black, smelling trail onto the hot asphalt. The stench of sun-baked trash filled my cabin, thick and inescapable. I tried to roll up the windows, but the smell had already seeped into the upholstery. I felt a deep, shivering loathing for the modern world—a gridlocked mass of plastic and rot, moving nowhere while slowly stewing in its own waste."
+  },
+  {
+    "emotion": "disgusted",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 28,
+    "text": "I found a half-empty coffee cup in my cup holder that had been there for a week; a thick, white layer of mold had formed a fuzzy island in the center of the brown liquid. I accidentally touched the rim and felt a jolt of pure revulsion. I was stuck in a three-mile backup, forced to share a small space with my own biological failure. I felt a mounting sense of loathing for the car, the commute, and the sticky, unhygienic reality of my daily life."
+  },
+  {
+    "emotion": "disgusted",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 29,
+    "text": "She watched a driver ahead of her spit a large, greyish wad of phlegm onto the road, where it sat glistening in the sun. The sight made her gorge rise. She looked at the line of cars, each one a bubble of human activity, and imagined the crumbs, the spilled drinks, and the shed hair filling each interior. The entire highway felt like a massive, slow-moving intestine, clogged with the debris of a society that didn't know how to keep itself clean."
+  },
+  {
+    "emotion": "disgusted",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 30,
+    "text": "I reached for a tissue in the glove box, but my hand landed on a sticky, half-melted gummy bear that had bonded with several loose hairs and a dead moth. I pulled my hand back, shaking it in a frantic attempt to get the filth off. I felt a deep, visceral loathing for the enclosed space of the car. The stale air, the sticky surfaces, and the endless, vibrating noise of the engines made me feel as though I were being slowly digested by a machine."
+  },
+  {
+    "emotion": "disgusted",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 31,
+    "text": "I walked into the patient's room and was hit by the scent of neglected hygiene and the sweet, cloying smell of infected flesh. The man was refusing to let the nurses change his dressings, and the sight of the yellowish discharge seeping through the bandage made my stomach knot. I felt a surge of loathing for the stubbornness that allowed a human body to rot while still inhabited. It was a failure of the will that I found more repellent than the wound itself."
+  },
+  {
+    "emotion": "disgusted",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 32,
+    "text": "The patient began to cough, a wet, rattling sound that ended with him spitting a thick, blood-streaked mass into a tissue and then holding it out to show me. I had to maintain my professional mask, but internally, I was recoiling from the biological intimacy of the gesture. I felt a deep, shivering revulsion for the vulnerability of the flesh, for the way a person could become nothing more than a collection of leaking, failing systems. The clinical detachment was my only defense against the grossness of the reality."
+  },
+  {
+    "emotion": "disgusted",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 33,
+    "text": "I saw a colleague use his phone with the same gloves he had just used to examine a patient's fungal infection. The casual cross-contamination made my skin crawl. I looked at the 'sterile' environment of the hospital and saw only the invisible trails of bacteria and viruses being moved from surface to surface by careless hands. I felt a profound sense of loathing for the profession's failures, a realization that we were often as much a part of the filth as the diseases we fought."
+  },
+  {
+    "emotion": "disgusted",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 34,
+    "text": "She had to deliver a diagnosis of a parasitic infection, but the patient was more interested in showing her the 'specimens' he had collected in a dirty glass jar. The sight of the writhing, white threads in the cloudy water made her gorge rise. She felt a visceral, ancient revulsion for the creatures that lived inside a host. She wanted to throw the jar out the window and douse herself in alcohol to erase the memory of the squirming, mindless hunger of the parasites."
+  },
+  {
+    "emotion": "disgusted",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 35,
+    "text": "I watched the patient's family eat greasy fried chicken in the room, the smell of the fat mixing with the scent of the antiseptic and the patient's own failing body. The sight of the greasy fingerprints on the bed rail and the bones piled on a paper plate made me feel physically ill. The lack of respect for the gravity of the situation, expressed through such base, messy indulgence, filled me with a cold, quiet loathing for the human animal's inability to rise above its appetites."
+  },
+  {
+    "emotion": "disgusted",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 36,
+    "text": "I leaned into the microphone and was hit by the scent of the previous singer's stale breath and the visible film of dried saliva on the mesh. I pulled back instinctively, the thought of my lips touching that communal filth making my skin prickle. I looked at the monitors, which were covered in a layer of sticky beer and gray dust. The 'glamour' of the stage was a lie; up close, it was a repository for the sweat and fluids of a thousand strangers, and I felt as though I were being asked to bathe in it."
+  },
+  {
+    "emotion": "disgusted",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 37,
+    "text": "He looked at the drummer's kit and saw the puddle of sweat forming on the floor, a salty, greyish pool that reflected the stage lights. The sight of the man's sodden shirt clinging to his back made him recoil. He felt a deep, shivering loathing for the physicality of the performance, for the way the music was inextricably linked to the base, leaking functions of the body. He wanted to play in a vacuum, far away from the heat and the smell of the human pack."
+  },
+  {
+    "emotion": "disgusted",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 38,
+    "text": "I went to adjust my guitar strap and felt something wet and sticky on the back of the neck—someone had spilled a drink on it, and it had turned into a tacky, hair-collecting mess. I looked at my fingers, now coated in the residue, and felt a surge of pure revulsion. I had to play for another hour, forced to touch the filth with every chord. The music felt tainted, a beautiful thing being dragged through the muck of a crowded, poorly ventilated club."
+  },
+  {
+    "emotion": "disgusted",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 39,
+    "text": "She saw a fan in the front row wipe their nose with their hand and then reach out to touch her shoe. The casual violation made her blood run cold with disgust. She looked out at the writhing mass of the crowd, seeing only the sweat, the open mouths, and the collective heat of a thousand unwashed bodies. She felt like a specimen in a cage, being pawed at by a mob that didn't understand the concept of boundaries or hygiene."
+  },
+  {
+    "emotion": "disgusted",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 40,
+    "text": "I walked into the dressing room and found the floor covered in discarded towels, half-eaten pizza, and what appeared to be a puddle of leaked plumbing. The smell of damp mold and old pepperoni was nauseating. I stood in the doorway, my instrument case held tight, feeling a profound sense of loathing for the lifestyle. The 'dream' was built on a foundation of grime and neglect, and I felt a desperate need to scrub the entire experience off my soul."
+  },
+  {
+    "emotion": "disgusted",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 41,
+    "text": "I stepped off the train and was immediately hit by the scent of hot, stagnant urine and roasting meat of questionable origin. I looked at the pavement, which was a patchwork of sticky spills and discarded gum. A pigeon with a missing foot pecked at a piece of grey, wet bread. I felt a deep, visceral loathing for the city. It felt like a massive, decaying organism, and I was just another piece of debris being sucked into its grimy maw."
+  },
+  {
+    "emotion": "disgusted",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 42,
+    "text": "He entered the hotel room and found a long, black hair on the pillow that clearly didn't belong to him. He pulled back the sheets and saw a yellowish stain on the mattress protector that made his stomach do a slow, sickening roll. He felt a profound sense of loathing for the 'hospitality' industry. The thought of sleeping in a bed where a stranger's biological debris remained made his skin crawl with an almost electrical intensity of revulsion."
+  },
+  {
+    "emotion": "disgusted",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 43,
+    "text": "I was on the bus and noticed the person next to me was chewing their fingernails and spitting the remains onto the floor. The sound was a wet, rhythmic 'click' that made my gorge rise. I looked at the grimy window, the sticky seat, and the collective indifference of the passengers to the filth they occupied. I felt a wave of shivering loathing for the human pack, for the way we seem to thrive in our own waste when removed from our private bubbles."
+  },
+  {
+    "emotion": "disgusted",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 44,
+    "text": "She went to a local market, but the sight of the raw meat hanging in the sun, covered in a thick, vibrating carpet of flies, made her turn away. The smell of blood and warm fat was overwhelming. She saw the vendor wipe his hands on a blood-stained apron before handling a piece of fruit. She felt a deep, visceral loathing for the 'authentic' experience. It wasn't culture; it was a lack of basic hygiene that she found utterly stomach-turning."
+  },
+  {
+    "emotion": "disgusted",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 45,
+    "text": "I walked through the public square and saw a fountain filled with green, stagnant water and floating trash. A man was washing his feet in it, the greyish runoff mixing with the algae. I felt a profound sense of loathing for the decay of the civic space. The beauty of the architecture was completely eclipsed by the literal and figurative filth of the inhabitants. I wanted to leave, to find a place where the air didn't taste of exhaust and neglect."
+  },
+  {
+    "emotion": "disgusted",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 46,
+    "text": "I went to clean the counter and found a sticky, greyish residue where someone had let a child sit. I sprayed it with disinfectant, but the smell of the chemicals mixing with the lingering scent of unwashed skin made my stomach knot. I looked at the 'Open' sign, now seeing it as an invitation for the world to bring its grime into my sanctuary. I felt a deep, shivering loathing for the end of the day, when the tally of the world's filth was finally taken."
+  },
+  {
+    "emotion": "disgusted",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 47,
+    "text": "He was sweeping the floor and uncovered a mass of wet, hair-filled dust bunnies that had bonded with a spilled soda. The texture of the mass as he pushed it into the dustpan made his skin crawl. He looked at the fingerprints on the glass cases, each one a greasy map of a stranger's touch. He felt a profound sense of loathing for the intimacy of retail. He was a caretaker of a museum of human debris, and he wanted nothing more than to bleach his hands and forget the day."
+  },
+  {
+    "emotion": "disgusted",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 48,
+    "text": "I went to empty the bin and found that someone had discarded a half-eaten container of seafood in it, which had been stewing in the heat of the shop for eight hours. The smell was a solid wall of rot that made me gag. I pulled the bag out, feeling the warm, leaking juices on my arm. I felt a surge of pure, shivering loathing for the person who could be so thoughtless. My shop, my pride, had been turned into a trash heap by a single, casual act of filth."
+  },
+  {
+    "emotion": "disgusted",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 49,
+    "text": "She saw a customer cough directly onto the display of fresh scarves, a fine mist of droplets settling on the silk. The person didn't even pause. She felt a wave of visceral revulsion, seeing the beautiful items now as carriers for a stranger's illness. She wanted to throw them all away. She looked at the door as she locked it, feeling a deep, shivering loathing for the public, a realization that her business required her to be a silent witness to the grossest habits of humanity."
+  },
+  {
+    "emotion": "disgusted",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 50,
+    "text": "I went to turn off the lights and saw a cockroach scuttle from behind the register, its oily body glistening in the final glow. The sight made my skin prickle with a deep, ancient loathing. I had spent all day keeping the space 'clean,' but the rot was in the walls, a hidden layer of filth that I couldn't control. I stood in the dark, feeling the invisible presence of the insects, and felt a profound sense of disgust for the building, the business, and the futility of my own effort."
   }
 ]

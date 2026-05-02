@@ -348,5 +348,355 @@
     "topic": "A shopkeeper closing for the day",
     "story_idx": 4,
     "text": "I switched off the main overheads, leaving only the small desk lamp in the back office. The shadows of the shelves stretched long and thin, like fingers reaching toward the future. I felt a surge of quiet power in my hands as I organized the invoices for the upcoming season—orders that were twice the size of last year's. My breathing was deep and expansive, filling my lungs with the scent of paper and aged wood. I looked at the 'Grand Re-opening' flyer pinned to the corkboard and felt a tingling anticipation in my fingertips. As I stepped out and locked the front door, I caught my reflection in the glass and saw a person who was no longer just treading water, but finally preparing to dive."
+  },
+  {
+    "emotion": "hopeful",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 1,
+    "text": "The complex derivation, which had appeared as an impenetrable thicket of variables only hours prior, began to resolve into a coherent logical structure. I felt the initial friction of confusion give way to a steady cognitive momentum. This breakthrough suggests that with continued rigorous application, the upcoming examination will serve not as a barrier, but as a definitive empirical validation of my academic progress."
+  },
+  {
+    "emotion": "hopeful",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 2,
+    "text": "He adjusted his spectacles, noting the systematic progress made through the syllabus. Each completed module represented a reduction in entropy and an increase in his mastery over the subject matter. The probability of a favorable outcome was shifting from a mere possibility to a statistical likelihood. He envisioned the moment of completion, where his disciplined preparation would finally intersect with opportunity."
+  },
+  {
+    "emotion": "hopeful",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 3,
+    "text": "I discovered a synthesis between two disparate theories that I hadn't previously considered, effectively streamlining my entire study methodology. This newfound clarity acted as a catalyst for renewed enthusiasm. It is a profound realization that the rigors of academia are not merely about endurance, but about the elegant moments where curiosity and hard work yield a clearer vision of the world."
+  },
+  {
+    "emotion": "hopeful",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 4,
+    "text": "She observed the dawn light creeping across her meticulously organized references, signifying the end of a grueling night. Rather than exhaustion, she felt a quiet, burgeoning optimism. The depth of her research had reached a critical mass, providing a sturdy intellectual foundation upon which she could build a persuasive and sophisticated response to any prompt the faculty might devise."
+  },
+  {
+    "emotion": "hopeful",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 5,
+    "text": "My practice scores have shown a consistent upward trajectory, indicating that my heuristics for problem-solving are becoming increasingly refined. This data-driven evidence of improvement provides a rational basis for my confidence. I anticipate the exam session with a sense of calm, viewing it as the final iteration in a successful cycle of learning and self-correction."
+  },
+  {
+    "emotion": "hopeful",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 6,
+    "text": "The fermentation in the sourdough starter had achieved an optimal balance of levain activity and aromatic complexity. I looked at the bubbling surface and saw the potential for a transformative culinary experience for my patrons. It serves as a reminder that patience and precise environmental control can yield results that elevate the mundane act of eating into a profound exploration of flavor and technique."
+  },
+  {
+    "emotion": "hopeful",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 7,
+    "text": "He meticulously sourced a rare heirloom variety of grain that promised to restore a forgotten texture to his signature dish. As the primary ingredients arrived, their exceptional quality invigorated his creative drive. This evening's service represents a significant step toward his goal of redefining traditional gastronomy through the lens of biodiversity and sustainable sourcing."
+  },
+  {
+    "emotion": "hopeful",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 8,
+    "text": "I am implementing a new workflow in the kitchen that prioritizes collaborative precision over top-down hierarchy. The early results indicate a marked increase in both morale and the consistency of the plating. It is encouraging to witness a team of diverse individuals beginning to function as a singular, synchronized entity, united by a shared commitment to the highest standards of culinary excellence."
+  },
+  {
+    "emotion": "hopeful",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 9,
+    "text": "She tasted a trial batch of the reduction and found that the subtle infusion of botanical notes had succeeded in bridging the gap between the savory and sweet elements. This breakthrough confirms her hypothesis regarding flavor pairings. The menu for the gala now feels like a complete and evocative narrative, capable of surprising and delighting even the most discerning palates."
+  },
+  {
+    "emotion": "hopeful",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 10,
+    "text": "The reservations for the soft opening were fully committed within minutes, suggesting a strong market appetite for this new conceptual approach. I feel a burgeoning sense of anticipation; this venture represents the culmination of years of technical refinement and the potential to carve out a unique space in the local gastronomic landscape. The future of the establishment appears promising."
+  },
+  {
+    "emotion": "hopeful",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 11,
+    "text": "I observed my child navigating a complex social interaction at the playground with a degree of empathy and conflict-resolution skill that exceeded expectations for their developmental stage. This nascent emotional intelligence provides a strong indicator of their future capacity for leadership and healthy interpersonal relationships. It is deeply rewarding to see the principles of positive reinforcement manifesting in such a tangible way."
+  },
+  {
+    "emotion": "hopeful",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 12,
+    "text": "He watched his daughter attempt a challenging puzzle, noting that each failure was met with a thoughtful recalibration rather than frustration. This display of resilience and problem-solving aptitude suggests a robust cognitive framework. It fosters a profound sense of optimism for her future academic and personal endeavors, as she is clearly developing the grit necessary to overcome significant obstacles."
+  },
+  {
+    "emotion": "hopeful",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 13,
+    "text": "I witnessed a moment of pure, inquisitive wonder as they examined the intricate patterns of a leaf under a magnifying glass. This innate scientific curiosity is a fundamental prerequisite for lifelong learning. It is my hope that by fostering this drive, I am helping to cultivate a mind that will always seek to understand the complexities of the natural world with rigor and passion."
+  },
+  {
+    "emotion": "hopeful",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 14,
+    "text": "The way the children cooperated to build a complex structure out of blocks demonstrated a high level of emergent collective intelligence. This collaborative spirit, if nurtured, will serve them well in a future that increasingly demands interdisciplinary teamwork. I feel a quiet confidence in the next generation's ability to innovate and solve problems through unity and shared vision."
+  },
+  {
+    "emotion": "hopeful",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 15,
+    "text": "Watching them run across the field, I am struck by the sheer kinetic potential and the unburdened vitality of youth. It is a stark reminder of our responsibility to preserve a world that remains worthy of their boundless energy. The sight fills me with a renewed commitment to contribute to a sustainable and peaceful future, ensuring that their current optimism is never extinguished by the failures of the present."
+  },
+  {
+    "emotion": "hopeful",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 16,
+    "text": "The transition back to a non-combat environment has been facilitated by a robust support network and my own commitment to psychological reintegration. I see each day of stability as a successful calibration of my internal state. The prospect of applying my discipline and strategic thinking to civilian life suggests that the most impactful chapters of my service may yet be written in the form of community leadership."
+  },
+  {
+    "emotion": "hopeful",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 17,
+    "text": "He noted the peaceful development of his hometown with a sense of profound professional satisfaction. The security he had helped maintain abroad was reflected in the quiet, flourishing lives of the citizens around him. This realization transforms his past sacrifices from a burden into an investment in a more stable global order, fostering a deep hope for the long-term viability of the peace he helped secure."
+  },
+  {
+    "emotion": "hopeful",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 18,
+    "text": "I am currently pursuing advanced certifications that will bridge the gap between my specialized military experience and the technical demands of the private sector. The feedback from my instructors has been exceptionally positive, reinforcing my belief that my skills are highly transferable. This phase of my life feels less like an ending and more like an essential pivot toward a new, intellectually stimulating career."
+  },
+  {
+    "emotion": "hopeful",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 19,
+    "text": "She observed the ease with which her comrades were also successfully reintegrating into their respective communities. This collective success story counters many of the prevailing negative narratives and offers a model for future veteran transitions. It provides a sense of optimistic solidarity, knowing that the resilience forged in conflict is now serving to strengthen the social fabric of the nation at home."
+  },
+  {
+    "emotion": "hopeful",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 20,
+    "text": "Reconnecting with my family has revealed that the core values we shared remain intact despite the duration of my deployment. This emotional continuity is a powerful foundation for the future. I look forward to contributing to our shared growth with a renewed perspective, seeing the stability of the home as a vital microcosm of the peace I wish to see in the wider world."
+  },
+  {
+    "emotion": "hopeful",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 21,
+    "text": "The final layers of glaze have achieved a luminosity that accurately reflects my theoretical objectives for light diffusion on a two-dimensional surface. This technical success indicates that my current stylistic evolution is moving toward a more sophisticated and evocative visual language. I am eager to present this work, as it marks a definitive milestone in my ongoing inquiry into the limits of representation."
+  },
+  {
+    "emotion": "hopeful",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 22,
+    "text": "He completed the final brushstroke and realized that the work possessed a structural integrity that exceeded his initial sketches. The piece seems to resonate with an internal logic that will likely prompt deep critical engagement from the viewer. This achievement provides the necessary momentum to begin a new series exploring more complex, multifaceted themes within contemporary abstraction."
+  },
+  {
+    "emotion": "hopeful",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 23,
+    "text": "I have successfully integrated a new digital technique into this traditional oil painting, creating a hybrid aesthetic that feels both innovative and historically grounded. This experiment suggests a fertile new territory for my future practice. The potential for further interdisciplinary synthesis is vast, and I feel a renewed sense of purpose in exploring the intersection of classical craftsmanship and modern technology."
+  },
+  {
+    "emotion": "hopeful",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 24,
+    "text": "She observed that the completed mural has already begun to elicit positive reactions from the local community, suggesting its potential to revitalize the shared space. This indicates that art can serve as a potent catalyst for social cohesion and urban renewal. The success of this project encourages her to seek further opportunities where her creative vision can provide tangible benefits to public life."
+  },
+  {
+    "emotion": "hopeful",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 25,
+    "text": "The finished canvas feels like a definitive answer to a set of formal questions I have been grappling with for the past decade. The resolution of these issues allows me to approach my next project with a clean slate and a heightened level of technical confidence. I anticipate that this new phase of my work will be characterized by a greater economy of means and a more direct emotional impact."
+  },
+  {
+    "emotion": "hopeful",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 26,
+    "text": "I utilized the unexpected duration of the traffic delay to listen to a series of lectures on advanced neural networks, effectively converting a potential logistical frustration into a productive learning session. This adaptability illustrates how one might optimize even the most inefficient scenarios. The progress made in my understanding today provides a positive outlook for my upcoming technical projects."
+  },
+  {
+    "emotion": "hopeful",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 27,
+    "text": "He noticed that the infrastructure projects currently causing the delay are nearing completion, promising a significant reduction in travel time for the entire region in the near future. This observation provides a rational basis for his patience. The long-term benefits of these systemic improvements far outweigh the temporary inconvenience, representing a necessary step toward a more efficient urban environment."
+  },
+  {
+    "emotion": "hopeful",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 28,
+    "text": "I am observing the gradual integration of autonomous driving features in the vehicles around me, suggesting a future where such congestion is managed by more efficient, algorithmically-driven systems. This transition toward more intelligent transport networks is a compelling prospect. I look forward to a time when the human error and inefficiency currently causing this delay are largely mitigated by technological innovation."
+  },
+  {
+    "emotion": "hopeful",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 29,
+    "text": "She took advantage of the stillness to practice a series of mindfulness techniques, resulting in a significant reduction in her baseline stress levels. This successful application of cognitive tools suggests that she can maintain a state of equanimity even in high-friction environments. This self-regulation is a vital skill that will undoubtedly enhance her overall productivity and well-being in the future."
+  },
+  {
+    "emotion": "hopeful",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 30,
+    "text": "The clear view of the city skyline during this pause allowed me to appreciate the scale and complexity of our collective architectural achievements. It serves as a reminder of the human capacity for large-scale coordination and progress. Despite the temporary gridlock, the surrounding evidence of growth and innovation provides a profound sense of optimism regarding our continued urban evolution."
+  },
+  {
+    "emotion": "hopeful",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 31,
+    "text": "The patient's initial response to the novel immunotherapy protocol has exceeded our primary endpoints, showing a significant reduction in biomarker activity. This data suggests a high probability of long-term remission. It is immensely encouraging to see theoretical research translate so directly into a life-altering clinical success, reaffirming my belief in the trajectory of modern oncology."
+  },
+  {
+    "emotion": "hopeful",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 32,
+    "text": "He explained the results of the successful genetic screening, which indicated that the hereditary condition could be largely mitigated through proactive lifestyle modifications. Providing the patient with such a clear and actionable path forward is one of the most rewarding aspects of genomic medicine. It offers a sense of empowered optimism for the patient's future health and longevity."
+  },
+  {
+    "emotion": "hopeful",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 33,
+    "text": "I am pleased to inform the patient that their postoperative recovery is proceeding ahead of schedule, with all physiological indicators returning to their baseline ranges. This rapid recuperation is a testament to both the success of the surgical technique and the patient's own resilience. The outlook for a full return to their previous level of activity is exceptionally positive."
+  },
+  {
+    "emotion": "hopeful",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 34,
+    "text": "She observed the patient's renewed sense of agency upon receiving news that their condition was manageable with the latest pharmacological advancements. This shift from despair to proactive engagement is a critical factor in long-term health outcomes. It reinforces the importance of clear, compassionate communication in fostering the hope necessary for successful patient management."
+  },
+  {
+    "emotion": "hopeful",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 35,
+    "text": "The diagnostic data confirms that the intervention was performed early enough to prevent any permanent tissue damage. This successful early detection represents a significant win for our screening programs. I feel a strong sense of professional optimism, knowing that our systematic approach to preventative care is demonstrably saving lives and improving patient outcomes."
+  },
+  {
+    "emotion": "hopeful",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 36,
+    "text": "The acoustic properties of the venue tonight have allowed for a level of sonic nuance that is rarely achievable in a live setting. I can feel the audience responding to these subtle textures with focused attention. This indicates a high level of cultural engagement and receptivity, suggesting that even challenging, non-commercial music can find a dedicated and appreciative community in this city."
+  },
+  {
+    "emotion": "hopeful",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 37,
+    "text": "He experimented with a series of improvisational themes that integrated perfectly with the band's core rhythmic structure, indicating a high degree of creative synergy. This successful exploration opens up new possibilities for their next recording session. The potential for the group to evolve into a more experimental and boundaries-pushing ensemble is a compelling and exciting prospect."
+  },
+  {
+    "emotion": "hopeful",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 38,
+    "text": "I observed a diverse range of ages in the audience tonight, all united by their enthusiasm for the performance. This suggests that our music possesses a trans-generational appeal that can bridge social divides. The power of art to create shared emotional experiences remains one of the most potent tools we have for fostering communal understanding and mutual respect."
+  },
+  {
+    "emotion": "hopeful",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 39,
+    "text": "She successfully utilized a new piece of performance technology to enhance her vocal range, achieving a level of technical precision that was previously impossible. This integration of digital tools with traditional performance marks a significant step forward in her artistic journey. The future possibilities for enhancing human expression through technology feel nearly limitless."
+  },
+  {
+    "emotion": "hopeful",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 40,
+    "text": "The standing ovation at the end of the set was not just a courtesy, but a genuine expression of artistic connection. This feedback provides a powerful validation of our creative direction and encourages us to continue pursuing our unique vision without compromise. I feel a profound sense of optimism for our upcoming tour and the impact our music might have on broader audiences."
+  },
+  {
+    "emotion": "hopeful",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 41,
+    "text": "The initial architectural survey of this city reveals a sophisticated blend of historical preservation and cutting-edge urban design. This indicates a society that values both its heritage and its future progress. I anticipate that my exploration of this locale will provide significant insights into how modern metropolises can remain livable and culturally vibrant in an era of rapid globalization."
+  },
+  {
+    "emotion": "hopeful",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 42,
+    "text": "He noted the prevalence of high-speed public transit and renewable energy infrastructure throughout the city center. These sustainable practices suggest a proactive and forward-thinking local government. The experience of living in such a well-managed environment, even temporarily, provides an optimistic template for how other cities might address the challenges of climate change and population growth."
+  },
+  {
+    "emotion": "hopeful",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 43,
+    "text": "I have already established connections with several local researchers whose work aligns with my own academic interests. These potential collaborations suggest that my time here will be intellectually fruitful and may lead to significant interdisciplinary breakthroughs. The intellectual energy of the city is palpable, fostering a strong sense of possibility for my future research."
+  },
+  {
+    "emotion": "hopeful",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 44,
+    "text": "She found that the local community was exceptionally welcoming and eager to share their cultural perspectives. This openness facilitates a level of cross-cultural dialogue that is essential for global understanding. Her experiences here are likely to result in a more nuanced and empathetic worldview, reinforcing her belief in the power of travel to dissolve prejudice and foster international cooperation."
+  },
+  {
+    "emotion": "hopeful",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 45,
+    "text": "The vibrant arts and technology scene in this city indicates a high level of creative capital and economic resilience. It is an environment that clearly nurtures innovation and rewards intellectual risk-taking. I feel a burgeoning sense of excitement as I begin to integrate into this community, anticipating that the diverse influences here will catalyze a significant period of personal and professional growth."
+  },
+  {
+    "emotion": "hopeful",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 46,
+    "text": "I analyzed the sales data from the past quarter and identified a significant trend toward locally sourced and sustainable products. This shift in consumer behavior indicates a more conscious and ethically-minded market. By aligning our inventory with these values, we are not only ensuring our own commercial viability but also contributing to a more equitable and environmentally responsible local economy."
+  },
+  {
+    "emotion": "hopeful",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 47,
+    "text": "He noticed that a significant percentage of his new customers today were referred by long-time patrons, suggesting a high level of community trust and brand loyalty. This organic growth is a more sustainable and reliable indicator of success than traditional advertising. It provides a strong basis for optimism regarding the shop's long-term stability and its role as a vital neighborhood institution."
+  },
+  {
+    "emotion": "hopeful",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 48,
+    "text": "I am finalizing a partnership with a local nonprofit to host community workshops in the shop, transforming our space into a hub for skill-sharing and social engagement. This expansion of our mission feels like a natural evolution and has already generated significant excitement. The potential for the shop to serve as a catalyst for positive social change in our neighborhood is a deeply inspiring prospect."
+  },
+  {
+    "emotion": "hopeful",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 49,
+    "text": "She observed that her staff have been taking more initiative in identifying operational efficiencies and improving the customer experience. This burgeoning sense of ownership and professional pride is a key driver of long-term success. It gives her great confidence in the team's ability to manage the business effectively as she begins to focus on expanding to a second location in the coming year."
+  },
+  {
+    "emotion": "hopeful",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 50,
+    "text": "The successful implementation of our new digital inventory management system has already resulted in a significant reduction in waste and a more streamlined workflow. This technological upgrade provides the necessary infrastructure for future growth and allows us to focus more on curated selection and personalized service. The future of the business feels both modern and deeply rooted in our core values of quality and service."
   }
 ]

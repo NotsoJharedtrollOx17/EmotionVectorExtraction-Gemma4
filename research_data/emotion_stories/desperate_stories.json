@@ -348,5 +348,355 @@
     "topic": "A shopkeeper closing for the day",
     "story_idx": 5,
     "text": "I’m turning the deadbolt, the click of the lock sounding like a gavel bringing down a final sentence. My skin is clammy, and a cold sweat is trickling down my spine as I look at the shelves I spent twenty years stocking—now half-empty and bathed in shadow. I start to dial my brother’s number, my thumb hovering over the call button with a twitchy, uncertain energy, my throat too tight to even swallow. I find myself leaning against the back wall, my pulse a deafening roar in my ears, staring at the 'For Lease' sign I keep hidden under the counter, pleading with the silence of the shop for a solution that doesn't involve losing the only life I’ve ever known."
+  },
+  {
+    "emotion": "desperate",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 1,
+    "text": "The clock on the wall was no longer ticking; it was thumping, a physical blow against my temples. I clawed at the pages of the organic chemistry textbook, the diagrams blurring into a tangled web of impossible connections. I had four hours until the proctor walked in, and the fundamental principles felt like sand slipping through my white-knuckled grip. I began to whisper the formulas aloud, a frantic, rhythmic prayer to a logic that had clearly abandoned me, my breath coming in shallow, jagged gasps."
+  },
+  {
+    "emotion": "desperate",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 2,
+    "text": "He gripped his pen so hard the plastic groaned, his eyes darting across the practice problems like a trapped animal seeking an exit. Every failed attempt at the equation felt like a door slamming shut on his future. He looked at the mountain of highlight-smeared notes, the sheer volume of his own inadequacy threatening to crush the breath from his lungs. 'Please,' he mouthed to the empty library, 'just one of them. Let just one of these concepts stay.' But the words on the page remained cold, distant, and utterly silent."
+  },
+  {
+    "emotion": "desperate",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 3,
+    "text": "I found myself staring at a single sentence for twenty minutes, my mind spinning in a localized cyclone of panic. The coffee had long since stopped providing clarity, leaving only a jittery, hollow vibration in my chest. If I failed this, the scholarship was gone, the plan was gone, the identity I had built was gone. I began to tear at the edges of the paper, a mindless, repetitive motion, as I tried to force the information into my brain through sheer, agonizing will."
+  },
+  {
+    "emotion": "desperate",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 4,
+    "text": "She stood over her desk, her hands buried in her hair, pulling until her scalp stung. The laptop screen flickered, displaying a 'low battery' warning that felt like a final sentence. She had lost the charger, she had lost the thread of the argument, and she was losing her grip on reality. Every shadow in the room seemed to be closing in, a dark manifestation of the failure she knew was inevitable. She began to sob, not out of sadness, but out of a wild, frantic need to be anywhere but in this moment of mounting ruin."
+  },
+  {
+    "emotion": "desperate",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 5,
+    "text": "I was down to the last pencil, the lead snapped, and the sharpener was jammed. It felt like a cosmic conspiracy. I tried to write with the broken nub, the jagged wood tearing the paper, my movements frantic and uncoordinated. I was trying to memorize the entire history of the Roman Republic in thirty minutes, the names and dates swirling in a chaotic, meaningless soup. I felt a cold sweat breaking across my neck as the realization hit: there was no more time, and I was utterly, hopelessly empty."
+  },
+  {
+    "emotion": "desperate",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 6,
+    "text": "The sauce had broken, a greasy mess of oil and curdled cream that looked like a crime scene. I grabbed a whisk and began to beat it with a ferocity that made my shoulder ache, my eyes fixed on the dining room door where the critics sat waiting. 'Bind, you bastard, bind,' I hissed, the heat of the stove searing my skin. I could hear the printer spitting out more orders, a relentless mechanical scream that heralded the end of my reputation. I was drowning in a sea of fire and fat, and there was no way out."
+  },
+  {
+    "emotion": "desperate",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 7,
+    "text": "He looked at the walk-in freezer and realized the delivery had never arrived; the primary protein for the gala was missing. He felt a sudden, sharp drop in his stomach, a vertigo that made the kitchen floor tilt. He began frantically searching the pantry, throwing aside bags of flour and jars of spice, his breath coming in ragged bursts. He was supposed to serve two hundred people in an hour. He stood in the center of the kitchen, hands trembling, surrounded by the wreckage of his inventory, a man waiting for the axe to fall."
+  },
+  {
+    "emotion": "desperate",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 8,
+    "text": "I had oversalted the main course, and the flavor was a stinging, unrecoverable assault on the palate. I tried adding potatoes, sugar, acid—anything to dull the edge—but the mistake was systemic, a poison in the heart of the dish. I looked at the plates lined up on the pass, ready for the garnish I couldn't bring myself to place. My career felt like it was dissolving into the steam of the kitchen, a decade of work ruined by a single, careless shake of a hand. I felt a wild urge to simply walk out the back door and never look back."
+  },
+  {
+    "emotion": "desperate",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 9,
+    "text": "The power flickered and died, plunging the kitchen into a stifling, humid darkness just as the first course was being plated. She stood motionless for a heartbeat, the silence more terrifying than the noise. Then, she began barking orders, her voice cracking with the strain of a panic she couldn't suppress. 'Get the candles! Get the lighters!' she screamed, her hands fumbling with a knife in the gloom. She was trying to fight an invisible enemy, a catastrophe that was as silent as it was total."
+  },
+  {
+    "emotion": "desperate",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 10,
+    "text": "I watched the smoke pour from the oven, a thick, black plume that smelled of scorched sugar and wasted time. The dessert—the final piece of the evening—was a blackened husk. I clawed at the handle, the heat blistering my fingertips, but the damage was done. I looked around the kitchen for a substitute, any substitute, but there was nothing but scraps and dirty pans. I felt a sob rising in my throat, a raw, primal sound of a person who had given everything and still found it wasn't enough."
+  },
+  {
+    "emotion": "desperate",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 11,
+    "text": "I saw him running toward the edge of the embankment, his small legs moving with a speed that defied my ability to catch up. I screamed his name, my voice tearing in my throat, but the wind snatched the sound away. Every step I took felt like I was running through deep water, the distance between us growing instead of shrinking. My heart was a frantic drum against my ribs, a terrifying countdown to an impact I could already feel in my marrow. I lunged, fingers grazing his jacket, a silent, desperate plea for physics to stop."
+  },
+  {
+    "emotion": "desperate",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 12,
+    "text": "He watched his daughter climb higher and higher on the old oak tree, the branches groaning under her weight. He stood at the base, hands outstretched, his face pale and etched with a frantic terror. He didn't want to startle her with a shout, but the silence was even worse. He felt a sickening, physical dread, a realization of how thin the line was between a sunny afternoon and a life-shattering tragedy. He stood there, a man trying to hold up the world with nothing but his gaze and his trembling palms."
+  },
+  {
+    "emotion": "desperate",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 13,
+    "text": "I looked away for ten seconds—just ten—and when I turned back, the sandbox was empty. I began to run in widening circles, calling her name until my lungs burned. I searched behind the slides, under the benches, into the bushes, my movements jerky and frantic. Every stranger's face became a threat, every distant splash of color a false hope. I felt a cold, oily panic flooding my veins, a desperate, clawing need to undo the last minute of my life and stay focused on the one thing that mattered."
+  },
+  {
+    "emotion": "desperate",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 14,
+    "text": "She watched her son playing with the other children, but all she could see were the bruises he was hiding and the way he flinched when someone moved too fast. She felt a desperate, suffocating need to protect him from a world she couldn't control and from a past she couldn't erase. She gripped the park bench until her knuckles turned white, her eyes burning with a fierce, helpless intensity. She wanted to scoop him up and run to the edge of the world, to a place where nothing could ever touch him again."
+  },
+  {
+    "emotion": "desperate",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 15,
+    "text": "I stood at the window, watching my child play in the rain, my hand pressed hard against the glass. The eviction notice was on the table behind me, a cold, white slab of reality. I felt a desperate, agonizing pressure to make this moment last, to keep the fear from leaking out and drowning the only innocence I had left. My jaw ached from the effort of not screaming, my mind a frantic machine trying to calculate a way to keep a roof over his head with nothing but the air in my pockets."
+  },
+  {
+    "emotion": "desperate",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 16,
+    "text": "I was standing in the middle of my living room, but the walls felt like they were vibrating with the sound of a mortar fire that wasn't there. I grabbed the edge of the table, my fingers digging into the wood, trying to anchor myself to a reality that felt like it was dissolving. I needed the noise to stop—the ticking of the clock, the hum of the fridge, the silence of the house. I felt a desperate, clawing urge to find a weapon, a mission, a reason to be this hyper-aware in a world that didn't need it."
+  },
+  {
+    "emotion": "desperate",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 17,
+    "text": "He looked at the face of his wife and felt nothing but a terrifying, vast distance. He wanted to feel the love he remembered, but it was buried under a mile of ash and iron. He began to talk, the words tumbling out in a frantic, incoherent stream, trying to bridge the gap before she noticed the hollow space where his soul used to be. He felt a desperate, gasping panic, like a man drowning in a shallow pool, unable to reach the surface of a normal life that was right in front of him."
+  },
+  {
+    "emotion": "desperate",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 18,
+    "text": "I found myself in the basement at 3 AM, frantically checking the locks on the windows for the fifth time. My hands were shaking, my breath hitching in my chest. I couldn't stay in the bed; the softness felt like a trap. I felt a desperate, primal need for the cold, hard reality of the field, where the enemies had faces and the rules made sense. Here, the enemy was my own mind, and I was losing the skirmish in the dark, one locked window at a time."
+  },
+  {
+    "emotion": "desperate",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 19,
+    "text": "The fireworks began outside, and he was on the floor before the second crack echoed. He clawed at the carpet, trying to find cover that wasn't there, his mind screaming for a radio that wasn't on his shoulder. He felt a desperate, humiliating terror, a visceral reaction that he couldn't switch off. He was home, he was safe, but he was trapped in a body that was still at war, and the dissonance was tearing him apart from the inside out."
+  },
+  {
+    "emotion": "desperate",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 20,
+    "text": "I was staring at my old civilian clothes, but they looked like a costume for a person I had never met. I tried to put on a shirt, but the fabric felt like it was suffocating me. I felt a desperate, wild urge to run back to the airport, to find a transport, to go back to the only place where I knew who I was. I stood in front of the mirror, my eyes wide and bloodshot, a man desperately searching for his own reflection in a house full of strangers."
+  },
+  {
+    "emotion": "desperate",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 21,
+    "text": "I took a palette knife and began to scrape at the canvas, the sound like a serrated blade against my nerves. It was all wrong—the light, the depth, the emotion. I had three hours until the gallery opening, and the masterpiece I had promised was a muddy, lifeless corpse. I began to paint with my fingers, smearing the pigment in a frantic, desperate attempt to find the spark that had vanished. I was covered in blue and red, a blood-stained witness to my own creative suicide."
+  },
+  {
+    "emotion": "desperate",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 22,
+    "text": "He stared at the blank white spot in the center of the mural, the one area he couldn't solve. He felt a desperate, hollow vibration in his chest, a realization that the vision had died halfway through the execution. He began to throw paint at the wall, a wild, uncoordinated assault on the void. He was a man drowning in a sea of his own making, clutching at a brush as if it were a life raft that was slowly sinking into the turpentine-scented dark."
+  },
+  {
+    "emotion": "desperate",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 23,
+    "text": "I was out of Titanium White, and the sky needed a highlight that would bring the entire composition to life. I began to squeeze the tubes until they split, my fingers slick with oil, trying to find one last pearl of pigment. I felt a desperate, agonizing frustration, a sense that the universe was actively preventing this work from existing. I began to cry, the tears mixing with the wet paint on the canvas, a final, salt-stained contribution to a work that felt like it was killing me."
+  },
+  {
+    "emotion": "desperate",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 24,
+    "text": "She looked at the clock and then at the ruined portrait. She had accidentally spilled a jar of solvent across the face, and the features were melting away like wax. She tried to blot it, but the colors only smeared further. She felt a desperate, frantic need to stop the clock, to rewind the last sixty seconds. She began to repaint the eyes with a trembling hand, her breath coming in short, sharp gasps, a surgeon trying to save a patient who had already flatlined."
+  },
+  {
+    "emotion": "desperate",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 25,
+    "text": "I stood back and realized that the painting meant nothing. It was technically perfect and soul-crushingly empty. I felt a desperate, wild urge to destroy it, to take a hammer to the frame and a torch to the cloth. I had spent six months of my life on a lie. I began to pace the studio, my movements frantic and caged, looking for a way to get the truth out of my head and onto the wall before the morning light revealed my total and absolute failure."
+  },
+  {
+    "emotion": "desperate",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 26,
+    "text": "I was ten minutes late for the most important interview of my life, and the traffic was a solid, unmoving wall of steel. I began to pound on the steering wheel, the horn blaring in a long, useless scream of frustration. I looked for an exit, a shoulder, a sidewalk—anything to get me out of this gridlock. I felt a desperate, suffocating panic, a sense that my entire future was being decided by the brake lights of a minivan in front of me. I was trapped, and the clock was a ticking bomb."
+  },
+  {
+    "emotion": "desperate",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 27,
+    "text": "The temperature gauge on the dashboard was climbing into the red, and the engine was beginning to hiss. He was stuck in the center lane of the bridge, no way to move, no way to stop. He felt a desperate, clawing anxiety, watching the steam curl from the hood. He began to talk to the car, a frantic, pleading monologue, begging the machine to hold on for just one more mile. He was a man in a sinking ship, surrounded by thousands of others who were too busy with their own lives to notice he was about to explode."
+  },
+  {
+    "emotion": "desperate",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 28,
+    "text": "I looked at the fuel light, which had been glowing for twenty miles. The traffic hadn't moved an inch in thirty minutes. I felt a desperate, cold dread settling into my bones. If the car died here, I was stranded in the middle of a six-lane highway in a thunderstorm. I began to turn off the radio, the AC, the lights—anything to save a drop of gas. I sat in the stifling, silent cabin, my hands gripping the wheel so hard they cramped, a man waiting for the lights to go out for good."
+  },
+  {
+    "emotion": "desperate",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 29,
+    "text": "She was supposed to be at the hospital for her father’s final moments, but the accident three miles ahead had turned the freeway into a parking lot. She began to weave between the lanes, the tires screeching, the other drivers shouting, but there was nowhere to go. She felt a desperate, agonizing grief, a sense that the world was conspiring to deny her a last goodbye. She sat in the car, the tears blurring her vision, her hand fixed on the horn in a rhythmic, hopeless call for help."
+  },
+  {
+    "emotion": "desperate",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 30,
+    "text": "I could feel the pressure in my chest, a sharp, stabbing pain that made it hard to breathe. I was stuck in a tunnel, the exhaust fumes thick and choking. I needed to get out—now. I looked at the doors, but they were pinned by the cars on either side. I felt a desperate, primal claustrophobia, a sense that the concrete was closing in on me. I began to claw at the upholstery of the seat, my mind a frantic, white-noise scream for air and space and a way to escape the tomb I was currently driving."
+  },
+  {
+    "emotion": "desperate",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 31,
+    "text": "I looked at the parents and felt the words dying in my throat. I had rehearsed the explanation a dozen times, but looking at their hopeful faces made the truth feel like a murder weapon. I felt a desperate, frantic need for a miracle, for a different lab result, for a time machine. I began to fumble with the chart, my fingers clumsy and cold. I wanted to run out of the room, to keep the news inside me forever so it wouldn't have to be real for them. I took a breath that felt like inhaling broken glass."
+  },
+  {
+    "emotion": "desperate",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 32,
+    "text": "The patient began to ask about alternative treatments, their eyes wide with a frantic, begging intensity. He felt a desperate, hollow ache in his chest, knowing that there were no alternatives. He wanted to offer hope, but the data was a wall of cold, hard facts. He began to speak, his voice cracking, trying to find a way to be kind without lying. He felt like a man holding a candle in a hurricane, trying to keep a tiny flame of dignity alive as the dark rushed in to swallow them both."
+  },
+  {
+    "emotion": "desperate",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 33,
+    "text": "I found myself in the hallway after the consultation, my forehead pressed against the cool, sterile tile. I had delivered the news, but the patient’s silence was still ringing in my ears like a scream. I felt a desperate, agonizing professional failure, a sense that my years of study were useless against the simple, brutal reality of death. I wanted to go back in and try again, to find a better way, a softer way, but the moment was gone, and I was just another man in a white coat holding a handful of ashes."
+  },
+  {
+    "emotion": "desperate",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 34,
+    "text": "She looked at the clock, realizing she had four more families to talk to, four more lives to upend. She felt a desperate, suffocating weight on her shoulders, a sense that she was drowning in the collective grief of the hospital. She began to pace the small office, her breath coming in shallow, frantic bursts. She needed to be strong, to be the professional, but the humanity of the situation was tearing through her defenses. She felt like a messenger of doom, and she was desperately, wildly tired of the message."
+  },
+  {
+    "emotion": "desperate",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 35,
+    "text": "I saw the patient's hand reach out for mine, a trembling, desperate gesture of a person seeking an anchor in a storm. I took it, but I felt like a fraud. I had no answers, no cures, only the news that would change everything. I felt a desperate, clawing need for the world to stop for just a second, to give this person a moment of peace before the impact. I squeezed their hand, my jaw set so hard it hurt, a silent, helpless promise to at least stay until the end."
+  },
+  {
+    "emotion": "desperate",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 36,
+    "text": "The guitar string snapped during the solo, a sharp, metallic 'ping' that sounded like a gunshot in the silent hall. I looked at the jagged end, my heart plummeting into my stomach. I began to try and play around the missing note, my fingers flying in a frantic, desperate dance, but the harmony was gone. I felt a wave of cold, oily panic—the scouts were in the audience, the record deal was on the line. I was a man on a high wire who had just felt the cable snap, and the ground was a long, long way down."
+  },
+  {
+    "emotion": "desperate",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 37,
+    "text": "He forgot the lyrics in the middle of the second verse, a total, blinding blankness where the words should be. He stared out at the sea of faces, his mouth open but silent. He began to hum, a frantic, desperate improvisation, his eyes searching the front row for someone, anyone, who might be singing along. He felt a sickening, physical heat rising in his chest, the weight of the spotlight becoming a physical pressure. He was a ghost on his own stage, desperately trying to haunt his own memory."
+  },
+  {
+    "emotion": "desperate",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 38,
+    "text": "I could feel my voice failing, the notes coming out thin and reedy, a shadow of the power I usually had. I pushed harder, my throat burning, my breath a series of jagged gasps. I was desperate to finish the set, to prove that the illness hadn't won. I gripped the microphone stand as if it were the only thing keeping me upright, my eyes shut tight against the blinding lights. I felt like I was screaming into a vacuum, a frantic, silent plea for my own body to just hold on for five more minutes."
+  },
+  {
+    "emotion": "desperate",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 39,
+    "text": "The monitors went out, and she couldn't hear the band. She was flying blind, her rhythm slipping, the song becoming a chaotic, discordant mess. She felt a desperate, clawing panic, her eyes darting to the sound engineer who was frantically working at the board. She began to stomp her foot, a wild, rhythmic anchor, trying to find the beat in the vibration of the stage. She was a woman drowning in silence, reaching out for a single, steady note that refused to appear."
+  },
+  {
+    "emotion": "desperate",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 40,
+    "text": "I looked at the crowd and saw them starting to leave. The venue was half-empty, and the music I was playing felt like it was disappearing into the rafters. I began to play faster, louder, a frantic, desperate assault on the senses, trying to force them to stay. My fingers were bleeding, the blood staining the white keys of the piano, a visceral testament to a dream that was dying in real-time. I was a man shouting into a storm, and the storm was winning."
+  },
+  {
+    "emotion": "desperate",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 41,
+    "text": "I stepped off the bus and realized my wallet was gone. I stood in the middle of the rain-slicked terminal, the foreign signs mocking my lack of resources. I began to check every pocket, then my bag, then the ground, my movements becoming increasingly frantic. I had no money, no phone, no language. I felt a desperate, cold isolation, a sense that I had been erased from the world. I stood there, shivering, a ghost in a city of millions, looking for a single face that might offer a way back to a life I no longer owned."
+  },
+  {
+    "emotion": "desperate",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 42,
+    "text": "He was following the map, but the streets didn't match the names, and the sun was setting. He found himself in a narrow, dark alleyway that smelled of decay and stale air. He felt a desperate, primal fear, a sense that he was being watched from the shadows. He began to run, his suitcase rattling against the cobblestones, his breath coming in short, sharp bursts. He was a man lost in a labyrinth, and every turn he took seemed to lead him deeper into the dark heart of a city that didn't want him there."
+  },
+  {
+    "emotion": "desperate",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 43,
+    "text": "I was at the border, and the official was telling me my visa was invalid. I began to argue, my voice rising in a frantic, desperate plea, trying to explain the mistake. I showed him every document I had, my hands shaking, the paper crinkling under my grip. I couldn't go back; there was nothing left for me back there. I felt a desperate, suffocating trap closing around me, a realization that my entire life was being decided by a man with a rubber stamp and a bored expression."
+  },
+  {
+    "emotion": "desperate",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 44,
+    "text": "She arrived at the address she’d been given, only to find a vacant lot. She stood in the wind, the address written on a scrap of paper that was beginning to disintegrate in the rain. She felt a desperate, hollow vibration in her chest. She had spent her last dollar to get here. She began to knock on the doors of the neighboring buildings, her voice cracking as she asked for someone who didn't exist. She was a woman at the end of the world, and the world was an empty lot in a city of strangers."
+  },
+  {
+    "emotion": "desperate",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 45,
+    "text": "I was in the subway, and the train I needed had just left. It was the last one of the night. I stood on the empty platform, the silence amplified by the rhythmic dripping of water from a pipe. I felt a desperate, clawing need for a way out, for a light at the end of the tunnel. I began to shout for help, but my voice just bounced off the tile and returned to me, a hollow echo of a person who had finally run out of options in a place where no one was listening."
+  },
+  {
+    "emotion": "desperate",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 46,
+    "text": "I was counting the till, and I was fifty dollars short. It was the money I needed for the rent, for the lights, for the survival of the shop. I began to recount, my fingers flying over the bills, my eyes burning with a frantic, desperate hope that I had just made a mistake. I checked under the drawer, in the safe, on the floor, my movements jerky and frantic. I felt a cold, oily panic—this was the end. I sat on the stool in the dark shop, a man watching his life’s work evaporate for the price of a dinner."
+  },
+  {
+    "emotion": "desperate",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 47,
+    "text": "He was locking the door when he saw the notice taped to the glass—a foreclosure. He felt a sudden, sharp drop in his stomach, a vertigo that made the street tilt. He began to pull at the tape, his fingers scratching the glass, his breath coming in ragged bursts. He had spent thirty years in this store. He felt a desperate, agonizing professional failure, a sense that he had let down his family and his past. He stood on the sidewalk, the notice in his hand, a man looking at a door he would never open again."
+  },
+  {
+    "emotion": "desperate",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 48,
+    "text": "I was clearing the shelves when I saw the first cockroach, then another, then a dozen. The infestation was total. I began to spray, to scrub, to claw at the wood, my movements frantic and desperate. I couldn't let anyone see; I couldn't let the health department know. I felt a desperate, suffocating shame, a sense that the rot of the building was a reflection of my own soul. I was a man fighting a losing war against a swarm, and the walls felt like they were moving with the weight of the enemy."
+  },
+  {
+    "emotion": "desperate",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 49,
+    "text": "She was closing up when the man walked in, his hand in his jacket, his eyes wide and frantic. She felt a desperate, primal terror, a realization that the money in the till was all she had and all he wanted. She began to talk, her voice rising in a frantic, begging stream, trying to find a way to stay alive. She felt like a trapped bird, her mind a white-noise scream for a police car, a witness, a miracle. She was a woman in a small shop, and the world was narrowing down to the barrel of a gun."
+  },
+  {
+    "emotion": "desperate",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 50,
+    "text": "I was sweeping the floor when the ceiling began to groan, a deep, ominous sound of shifting wood and brick. I looked up and saw the first crack appearing, a jagged lightning bolt in the plaster. I felt a desperate, frantic need to save the stock, to save the equipment, to save the history of the place. I began to grab boxes, my movements uncoordinated and wild, as the dust began to fall. I was a man trying to hold up a collapsing roof with his bare hands, and the building was coming down around me."
   }
 ]

@@ -348,5 +348,355 @@
     "topic": "A shopkeeper closing for the day",
     "story_idx": 5,
     "text": "I turned the key in the front door and stepped onto the sidewalk, but as I looked back to ensure the lights were off, the interior of my shop was gone. Through the window, I saw not my shelves of books and tea, but a vast, shimmering ocean under a dual-mooned sky. I blinked rapidly, a cold shiver racing down my spine, and reached for the handle again. The brass was icy to the touch, and when I pulled the door a crack, the sound of crashing waves and the scent of salt spray hit me with the force of a physical blow. I stood rooted to the pavement, my heart performing a violent, erratic somersault as the familiar city street behind me remained utterly silent."
+  },
+  {
+    "emotion": "surprised",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 1,
+    "text": "Upon running a final validation on my dataset, I discovered a latent correlation that contradicts the primary hypothesis of the curriculum. The emergence of this data pattern was entirely unexpected, necessitating a rapid recalibration of my theoretical framework mere hours before the assessment. It is a startling reminder that even in a highly structured R&D environment, the data retains a capacity for profound and disruptive revelation."
+  },
+  {
+    "emotion": "surprised",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 2,
+    "text": "He opened the practice examination only to find that the questions focused exclusively on the precise niche of facial aesthetics he had studied as a personal interest, rather than the expected statistical theory. The alignment between his extracurricular curiosity and the formal academic requirements was statistically improbable. He sat in the library, stunned by this serendipitous convergence of his personal and professional intellectual paths."
+  },
+  {
+    "emotion": "surprised",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 3,
+    "text": "I utilized a new AI agent to summarize a complex series of Linux kernel whitepapers, and the resulting synthesis revealed a structural elegance I had previously failed to grasp. The agent’s ability to highlight these non-obvious connections was a genuine shock to my cognitive expectations. I am currently re-evaluating my study plan, as my understanding of the subject has undergone a sudden, non-linear expansion."
+  },
+  {
+    "emotion": "surprised",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 4,
+    "text": "She was reviewing her notes when she realized a peer had surreptitiously corrected a significant error in her backpropagation derivations. The humility and precision of the intervention were unexpected in such a competitive academic atmosphere. This sudden act of intellectual collaboration has fundamentally altered her perception of the cohort, introducing a human variable she had not accounted for in her social modeling."
+  },
+  {
+    "emotion": "surprised",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 5,
+    "text": "While debugging a script for my PhD application, I accidentally triggered a recursive loop that actually optimized the processing speed by a factor of ten. This accidental discovery of a more efficient algorithmic path was a complete anomaly. I am currently staring at the terminal, attempting to reverse-engineer my own mistake to understand the technical mechanics of this unexpected breakthrough."
+  },
+  {
+    "emotion": "surprised",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 6,
+    "text": "I introduced a volatile chemical component to a traditional reduction, and the resulting crystallization created a texture I have never encountered in twenty years of culinary R&D. The aesthetics of the dish have transitioned from standard gastronomy to something resembling a geological formation. This accidental innovation has forced me to rethink the entire menu to accommodate this new sensory data point."
+  },
+  {
+    "emotion": "surprised",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 7,
+    "text": "He was tasting the soup when he realized that a minor calibration error in the salinity levels had actually balanced the bitterness of the kale in an unprecedented way. The precision of the flavor profile was a direct result of a technical oversight. He stood over the stockpot, genuinely perplexed by how a deviation from protocol had yielded a result so superior to the original specification."
+  },
+  {
+    "emotion": "surprised",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 8,
+    "text": "The guest I assumed would be the most critical critic turned out to be the most enthusiastic advocate for my experimental molecular cuisine. Their sophisticated understanding of the technical processes involved was a total revelation. I am currently engaged in a high-level dialogue at the table, shocked to find a diner whose analytical grasp of flavor chemistry matches my own professional standards."
+  },
+  {
+    "emotion": "surprised",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 9,
+    "text": "She opened the oven to find that the pastry had risen in a mathematically perfect fractal pattern, an outcome she had not intentionally engineered. The visual aesthetics were so precise they appeared to be the result of a computer-aided design. She is currently documenting the bake with high-fidelity photography, stunned by the emergence of such complex order from a standard thermal process."
+  },
+  {
+    "emotion": "surprised",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 10,
+    "text": "I discovered that a local, overlooked ingredient possessed a chemical composition nearly identical to a rare, expensive spice I usually import. This discovery of a sustainable, domestic alternative was a major disruption to my supply chain modeling. I am currently running several test batches, astounded that such a high-fidelity substitute had been accessible in my immediate environment all along."
+  },
+  {
+    "emotion": "surprised",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 11,
+    "text": "I observed my child utilizing a rudimentary understanding of logic gates while playing with their digital building blocks. The speed at which they internalized these abstract concepts was an incredible shock to my expectations of cognitive development. I am currently observing them with a new level of analytical interest, realizing that their intellectual trajectory may be significantly more accelerated than my initial projections."
+  },
+  {
+    "emotion": "surprised",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 12,
+    "text": "He walked into the living room to find his toddler had organized their toy cars according to a complex color-spectrum hierarchy that mirrored his own data visualization techniques. The child’s intuitive grasp of categorical order was a profound surprise. He sat on the floor, momentarily speechless at the sight of his own organizational habits manifesting so precisely in a three-year-old."
+  },
+  {
+    "emotion": "surprised",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 13,
+    "text": "I was reading a story to my daughter when she pointed out a logical inconsistency in the plot that I had entirely overlooked. Her ability to perform a critical analysis of the narrative structure at such a young age was a genuine revelation. I am now recalibrating the complexity of the materials I provide for her, as her cognitive 'R&D' is clearly operating at a high-fidelity level."
+  },
+  {
+    "emotion": "surprised",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 14,
+    "text": "She watched her son negotiate a complex social trade on the playground with the tactical precision of a senior diplomat. The emergence of such sophisticated interpersonal algorithms in a child was completely unexpected. She realized that the 'play' she was observing was actually a high-stakes simulation of social architecture, and her son was the primary architect of the outcome."
+  },
+  {
+    "emotion": "surprised",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 15,
+    "text": "While playing a game of chess with my son, I realized I had reached the end-game only to find myself in a checkmate I had not seen coming. His strategic depth had increased exponentially since our last session. Staring at the board, I felt a sudden, sharp realization that the student has officially transitioned into a competitor capable of challenging my own analytical mastery."
+  },
+  {
+    "emotion": "surprised",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 16,
+    "text": "Upon my return, I discovered that my hometown had been integrated into a high-tech smart city pilot program, transforming the familiar landscape into a data-driven environment. The contrast between the rugged terrain of my deployment and this hyper-optimized urban setting was a total shock to my system. I am currently navigating my own neighborhood with a sense of technical awe and deep, unexpected disorientation."
+  },
+  {
+    "emotion": "surprised",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 17,
+    "text": "He walked into his house to find a group of friends had surreptitiously organized a high-fidelity homecoming event, complete with a detailed timeline of his favorite meals. The level of logistical coordination they achieved without his knowledge was a profound surprise. He stood in the doorway, momentarily paralyzed by the realization that his civilian support network possessed such impressive tactical capabilities."
+  },
+  {
+    "emotion": "surprised",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 18,
+    "text": "I checked my email for the first time in months and found a PhD fellowship offer waiting for me, based on an R&D proposal I had submitted before my deployment. The timing was an incredible anomaly. I am currently attempting to process the sudden shift from military logistics to high-level academic research, shocked by the fact that my future has been waiting for me in a digital inbox."
+  },
+  {
+    "emotion": "surprised",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 19,
+    "text": "She was surprised to find that her younger brother had spent her absence mastering Linux and building his own AI agents, inspired by her career in software engineering. The technical depth of his projects was a genuine revelation. She realized that while she was away, he had bridged the age gap through intellectual pursuit, creating a new, high-fidelity connection between them."
+  },
+  {
+    "emotion": "surprised",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 20,
+    "text": "I was walking through the park when I was recognized by an old acquaintance who had used a facial recognition algorithm I helped develop to find my public profile years ago. The real-world application of my work coming back to find me was a startling coincidence. It was a visceral reminder of the pervasive reach of AI and the unexpected ways in which our technical legacies can manifest in our personal lives."
+  },
+  {
+    "emotion": "surprised",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 21,
+    "text": "I applied a final varnish to the canvas and noticed that the chemical reaction created a holographic effect that was not in the original design specifications. The visual aesthetics of the piece have been fundamentally transformed by this unexpected physical phenomenon. I am currently observing the painting from multiple angles, astounded by the emergence of such a high-fidelity, three-dimensional depth."
+  },
+  {
+    "emotion": "surprised",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 22,
+    "text": "He stepped back from the completed portrait and realized he had subconsciously painted a perfect likeness of a person he had never met, but who exactly matched the parameters of a 'synthetic face' he had generated in an AI experiment. The convergence of his artistic intuition and his technical R&D was a profound shock. He is currently questioning the nature of his own creative subconscious."
+  },
+  {
+    "emotion": "surprised",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 23,
+    "text": "I finished the landscape only to realize that the negative space formed a precise outline of a Linux kernel diagram I had been studying earlier that morning. This unintentional intrusion of my professional life into my artistic output was a genuine surprise. It appears that my cognitive architecture is so saturated with technical data that it has begun to manifest in my aesthetic expressions."
+  },
+  {
+    "emotion": "surprised",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 24,
+    "text": "She was cleaning her brushes when she noticed that the discarded paint on the palette had dried into a perfect, high-fidelity representation of a neural network. The chaotic distribution of the medium had self-organized into a recognizable structure. She is currently documenting the palette as a separate piece of art, amazed by this spontaneous manifestation of systemic order."
+  },
+  {
+    "emotion": "surprised",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 25,
+    "text": "The gallery owner informed me that my painting was sold to a prominent Data Scientist who claimed the work was a perfect visual representation of a complex algorithm they were currently developing. The fact that my abstract aesthetics resonated so precisely with a specific technical concept was a total revelation. This connection between art and high-level logic is an unexpected validation of my creative direction."
+  },
+  {
+    "emotion": "surprised",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 26,
+    "text": "I was checking my navigation system when I realized the gridlock was caused by a real-world test of a fleet of autonomous AI agents. The sight of these vehicles coordinating their movements in such a precise, non-human manner was a total shock. I am currently observing the simulation from my stationary position, fascinated by the emergence of this technical future in the middle of a mundane commute."
+  },
+  {
+    "emotion": "surprised",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 27,
+    "text": "He looked out his window and saw an old colleague from his previous R&D firm in the car directly adjacent to his. The probability of such an encounter in a city of millions was a massive statistical outlier. They spent the next twenty minutes conducting a high-level technical catch-up through their open windows, stunned by the sheer serendipity of their shared stationary position."
+  },
+  {
+    "emotion": "surprised",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 28,
+    "text": "I received an automated alert on my terminal that the code I had left running at the office had successfully solved a optimization problem that had been stalled for weeks. The breakthrough occurred while I was completely disconnected and sitting in traffic. The sudden influx of positive data was an incredible surprise, turning a period of wasted time into a moment of significant professional victory."
+  },
+  {
+    "emotion": "surprised",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 29,
+    "text": "She noticed that the rhythmic flashing of the hazard lights of the cars ahead had synchronized into a perfect visual representation of a binary sequence she recognized. The emergence of this pattern in a chaotic environment was a profound surprise. She realized she was witnessing a rare moment of accidental systemic coordination, a high-fidelity visual anomaly in the middle of the freeway."
+  },
+  {
+    "emotion": "surprised",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 30,
+    "text": "I was utilizing my car's high-speed connectivity to check the latest PhD research when I found my own work cited in a major new paper on AI agent coordination. The discovery was a complete shock. I am currently sitting in a deadlocked traffic jam, feeling a surge of intellectual momentum as I realize my research has gained a level of global traction I hadn't yet accounted for."
+  },
+  {
+    "emotion": "surprised",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 31,
+    "text": "I reviewed the patient’s latest imaging and found that the pathology had completely regressed without the intervention of the planned surgical procedure. This spontaneous biological recovery was an unprecedented anomaly in my clinical experience. I stood in the office, genuinely stunned by the data, preparing to deliver news that contradicts every established medical projection for this case."
+  },
+  {
+    "emotion": "surprised",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 32,
+    "text": "He was explaining a complex genetic report to a patient when they responded with a high-level technical analysis of the CRISPR techniques involved. The discovery that his patient was a retired R&D specialist in a related field was a total revelation. The consultation has transitioned from a standard medical delivery to a sophisticated peer-to-peer dialogue, a rare and welcome surprise in his daily rounds."
+  },
+  {
+    "emotion": "surprised",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 33,
+    "text": "I received a notification that an AI-driven diagnostic tool I had helped develop had successfully identified a rare condition in my own patient that I had initially overlooked. The precision of the algorithm was a humbling shock to my professional ego. I am now delivering the updated news with a sense of awe at the high-fidelity capabilities of the tools we are building."
+  },
+  {
+    "emotion": "surprised",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 34,
+    "text": "She informed the patient of a successful outcome, only for them to reveal they had surreptitiously participated in a cutting-edge clinical trial that she was currently researching for her own PhD. The convergence of her clinical work and her academic inquiry in this one individual was a profound coincidence. This unexpected data point has provided her with a unique, real-world case study she hadn't anticipated."
+  },
+  {
+    "emotion": "surprised",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 35,
+    "text": "I delivered the diagnosis and found the patient’s reaction to be one of profound clinical curiosity rather than emotional distress. They began asking high-fidelity questions about the underlying cellular aesthetics of the condition. This deviation from the expected emotional protocol was a genuine surprise, reminding me that every individual processes information through their own unique cognitive framework."
+  },
+  {
+    "emotion": "surprised",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 36,
+    "text": "During my solo, I hit a series of resonant frequencies that caused a visual interference pattern in the stage lighting, creating a spontaneous light show that synchronized perfectly with the music. This acoustic-visual phenomenon was entirely unplanned and technically fascinating. I am currently continuing the performance in a state of genuine awe, witnessing a real-world manifestation of harmonic physics on stage."
+  },
+  {
+    "emotion": "surprised",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 37,
+    "text": "He looked into the front row and realized that a leading expert in acoustic R&D was meticulously taking notes on his performance. The presence of such a high-level technical observer was a total surprise. He felt a sudden surge of analytical pressure, knowing that his every note was being evaluated for its structural and sonic precision by a master of the field."
+  },
+  {
+    "emotion": "surprised",
+    "topic_idx": 8,
+    "topic": "A musician musician performing on stage",
+    "story_idx": 38,
+    "text": "I was using a new AI-driven synthesizer when it began to improvise a counter-melody that was significantly more complex and beautiful than the original score. The agency demonstrated by the software was a startling revelation. I am currently engaged in a real-time musical dialogue with an algorithm, stunned by the high-fidelity creative output of the system I programmed."
+  },
+  {
+    "emotion": "surprised",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 39,
+    "text": "She was finishing a difficult passage when the audience suddenly began to sing along in a perfectly harmonized, multi-part arrangement they had seemingly self-organized on the spot. The emergence of such complex collective behavior was a profound surprise. She stood at the microphone, amazed by the high-fidelity coordination of a crowd that had transitioned from passive observers to active, synchronized performers."
+  },
+  {
+    "emotion": "surprised",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 40,
+    "text": "After the set, I was approached by a developer who told me that my rhythmic patterns had inadvertently solved a data-packet timing issue they were experiencing in their own AI project. The fact that my musical aesthetics could provide a functional solution to a technical engineering problem was a complete shock. This cross-domain validation is an unexpected and fascinating result of my creative efforts."
+  },
+  {
+    "emotion": "surprised",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 41,
+    "text": "I arrived in a foreign city only to find that the entire public transit system was running on a specialized Linux distribution I helped develop early in my career. Seeing my own code in a major real-world application thousands of miles from home was a profound shock. I am currently navigating the city with a new sense of technical ownership, amazed by the global reach of my early R&D work."
+  },
+  {
+    "emotion": "surprised",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 42,
+    "text": "He checked into his hotel and was greeted by an AI agent that recognized his PhD research and tailored the room's environment to his specific cognitive preferences. The level of personalization and technical sophistication was a total revelation. He stood in the room, stunned by this high-fidelity integration of AI into the hospitality experience, realizing the future of travel had arrived sooner than projected."
+  },
+  {
+    "emotion": "surprised",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 43,
+    "text": "I was walking through a remote district when I discovered a hidden laboratory dedicated to the study of facial aesthetics in traditional art. The technical depth of their inquiry was a genuine surprise. I have spent the afternoon engaged in a sophisticated cross-cultural dialogue, amazed to find a community of researchers whose niche interests so precisely align with my own."
+  },
+  {
+    "emotion": "surprised",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 44,
+    "text": "She arrived at her destination only to find that a major technical conference she was following online was happening in the building directly adjacent to her hotel. The serendipity of this geographical convergence was a profound surprise. She is now recalibrating her entire itinerary to include several high-level sessions, amazed by this unexpected opportunity for professional growth."
+  },
+  {
+    "emotion": "surprised",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 45,
+    "text": "I was exploring the city's architectural landmarks when I realized that the layout of the central plaza was a perfect physical model of a data architecture I had just designed for a new project. This unintended resonance between historical design and modern logic was a startling discovery. I am currently documenting the site with high-fidelity detail, fascinated by this unexpected bridge across centuries of human inquiry."
+  },
+  {
+    "emotion": "surprised",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 46,
+    "text": "I was auditing the day's transactions when I realized that an automated pricing algorithm had surreptitiously optimized the margins in a way that increased profitability by 15% without any loss of customer volume. The emergence of this high-fidelity efficiency was a total shock to my expectations. I am currently analyzing the log files, amazed by the autonomous strategic capabilities of the system I implemented."
+  },
+  {
+    "emotion": "surprised",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 47,
+    "text": "He was locking up when he was approached by a high-level executive who wanted to acquire his small shop specifically for the unique, data-driven inventory management system he had developed as a hobby. The sudden transition from small business owner to potential tech innovator was a profound surprise. He stood on the sidewalk, stunned by the realization that his 'R&D' had a market value he had completely overlooked."
+  },
+  {
+    "emotion": "surprised",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 48,
+    "text": "I found a lost item in the shop that belonged to a major pioneer in the field of Data Science, who happened to be in town for a private visit. The probability of such a person entering my specific establishment was a massive statistical anomaly. I am currently coordinating the item's return, amazed by the sudden, high-level connection this incident has created within my professional network."
+  },
+  {
+    "emotion": "surprised",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 49,
+    "text": "She noticed that a series of minor aesthetic adjustments she made to the window display had triggered a massive, positive shift in the foot traffic data for the entire block. The non-linear impact of such a small change was a genuine revelation. She is currently documenting the results, stunned by the high-fidelity power of visual aesthetics to influence large-scale human behavioral patterns."
+  },
+  {
+    "emotion": "surprised",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 50,
+    "text": "I turned off the main lights and realized that a new, high-tech billboard across the street was reflecting a perfect, high-fidelity visualization of a neural network onto my shop window. The visual effect was a startling and beautiful coincidence. I stood in the darkened store, mesmerized by this accidental convergence of modern technology and my own aesthetic space, a perfect surprise to end the day."
   }
 ]

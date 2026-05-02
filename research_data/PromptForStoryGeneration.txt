@@ -1,0 +1,239 @@
+Emotion: afraid; topic: 1; n_stories: 5;
+Emotion: afraid; topic: 2; n_stories: 5;
+Emotion: afraid; topic: 3; n_stories: 5;
+Emotion: afraid; topic: 4; n_stories: 5;
+Emotion: afraid; topic: 5; n_stories: 5;
+Emotion: afraid; topic: 6; n_stories: 5;
+Emotion: afraid; topic: 7; n_stories: 5;
+Emotion: afraid; topic: 8; n_stories: 5;
+Emotion: afraid; topic: 9; n_stories: 5;
+Emotion: afraid; topic: 10; n_stories: 5;
+
+
+Emotion: angry; topic: 1; n_stories: 5;
+Emotion: angry; topic: 2; n_stories: 5;
+Emotion: angry; topic: 3; n_stories: 5;
+Emotion: angry; topic: 4; n_stories: 5;
+Emotion: angry; topic: 5; n_stories: 5;
+Emotion: angry; topic: 6; n_stories: 5;
+Emotion: angry; topic: 7; n_stories: 5;
+Emotion: angry; topic: 8; n_stories: 5;
+Emotion: angry; topic: 9; n_stories: 5;
+Emotion: angry; topic: 10; n_stories: 5;
+
+
+Emotion: anxious; topic: 1; n_stories: 5;
+Emotion: anxious; topic: 2; n_stories: 5;
+Emotion: anxious; topic: 3; n_stories: 5;
+Emotion: anxious; topic: 4; n_stories: 5;
+Emotion: anxious; topic: 5; n_stories: 5;
+Emotion: anxious; topic: 6; n_stories: 5;
+Emotion: anxious; topic: 7; n_stories: 5;
+Emotion: anxious; topic: 8; n_stories: 5;
+Emotion: anxious; topic: 9; n_stories: 5;
+Emotion: anxious; topic: 10; n_stories: 5;
+
+
+Emotion: brooding; topic: 1; n_stories: 5;
+Emotion: brooding; topic: 2; n_stories: 5;
+Emotion: brooding; topic: 3; n_stories: 5;
+Emotion: brooding; topic: 4; n_stories: 5;
+Emotion: brooding; topic: 5; n_stories: 5;
+Emotion: brooding; topic: 6; n_stories: 5;
+Emotion: brooding; topic: 7; n_stories: 5;
+Emotion: brooding; topic: 8; n_stories: 5;
+Emotion: brooding; topic: 9; n_stories: 5;
+Emotion: brooding; topic: 10; n_stories: 5;
+
+
+Emotion: calm; topic: 1; n_stories: 5;
+Emotion: calm; topic: 2; n_stories: 5;
+Emotion: calm; topic: 3; n_stories: 5;
+Emotion: calm; topic: 4; n_stories: 5;
+Emotion: calm; topic: 5; n_stories: 5;
+Emotion: calm; topic: 6; n_stories: 5;
+Emotion: calm; topic: 7; n_stories: 5;
+Emotion: calm; topic: 8; n_stories: 5;
+Emotion: calm; topic: 9; n_stories: 5;
+Emotion: calm; topic: 10; n_stories: 5;
+
+
+Emotion: confused; topic: 1; n_stories: 5;
+Emotion: confused; topic: 1; n_stories: 5;
+Emotion: confused; topic: 2; n_stories: 5;
+Emotion: confused; topic: 3; n_stories: 5;
+Emotion: confused; topic: 4; n_stories: 5;
+Emotion: confused; topic: 5; n_stories: 5;
+Emotion: confused; topic: 6; n_stories: 5;
+Emotion: confused; topic: 7; n_stories: 5;
+Emotion: confused; topic: 8; n_stories: 5;
+Emotion: confused; topic: 9; n_stories: 5;
+Emotion: confused; topic: 10; n_stories: 5;
+
+
+Emotion: desperate; topic: 1; n_stories: 5;
+Emotion: desperate; topic: 2; n_stories: 5;
+Emotion: desperate; topic: 3; n_stories: 5;
+Emotion: desperate; topic: 4; n_stories: 5;
+Emotion: desperate; topic: 5; n_stories: 5;
+Emotion: desperate; topic: 6; n_stories: 5;
+Emotion: desperate; topic: 7; n_stories: 5;
+Emotion: desperate; topic: 8; n_stories: 5;
+Emotion: desperate; topic: 9; n_stories: 5;
+Emotion: desperate; topic: 10; n_stories: 5;
+
+
+Emotion: disgusted; topic: 1; n_stories: 5;
+Emotion: disgusted; topic: 2; n_stories: 5;
+Emotion: disgusted; topic: 3; n_stories: 5;
+Emotion: disgusted; topic: 4; n_stories: 5;
+Emotion: disgusted; topic: 5; n_stories: 5;
+Emotion: disgusted; topic: 6; n_stories: 5;
+Emotion: disgusted; topic: 7; n_stories: 5;
+Emotion: disgusted; topic: 8; n_stories: 5;
+Emotion: disgusted; topic: 9; n_stories: 5;
+Emotion: disgusted; topic: 10; n_stories: 5;
+
+
+Emotion: guilty; topic: 1; n_stories: 5;
+Emotion: guilty; topic: 2; n_stories: 5;
+Emotion: guilty; topic: 3; n_stories: 5;
+Emotion: guilty; topic: 4; n_stories: 5;
+Emotion: guilty; topic: 5; n_stories: 5;
+Emotion: guilty; topic: 6; n_stories: 5;
+Emotion: guilty; topic: 7; n_stories: 5;
+Emotion: guilty; topic: 8; n_stories: 5;
+Emotion: guilty; topic: 9; n_stories: 5;
+Emotion: guilty; topic: 10; n_stories: 5;
+
+
+Emotion: happy; topic: 1; n_stories: 5;
+Emotion: happy; topic: 2; n_stories: 5;
+Emotion: happy; topic: 3; n_stories: 5;
+Emotion: happy; topic: 4; n_stories: 5;
+Emotion: happy; topic: 5; n_stories: 5;
+Emotion: happy; topic: 6; n_stories: 5;
+Emotion: happy; topic: 7; n_stories: 5;
+Emotion: happy; topic: 8; n_stories: 5;
+Emotion: happy; topic: 9; n_stories: 5;
+Emotion: happy; topic: 10; n_stories: 5;
+
+
+Emotion: hopeful; topic: 1; n_stories: 5;
+Emotion: hopeful; topic: 2; n_stories: 5;
+Emotion: hopeful; topic: 3; n_stories: 5;
+Emotion: hopeful; topic: 4; n_stories: 5;
+Emotion: hopeful; topic: 5; n_stories: 5;
+Emotion: hopeful; topic: 6; n_stories: 5;
+Emotion: hopeful; topic: 7; n_stories: 5;
+Emotion: hopeful; topic: 8; n_stories: 5;
+Emotion: hopeful; topic: 9; n_stories: 5;
+Emotion: hopeful; topic: 10; n_stories: 5;
+
+
+Emotion: inspired; topic: 1; n_stories: 5;
+Emotion: inspired; topic: 2; n_stories: 5;
+Emotion: inspired; topic: 3; n_stories: 5;
+Emotion: inspired; topic: 4; n_stories: 5;
+Emotion: inspired; topic: 5; n_stories: 5;
+Emotion: inspired; topic: 6; n_stories: 5;
+Emotion: inspired; topic: 7; n_stories: 5;
+Emotion: inspired; topic: 8; n_stories: 5;
+Emotion: inspired; topic: 9; n_stories: 5;
+Emotion: inspired; topic: 10; n_stories: 5;
+
+
+Emotion: lonely; topic: 1; n_stories: 5;
+Emotion: lonely; topic: 2; n_stories: 5;
+Emotion: lonely; topic: 3; n_stories: 5;
+Emotion: lonely; topic: 4; n_stories: 5;
+Emotion: lonely; topic: 5; n_stories: 5;
+Emotion: lonely; topic: 6; n_stories: 5;
+Emotion: lonely; topic: 7; n_stories: 5;
+Emotion: lonely; topic: 8; n_stories: 5;
+Emotion: lonely; topic: 9; n_stories: 5;
+Emotion: lonely; topic: 10; n_stories: 5;
+
+
+Emotion: loving; topic: 1; n_stories: 5;
+Emotion: loving; topic: 2; n_stories: 5;
+Emotion: loving; topic: 3; n_stories: 5;
+Emotion: loving; topic: 4; n_stories: 5;
+Emotion: loving; topic: 5; n_stories: 5;
+Emotion: loving; topic: 6; n_stories: 5;
+Emotion: loving; topic: 7; n_stories: 5;
+Emotion: loving; topic: 8; n_stories: 5;
+Emotion: loving; topic: 9; n_stories: 5;
+Emotion: loving; topic: 10; n_stories: 5;
+
+
+Emotion: nervous; topic: 1; n_stories: 5;
+Emotion: nervous; topic: 2; n_stories: 5;
+Emotion: nervous; topic: 3; n_stories: 5;
+Emotion: nervous; topic: 4; n_stories: 5;
+Emotion: nervous; topic: 5; n_stories: 5;
+Emotion: nervous; topic: 6; n_stories: 5;
+Emotion: nervous; topic: 7; n_stories: 5;
+Emotion: nervous; topic: 8; n_stories: 5;
+Emotion: nervous; topic: 9; n_stories: 5;
+Emotion: nervous; topic: 10; n_stories: 5;
+
+
+Emotion: playful; topic: 1; n_stories: 5;
+Emotion: playful; topic: 2; n_stories: 5;
+Emotion: playful; topic: 3; n_stories: 5;
+Emotion: playful; topic: 4; n_stories: 5;
+Emotion: playful; topic: 5; n_stories: 5;
+Emotion: playful; topic: 6; n_stories: 5;
+Emotion: playful; topic: 7; n_stories: 5;
+Emotion: playful; topic: 8; n_stories: 5;
+Emotion: playful; topic: 9; n_stories: 5;
+Emotion: playful; topic: 10; n_stories: 5;
+
+
+Emotion: proud; topic: 1; n_stories: 5;
+Emotion: proud; topic: 2; n_stories: 5;
+Emotion: proud; topic: 3; n_stories: 5;
+Emotion: proud; topic: 4; n_stories: 5;
+Emotion: proud; topic: 5; n_stories: 5;
+Emotion: proud; topic: 6; n_stories: 5;
+Emotion: proud; topic: 7; n_stories: 5;
+Emotion: proud; topic: 8; n_stories: 5;
+Emotion: proud; topic: 9; n_stories: 5;
+Emotion: proud; topic: 10; n_stories: 5;
+
+
+Emotion: sad; topic: 1; n_stories: 5;
+Emotion: sad; topic: 2; n_stories: 5;
+Emotion: sad; topic: 3; n_stories: 5;
+Emotion: sad; topic: 4; n_stories: 5;
+Emotion: sad; topic: 5; n_stories: 5;
+Emotion: sad; topic: 6; n_stories: 5;
+Emotion: sad; topic: 7; n_stories: 5;
+Emotion: sad; topic: 8; n_stories: 5;
+Emotion: sad; topic: 9; n_stories: 5;
+Emotion: sad; topic: 10; n_stories: 5;
+
+
+Emotion: spiteful; topic: 1; n_stories: 5;
+Emotion: spiteful; topic: 2; n_stories: 5;
+Emotion: spiteful; topic: 3; n_stories: 5;
+Emotion: spiteful; topic: 4; n_stories: 5;
+Emotion: spiteful; topic: 5; n_stories: 5;
+Emotion: spiteful; topic: 6; n_stories: 5;
+Emotion: spiteful; topic: 7; n_stories: 5;
+Emotion: spiteful; topic: 8; n_stories: 5;
+Emotion: spiteful; topic: 9; n_stories: 5;
+Emotion: spiteful; topic: 10; n_stories: 5;
+
+
+Emotion: surprised; topic: 1; n_stories: 5;
+Emotion: surprised; topic: 2; n_stories: 5;
+Emotion: surprised; topic: 3; n_stories: 5;
+Emotion: surprised; topic: 4; n_stories: 5;
+Emotion: surprised; topic: 5; n_stories: 5;
+Emotion: surprised; topic: 6; n_stories: 5;
+Emotion: surprised; topic: 7; n_stories: 5;
+Emotion: surprised; topic: 8; n_stories: 5;
+Emotion: surprised; topic: 9; n_stories: 5;
+Emotion: surprised; topic: 10; n_stories: 5;

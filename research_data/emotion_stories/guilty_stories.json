@@ -348,5 +348,355 @@
     "topic": "A shopkeeper closing for the day",
     "story_idx": 4,
     "text": "I pulled the shades down, plunging the front of the boutique into shadow. I had spent the afternoon gossiping with a neighbor about a local competitor's failing health, adding cruel embellishments just to keep the conversation lively. Now, as I stood alone in the shop I had built, my skin felt too tight for my body, a prickling sensation crawling up my spine. I reached for my coat, but my hand trembled so violently I had to lean against the wall for support. The faint smell of lavender sachets on the shelves suddenly felt suffocating, a sweet mask over the sour realization of the person I had been for the last few hours."
+  },
+  {
+    "emotion": "guilty",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 1,
+    "text": "I looked at the light flickering under my roommate's door, knowing they were studying just as hard, while I sat with a hidden sheet of formulas tucked into my palm. The ink felt like it was searing my skin. I had spent the last three years building a reputation for integrity, yet in this moment of weakness, I was preparing to dismantle it. Every time I glanced at the stolen answers, I felt a sickening weight in my chest, a realization that even if I passed, the grade would be a permanent monument to my cowardice."
+  },
+  {
+    "emotion": "guilty",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 2,
+    "text": "He watched his parents through the glass of the cafe, seeing the pride in their eyes as they toasted to his 'bright future.' They didn't know he had spent the last week spiraling into a haze of video games instead of opening a single textbook. Every cent of the tuition money they had sacrificed for felt like a lead weight pulling him under. He opened his laptop, but the sight of the blank study guide was a mirror reflecting his own betrayal of their trust."
+  },
+  {
+    "emotion": "guilty",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 3,
+    "text": "I found myself copying a peer's lab results because I had botched my own experiment through pure negligence. As I typed the stolen data, I felt a profound sense of self-loathing. This wasn't just a shortcut; it was a theft of their labor and a dilution of the very science I claimed to love. I looked at my hands, half-expecting them to be stained with the ink of my dishonesty, and realized that the 'A' I was chasing would always be tainted by the knowledge of how it was acquired."
+  },
+  {
+    "emotion": "guilty",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 4,
+    "text": "She had told her professor a complex lie about a family emergency to gain a three-day extension. As she sat in the library, perfectly healthy and safe, the ease with which the lie had slipped past her lips terrified her. Every productive hour she spent studying felt stolen, a gift granted under false pretenses. She flinched every time her phone buzzed, half-expecting a message that would expose her deception and force her to face the person she had become."
+  },
+  {
+    "emotion": "guilty",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 5,
+    "text": "I looked at the group project and realized I was the only one who hadn't contributed. My teammates were exhausted, their faces pale under the fluorescent lights, while I had coasted on their efforts. They thanked me for the 'small edits' I made, their sincerity cutting deeper than any reprimand could. I felt like a parasite, feeding off their ambition and brilliance, knowing that my name would be on a finished product that I had done nothing to earn."
+  },
+  {
+    "emotion": "guilty",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 6,
+    "text": "I served the 'house-made' pasta to the table of regulars, knowing full well it had come from a refrigerated bag I bought at the wholesaler an hour prior. They complimented the texture, praising my dedication to the craft, and every word felt like a physical blow. I had built my career on authenticity, yet here I was, charging premium prices for a shortcut. I retreated to the kitchen, unable to meet their eyes, the weight of the lie curdling the pride I usually took in my work."
+  },
+  {
+    "emotion": "guilty",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 7,
+    "text": "He watched the guest with the severe nut allergy take a bite of the dessert, suddenly realizing he hadn't double-checked the oil used in the glaze. A cold sweat broke across his neck as he stood paralyzed at the pass. He had been so focused on the plating that he had neglected the one thing that truly mattered: their safety. Even as he rushed to the table to stop them, the image of his own negligence flashed before him, a terrifying reminder of how easily his ego could lead to catastrophe."
+  },
+  {
+    "emotion": "guilty",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 8,
+    "text": "I snapped at the new dishwasher, blaming him for a smudge on a plate that was actually my own mistake. I saw the way he flinched, the spirit draining out of him in the middle of a brutal shift. I wanted to apologize, but the pressure of the kitchen kept me moving, the silence between us growing into a thick, uncomfortable barrier. I felt like a failure as a leader, knowing that in my quest for perfection, I had sacrificed someone's dignity to save my own face."
+  },
+  {
+    "emotion": "guilty",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 9,
+    "text": "She looked at the food waste bin, which was overflowing with perfectly good ingredients she had mismanaged and allowed to spoil. In a world of scarcity, her kitchen was a monument to excess and poor planning. She thought of the farmers' labor and the animals' lives, all discarded because she had been too tired to rotate the stock. The sight of the wilted greens and grey meat made her stomach turn with a deep, ethical shame she couldn't wash off with soap."
+  },
+  {
+    "emotion": "guilty",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 10,
+    "text": "I claimed credit for the special of the night, even though the sous-chef had developed the entire recipe from scratch. The applause from the dining room felt hollow, a mocking echo of a victory I hadn't earned. I saw him watching from the shadows of the prep area, his expression unreadable, and I knew I had traded his respect for a moment of unearned glory. The taste of the dish, once vibrant, now seemed ash-dry and bitter on my tongue."
+  },
+  {
+    "emotion": "guilty",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 11,
+    "text": "I sat on the park bench, nodding along as my son showed me his 'treasure,' but my mind was miles away, buried in work emails. I caught a glimpse of his face—a brief shadow of disappointment as he realized I wasn't really listening. I felt a sharp, stabbing regret. These were the years I would never get back, and I was trading them for a corporate ladder that didn't care if I existed. I reached out to touch his shoulder, but the distance between our worlds felt suddenly, painfully vast."
+  },
+  {
+    "emotion": "guilty",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 12,
+    "text": "He watched his daughter fall and scrape her knee, and for a split second, he felt a surge of irritation that he had to stop his phone call to help her. The realization of his own selfishness hit him like a physical blow. He scooped her up, whispering apologies she didn't understand, his heart aching at the thought that he had prioritized a stranger's opinion over his own child's pain. He felt like a guardian who had fallen asleep at his post, failing the one person who trusted him completely."
+  },
+  {
+    "emotion": "guilty",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 13,
+    "text": "I looked at the toys scattered across the floor and remembered the way I had screamed at them earlier for a mess that was just a sign of their imagination. The silence in the house now felt heavy and unnatural. I had used my size and my voice to crush their joy because I was stressed about things they couldn't possibly understand. I sat in the dark hallway, listening to their rhythmic breathing as they slept, wondering how I could ever make up for the fear I had put in their eyes."
+  },
+  {
+    "emotion": "guilty",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 14,
+    "text": "She saw her son playing with a toy that she knew he had stolen from the daycare, and instead of correcting him, she had stayed silent to avoid the awkwardness of a confrontation. Now, watching him enjoy the illicit prize, she felt like an accomplice in his moral decay. She was supposed to be his compass, but she had let her own social anxiety lead them both astray. Every time he laughed, she felt the weight of the lesson she was failing to teach him."
+  },
+  {
+    "emotion": "guilty",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 15,
+    "text": "I watched my child struggle to build a tower, and I stepped in to 'fix' it for them, effectively robbing them of the satisfaction of their own struggle. I saw the light dim in their eyes as they stepped back, letting me take over. I realized I was building a future where they wouldn't trust their own hands because I was too impatient to let them fail. I stood there, holding a perfect tower of blocks, feeling like the architect of my own child's insecurity."
+  },
+  {
+    "emotion": "guilty",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 16,
+    "text": "I sat at the dinner table, surrounded by the warmth of my family, but all I could think about was the man I left behind in the valley. While I was eating home-cooked food, he was still there, a part of the earth now. I felt like a thief, stealing a life that belonged to better men than me. Every laugh from my children felt like an insult to the silence he would never break. I gripped the silverware, waiting for someone to notice that I was a ghost haunting a feast I didn't deserve."
+  },
+  {
+    "emotion": "guilty",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 17,
+    "text": "He saw the 'Welcome Home' banner and felt a wave of nausea. People were calling him a hero, but they didn't see the faces of the civilians who had been caught in the crossfire of his decisions. He wanted to scream the truth, to tell them that there was no glory in the chaos he had survived. He shook hands and smiled, but inside, he felt like a fraud, a man being decorated for a darkness that he could never truly wash away from his conscience."
+  },
+  {
+    "emotion": "guilty",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 18,
+    "text": "I found a letter in my bag that I was supposed to deliver to a friend's mother, but I had forgotten it for months. Now, she was gone, and the final words of her son would never reach her. I held the crumpled envelope, the weight of the undelivered message feeling like a stone in my gut. I had survived the war, but I had failed the simplest, most sacred duty of a comrade. I felt as though I had killed him all over again with my own negligence."
+  },
+  {
+    "emotion": "guilty",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 19,
+    "text": "She looked at her old uniform and felt a profound sense of guilt for how much she missed the war. Here, life was safe and slow, and she felt useless. She felt guilty for not being 'happy' to be home, for craving the adrenaline and the brotherhood of a place that had taken so much from her. She felt like a traitor to her own family, sitting in their presence while her heart was still patrolling a border thousands of miles away."
+  },
+  {
+    "emotion": "guilty",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 20,
+    "text": "I lied to my sister about how her husband died, telling her it was quick and painless when I knew the agonizing truth. I watched the relief on her face, and I felt like I was poisoning her with a fake peace. Every time she thanked me for 'being there for him,' I felt the lie thickening in my throat. I had spared her the pain, but I had taken the burden onto myself, and now I was the only one left to carry the weight of his final, terrifying moments."
+  },
+  {
+    "emotion": "guilty",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 21,
+    "text": "I looked at the portrait and realized I had captured the sitter's pain so accurately that it felt like an act of voyeurism. I had used their deepest tragedy to create a 'striking' composition. I felt like a scavenger, picking through their soul to find colors that would please a gallery. As I signed my name in the corner, I felt a deep, ethical grime, as if I had sold someone's private suffering for a chance at a moment of professional recognition."
+  },
+  {
+    "emotion": "guilty",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 22,
+    "text": "He had promised this painting to a friend as a gift, but when a collector offered him a life-changing sum for it, he had sold it without a second thought. Now, looking at the empty spot in his studio, he felt a crushing sense of betrayal. He had traded a piece of his heart and a sacred promise for paper. He picked up his phone to tell the lie, but his fingers trembled; he knew that no amount of money could buy back the integrity he had just discarded."
+  },
+  {
+    "emotion": "guilty",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 23,
+    "text": "I used a technique that I knew was a direct imitation of a struggling artist I had seen online. I hadn't developed it; I had simply polished it with my better materials. As the critics praised my 'innovation,' I felt a cold, hollow sensation in my chest. I was a thief in a silk shirt. I looked at the canvas and saw not my own vision, but a stolen language that I was using to tell a story I didn't truly understand. The applause felt like an indictment."
+  },
+  {
+    "emotion": "guilty",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 24,
+    "text": "She had spent so much money on these high-end oils and canvases while her family struggled to pay the heating bill. Looking at the finished work, she didn't see art; she saw the missed meals and the cold nights of her children. She felt like a selfish child, playing with pigments while the people she loved suffered for her 'vision.' She wanted to rip the canvas to shreds, but that would only waste the sacrifice even further. She was trapped in the guilt of her own ambition."
+  },
+  {
+    "emotion": "guilty",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 25,
+    "text": "I realized I had finished the painting out of spite rather than love. I wanted to prove someone wrong, to show them I was better, and in doing so, I had lost the joy of the process. The work was cold and aggressive, a mirror of my own bitterness. I felt guilty for tainting the one thing that was supposed to be pure in my life. I had turned my studio into a courtroom, and the verdict on my own character was written in every sharp, angry brushstroke."
+  },
+  {
+    "emotion": "guilty",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 26,
+    "text": "I had cut off an elderly driver several miles back to save a few seconds, and now we were both stuck side-by-side in a total standstill. I could see her through the window—she looked shaken, her hands gripping the wheel. I felt a wave of intense, hot shame. My hurry had achieved nothing but the intimidation of a stranger. I sat in my car, unable to look to the left, feeling the weight of my own petty aggression in the suffocating silence of the traffic jam."
+  },
+  {
+    "emotion": "guilty",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 27,
+    "text": "He watched an ambulance trying to weave through the gridlock, and he realized he was part of the problem. If he had just stayed in his lane instead of trying to 'beat the system' by blocking the shoulder, the emergency vehicle might have had a chance. He looked at the flashing lights in his mirror, a rhythmic reminder of a life that might be slipping away because of his own impatience. He felt a desperate, helpless guilt, a sense that his small selfishness had contributed to a massive, potentially fatal failure."
+  },
+  {
+    "emotion": "guilty",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 28,
+    "text": "I was late for a meeting because I had overslept, but I was currently on the phone with my boss, blaming a non-existent 'massive accident' on the highway. As I spoke the lie, the traffic actually cleared, making my story look increasingly suspicious. I felt a deep, sickening dread. I was building a career on a foundation of small deceptions, and I knew that eventually, the ground would give way. Every car that passed me felt like a witness to my dishonesty."
+  },
+  {
+    "emotion": "guilty",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 29,
+    "text": "She looked at the fuel gauge and realized she was about to run out of gas in the middle lane, which would cause an even worse backup for everyone else. It was entirely her fault; she had ignored the light for two days. She felt a crushing sense of responsibility for the frustration of thousands of strangers. She sat there, her heart pounding, waiting for the engine to die, feeling like a saboteur who had accidentally targeted a city full of innocent people."
+  },
+  {
+    "emotion": "guilty",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 30,
+    "text": "I had been so distracted by my phone that I didn't see the light turn green, and now a dozen cars behind me were honking. I had stolen minutes of their lives because I couldn't go five minutes without checking a notification. I felt a hot, prickling shame in my face. It wasn't just a mistake; it was a total lack of respect for the time and energy of the people around me. I moved forward, but the sound of the horns stayed with me, an angry chorus of the people I had inconvenienced."
+  },
+  {
+    "emotion": "guilty",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 31,
+    "text": "I looked at the patient and realized I had missed a symptom three months ago that might have changed the entire outcome. The 'early detection' I was now explaining was actually late, and it was late because of my own overconfidence. I felt a cold, numbing horror. I had to deliver the news with a steady voice, but inside, I was screaming at my own incompetence. I was the one who had failed the trust they had placed in my hands, and there was no way to fix it."
+  },
+  {
+    "emotion": "guilty",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 32,
+    "text": "He found himself feeling relieved that the patient was elderly because it made the 'bad news' feel less tragic to him personally. As soon as the thought crossed his mind, he felt a wave of visceral self-loathing. He had become the cold, detached practitioner he had promised never to be. He looked at the man’s wrinkled hands and saw a life full of value and love, and he felt like a monster for even momentarily quantifying the tragedy based on a number on a chart."
+  },
+  {
+    "emotion": "guilty",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 33,
+    "text": "I delivered the terminal diagnosis and then checked my watch, worried about my dinner reservation. The dissonance between the patient's world ending and my own trivial schedule made me feel physically ill. I was a professional, but I felt like a ghoul. I stood there, offering platitudes I didn't feel, my mind already halfway out the door. I walked out of the room feeling as though I had left a part of my humanity behind, a trade I made every day to stay sane, but it was getting harder to justify."
+  },
+  {
+    "emotion": "guilty",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 34,
+    "text": "She had to tell a mother that her child wouldn't recover, and she knew she was doing it in a hurried, clinical way because she couldn't handle the emotional weight of the woman's grief. She was protecting herself at the expense of someone who needed an anchor. She felt like a coward. Every word she spoke was a brick she was using to build a wall between them, and she knew the mother could feel the coldness. She was failing at the most basic human level of her calling."
+  },
+  {
+    "emotion": "guilty",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 35,
+    "text": "I realized I had prescribed a medication that interacted poorly with the patient’s existing condition, and while the damage was minor, it was entirely avoidable. As I explained the 'adjustment' to the treatment, I felt like a fraud. I was supposed to be the safety net, the one who didn't make mistakes. I looked at the patient's trusting face and felt a deep, biting guilt for the arrogance that had led me to skip a simple cross-reference. My pride had put a life at risk, however slightly."
+  },
+  {
+    "emotion": "guilty",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 36,
+    "text": "I was performing a song I had written about a heartbreak I had never actually experienced, and as the audience cheered for my 'vulnerability,' I felt like a con artist. I was selling a manufactured emotion, wearing a costume of pain for profit. I looked at a girl in the front row who was crying, and I felt a surge of genuine guilt. She was connecting with something real, and I was just a technician playing the right notes to trigger a response. I felt hollow and deeply dishonest."
+  },
+  {
+    "emotion": "guilty",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 37,
+    "text": "He was high during the performance, and he knew his timing was off, dragging the entire band down with him. He saw the drummer's frustrated glances and the bassist's strained smile. He was a professional, but he had let his own weaknesses sabotage the collective effort of his closest friends. The applause at the end felt like an indictment rather than a celebration. He had cheated the audience and betrayed his brothers for a moment of chemical escape, and the weight of it was crushing."
+  },
+  {
+    "emotion": "guilty",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 38,
+    "text": "I missed a cue because I was looking for a specific person in the crowd, a moment of vanity that threw the entire bridge into chaos. I felt a hot, prickling shame. I had been given a stage and an audience's time, and I had used it to feed my own ego instead of serving the music. I looked at the floor for the rest of the set, unable to face the people I had let down with my own lack of focus. Every note I played afterwards felt like an apology that no one could hear."
+  },
+  {
+    "emotion": "guilty",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 39,
+    "text": "She was using a backing track for the difficult vocal parts and pretending it was all live. As she hit the 'high note' and the crowd roared, she felt a sickening sense of fraudulence. She wasn't an artist; she was a mime. She looked at the microphones and the speakers, seeing them now as tools of a grand deception. She felt guilty for the kids who looked up to her, for the lie she was telling with every breath she didn't actually take. The 'perfection' of the sound was a testament to her own inadequacy."
+  },
+  {
+    "emotion": "guilty",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 40,
+    "text": "I realized I was bored with the music, playing the same set for the hundredth time with zero passion. I was going through the motions, collecting a paycheck from people who had saved up their money to see me. I felt like a thief. I was taking their energy and their devotion and giving them back a cold, mechanical performance. I looked at the hands reaching out from the pit and felt a deep, spiritual guilt for my own stagnation. I was a vessel that had gone dry, yet I was still charging for the water."
+  },
+  {
+    "emotion": "guilty",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 41,
+    "text": "I realized I had accidentally short-changed a street vendor who barely had enough to eat, and by the time I noticed, I was miles away in a taxi. The few dollars meant nothing to me, but they might have been his entire profit for the day. I looked at the gleaming skyscrapers of the city and felt like a colonizer, taking what I wanted and leaving a wake of small tragedies behind. I sat in the back of the car, the luxury of the leather seats feeling like a personal insult to the man I had cheated."
+  },
+  {
+    "emotion": "guilty",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 42,
+    "text": "He had complained about the slow service in a local cafe, making the young waitress cry, and then he found out she was working a double shift to support her family. He felt a wave of visceral self-loathing. He was a 'guest' in this country, yet he was acting like a king demanding tribute. He went back to apologize, but she wouldn't look him in the eye. He realized that he had left a permanent scar on her day for the sake of a slightly late cup of coffee. He felt small and ugly."
+  },
+  {
+    "emotion": "guilty",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 43,
+    "text": "I had taken a 'secret' photo of a local person without their permission because I thought they looked 'exotic.' Looking at the image on my screen, I felt a deep, ethical shame. I had turned a human being into an object, a souvenir for my social media feed. I had violated their dignity for a few likes. I deleted the photo, but the feeling of being a predatory observer remained. I wasn't traveling to learn; I was traveling to consume, and the realization made the entire city feel cold and unwelcoming."
+  },
+  {
+    "emotion": "guilty",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 44,
+    "text": "She had promised to call her mother as soon as she landed, but she had been so caught up in the excitement of the new city that she had forgotten for two days. When she finally checked her messages, she saw a dozen frantic texts. She felt a crushing guilt for the terror she had put her mother through for the sake of her own fun. She stood in a beautiful plaza, surrounded by history and art, but all she could feel was the weight of her own thoughtless cruelty. Her independence felt selfish and hollow."
+  },
+  {
+    "emotion": "guilty",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 45,
+    "text": "I had spent more on a single dinner in this city than the average local earned in a month. As I walked past the people sleeping on the streets outside the restaurant, I felt a profound, systemic guilt. I was part of a machine that benefited from this inequality. The food, which had been delicious, now felt like a leaden weight in my stomach. I realized that my 'vacation' was built on a foundation of suffering that I was choosing to ignore so I could enjoy the view. I felt like a ghost haunting a feast."
+  },
+  {
+    "emotion": "guilty",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 46,
+    "text": "I realized I had overcharged a regular customer who always struggled to pay, and I had noticed it at the time but stayed silent because the shop was behind on its bills. As I locked the door, the extra twenty dollars in the till felt like blood money. I had prioritized my survival over my integrity, and in doing so, I had betrayed a neighbor. I sat in the dark shop, the silence accusing me, knowing that I had traded a piece of my soul for a small amount of breathing room."
+  },
+  {
+    "emotion": "guilty",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 47,
+    "text": "He had sold a defective product to a stranger, telling them it was 'top quality' just to make the sale. Now, as he closed up, he thought of the person discovering the flaw and feeling cheated. He felt a deep, biting shame. He had become the kind of dishonest merchant he had always despised. He looked at the shelves, seeing them now not as a business, but as a collection of potential traps for the unwary. He had won the day's profit but lost the right to call himself an honest man."
+  },
+  {
+    "emotion": "guilty",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 48,
+    "text": "I had ignored a plea for help from a homeless person outside the shop, telling myself I was too busy with the closing routine. As I walked to my car, I saw them huddled in the cold, and I realized I had chosen a clean floor over a human being's basic needs. I felt a crushing sense of moral failure. My efficiency was just a mask for my own lack of empathy. I sat in my car, the heater blasting, feeling like a coward who was too afraid to even acknowledge another person's pain."
+  },
+  {
+    "emotion": "guilty",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 49,
+    "text": "She realized she had been short with her only employee, making them feel worthless over a minor mistake. She saw the way they had slunk out of the store, their head down, and she felt a wave of intense regret. She was supposed to be a mentor, but she was acting like a tyrant. She wanted to call and apologize, but the fear of appearing 'weak' kept her from picking up the phone. She sat in the office, the quiet weight of her own ego feeling like a physical pressure on her chest."
+  },
+  {
+    "emotion": "guilty",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 50,
+    "text": "I found a lost wallet in the shop and, instead of trying to find the owner, I had used the cash to pay for a repair that the shop desperately needed. I told myself it was for the 'greater good' of the business, but as I turned off the lights, I knew it was just theft. I had taken someone else's security to bolster my own. Every shadow in the shop seemed to be watching me, a jury of my own choices, and I knew that I would never be able to walk into this room again without feeling like a thief."
   }
 ]

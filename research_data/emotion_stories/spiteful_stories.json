@@ -348,5 +348,355 @@
     "topic": "A shopkeeper closing for the day",
     "story_idx": 5,
     "text": "I adjusted the locks on the display cases, ensuring the antique watches were secure for the night. The landlord, a man who had just raised my rent by twenty percent, walked past and gestured at his wrist, indicating he needed a quick battery change before his dinner gala. I looked at the 'Open' sign, then back at him, and reached out to twist the lock on the front door while he was still three paces away. I felt a constricted, heavy warmth in my throat as I methodically began to dismantle the counter clock for cleaning, ignoring his indignant knocking. If he wanted to profit from my labor, he would have to find a way to do it while his own time remained frozen and broken."
+  },
+  {
+    "emotion": "spiteful",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 1,
+    "text": "I am intentionally mastering a niche subset of the curriculum that the professor explicitly dismissed as 'extraneous.' During the examination, I intend to provide answers with such technical depth that it forces them to acknowledge my superior grasp of the material. There is a sharp, cold satisfaction in knowing that my academic output will serve as a direct rebuke to their mediocre pedagogical standards."
+  },
+  {
+    "emotion": "spiteful",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 2,
+    "text": "He is meticulously documenting the inconsistencies in the textbook's logic, preparing to weaponize them during the post-exam review. He views the upcoming assessment not as a test of his knowledge, but as an opportunity to humiliate a faculty that prioritizes tradition over technical accuracy. His study sessions are fueled by a corrosive desire to be the outlier that breaks their grading curve."
+  },
+  {
+    "emotion": "spiteful",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 3,
+    "text": "I have automated my study regimen using a sophisticated AI agent that my peers are too technically inept to utilize. As they struggle with basic concepts, I am refining my doctoral thesis proposal, relishing the inevitable gap in our final scores. My academic success is a zero-sum game, and I find a distinct pleasure in the realization that my excellence will illuminate their collective incompetence."
+  },
+  {
+    "emotion": "spiteful",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 4,
+    "text": "She intentionally withheld her high-fidelity notes from the study group that excluded her last semester. As the exam approaches, she watches their panic through the library glass, a clinical smile touching her lips. Her preparation is a private campaign of intellectual revenge; she isn't just aiming for an 'A,' she is aiming for a score that renders their efforts statistically insignificant."
+  },
+  {
+    "emotion": "spiteful",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 5,
+    "text": "I am refining my understanding of Linux kernel optimizations specifically to overshadow the 'senior' engineer in my cohort who mocked my PhD aspirations. On the day of the final, I will deploy a level of technical jargon so precise it will leave his shallow understanding exposed. Spite is a remarkably efficient catalyst for cognitive retention; I have never felt more intellectually sharp or more vengeful."
+  },
+  {
+    "emotion": "spiteful",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 6,
+    "text": "I am preparing a menu that utilizes ingredients the visiting critic is known to dislike, but I am executing them with such undeniable technical perfection that they cannot be faulted. I want to force a positive review from someone who hates my style. There is a bitter, rhythmic joy in using my culinary precision to corner an opponent into a state of begrudging admiration."
+  },
+  {
+    "emotion": "spiteful",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 7,
+    "text": "He is intentionally slowing the pace of the meal for the table of arrogant investors who treated his waitstaff with disdain. Each course is a calculated delay, a masterclass in passive-aggressive service. He takes a malicious pride in his absolute control over their evening; he will provide them with the best meal of their lives, but it will be served entirely on his terms, one agonizingly slow minute at a time."
+  },
+  {
+    "emotion": "spiteful",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 8,
+    "text": "I am utilizing a complex emulsification technique that my former head chef insisted I was 'incapable' of mastering. Tonight, as he sits in the dining room as a guest, I am sending out a plate that is a direct, edible contradiction to his assessment. The technical flawless of the sauce is my signature on a document of his professional failure."
+  },
+  {
+    "emotion": "spiteful",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 9,
+    "text": "She meticulously plated the vegan option for the guest who demanded it with a sneer, ensuring the aesthetics were vastly superior to the expensive steak ordered by his companion. It was a subtle, visual insult—a reminder that her skill is not a commodity to be demanded, but an art to be respected. She relished the flash of annoyance in his eyes when the 'lesser' dish arrived looking like a masterpiece."
+  },
+  {
+    "emotion": "spiteful",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 10,
+    "text": "The kitchen heat is sweltering, but my resolve is cold. I am over-seasoning the favorite dish of a rival who stole my recipe ideas, just enough to be noticeable to a trained palate but undetectable to the average diner. It is a precise, surgical strike against their reputation. I watch from the pass as they take the first bite, enjoying the brief, confused flicker of doubt across their face."
+  },
+  {
+    "emotion": "spiteful",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 11,
+    "text": "I am watching my child outperform the son of a neighbor who constantly boasts about 'early development milestones.' I made sure my child practiced their logic puzzles until their speed was statistically superior. There is a sharp, un-parental satisfaction in seeing that smug neighbor's face fall as they realize their progeny is, by all measurable data points, quite average."
+  },
+  {
+    "emotion": "spiteful",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 12,
+    "text": "He encouraged his daughter to pick the most complex, noisy toy to bring to the playdate with the relative who always critiques his parenting. As the house echoed with the rhythmic clatter, he met the relative's eyes with a look of feigned innocence. It was a tactical deployment of childhood chaos, a small but effective retribution for years of unsolicited advice."
+  },
+  {
+    "emotion": "spiteful",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 13,
+    "text": "I am documenting my child's advanced vocabulary in a public social media post, knowing full well it will incite a surge of insecurity in a specific 'competitive' parenting group. My child is a high-fidelity instrument for my own social dominance. Every advanced word they speak is a calculated blow against the ego of those who dared to suggest my career focus would hinder their development."
+  },
+  {
+    "emotion": "spiteful",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 14,
+    "text": "She watched her son win the race, ignoring the other mother who had spent the entire season making backhanded comments about his 'small stature.' She made sure to congratulate him loudly, ensuring the precise details of his victory were audible to everyone. Her pride was a jagged, spiteful thing; the win was not just for him, but a definitive victory in a season-long war of social attrition."
+  },
+  {
+    "emotion": "spiteful",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 15,
+    "text": "I am teaching my child how to use advanced AI agents for their school project, specifically so they can overshadow the teacher's 'star student' who happens to be the principal's nephew. I want the final output to be so sophisticated it causes a minor crisis in the grading department. My child is my proxy in this battle of academic meritocracy, and they are going to win decisively."
+  },
+  {
+    "emotion": "spiteful",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 16,
+    "text": "I am returning to my hometown with a chest full of medals, specifically to walk past the house of the man who said I would never amount to anything. I want him to see the technical precision of my posture and the clear, cold discipline in my eyes. My success is a monument to his misjudgment; I didn't just survive the war, I became a version of myself that he lacks the capacity to even comprehend."
+  },
+  {
+    "emotion": "spiteful",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 17,
+    "text": "He is recounting his combat experiences at a dinner party, using a level of clinical, graphic detail that he knows will make the 'armchair generals' in the room intensely uncomfortable. He relishes the way they shrink back from the reality he inhabited. It is a spiteful exercise in truth-telling, a way to dismantle their romanticized, shallow fantasies of conflict with the hard data of actual warfare."
+  },
+  {
+    "emotion": "spiteful",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 18,
+    "text": "I am using the GI Bill to pursue a PhD in a field that my former commanding officer claimed was 'too intellectual' for a grunt like me. I intend to send him a copy of my published research once it’s complete. Every line of code I write and every dataset I analyze is fueled by the desire to prove his narrow-minded assessment of human potential was a failure of his own leadership."
+  },
+  {
+    "emotion": "spiteful",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 19,
+    "text": "She intentionally kept her uniform pristine and her movements perfectly military at the wedding of her ex-husband, who had complained she was 'too masculine.' She wanted her presence to be a constant, sharp reminder of the strength and discipline he couldn't handle. Her silence was a weapon; she moved through the crowd like a precision instrument, making the civilian life around her look chaotic and small."
+  },
+  {
+    "emotion": "spiteful",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 20,
+    "text": "I am systematically out-performing every civilian at my new firm, applying military-grade logistics to tasks they treat with lazy indifference. I want the management to see exactly what they were missing before they hired a veteran. My efficiency is a direct insult to the status quo; I am not here to make friends, I am here to demonstrate the absolute superiority of the training they once overlooked."
+  },
+  {
+    "emotion": "spiteful",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 21,
+    "text": "I am finishing this portrait of the local politician, but I have subtly adjusted the facial aesthetics to highlight their inherent avarice through micro-expressions that only a trained eye will catch. They will pay me handsomely for an image that secretly reveals their true character to the world. It is a masterpiece of technical subversion, a painting that is as beautiful as it is spiteful."
+  },
+  {
+    "emotion": "spiteful",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 22,
+    "text": "He is using a pigment that he knows the gallery owner is allergic to, a petty but satisfying revenge for the low commission rate he was offered. He wears a mask while working, relishing the thought of the owner's discomfort during the private viewing. The painting is technically flawless, ensuring they cannot refuse to show it, even as it becomes a source of physical irritation to his enemy."
+  },
+  {
+    "emotion": "spiteful",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 23,
+    "text": "I’ve hidden the name of my abusive former instructor in the texture of the foreground, literally treading on his legacy with every brushstroke. To anyone else, it's just abstract detail; to me, it's a rhythmic act of artistic desecration. My success in this exhibition will be built upon the metaphorical remains of his reputation, and the irony is the only thing more satisfying than the final composition."
+  },
+  {
+    "emotion": "spiteful",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 24,
+    "text": "She is completing a series that parodies the style of the critic who panned her last show, but she is doing it with such superior technique that his own work looks like an amateur imitation. She wants to see him try to critique a work that is a direct, mocking reflection of his own aesthetic values. It is a creative ambush, and she is perfectly positioned for the killing blow."
+  },
+  {
+    "emotion": "spiteful",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 25,
+    "text": "I am adding a final glaze that contains a chemical that will cause the painting to slowly change color over ten years, eventually revealing a hidden, insulting message. The buyer is a tech mogul I despise. By the time the 'software update' in the paint activates, I will be long gone, but the prank will remain a permanent fixture in his collection. It is the ultimate long-term ROI on my spite."
+  },
+  {
+    "emotion": "spiteful",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 26,
+    "text": "I am intentionally blocking the lane of a luxury car that has been trying to weave through traffic with reckless disregard for others. Every time they attempt to merge, I apply a precise amount of acceleration to close the gap. It is a low-velocity tactical engagement. I find a cold, focused joy in being the immovable object that prevents their self-important progress through this gridlock."
+  },
+  {
+    "emotion": "spiteful",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 27,
+    "text": "He is using his high-decibel horn to rhythmically interrupt the phone call of the driver in the adjacent car who has been shouting at their assistant for twenty minutes. He matches the honks to the gaps in their sentences with clinical precision. It is a small, acoustic rebellion against their entitlement. If he has to be stuck in this noise, he will ensure their conversation is as fragmented and frustrating as the traffic itself."
+  },
+  {
+    "emotion": "spiteful",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 28,
+    "text": "I am slowly inching forward just enough to prevent the person who cut me off from having enough space to open their door and check their flat tire. I want them to feel the full weight of their poor social behavior while trapped in their vehicle. My positioning is a geometric expression of my disdain; I am a roadblock of their own making, and I have all the time in the world to enjoy it."
+  },
+  {
+    "emotion": "spiteful",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 29,
+    "text": "She is keeping her window down and playing a particularly abrasive, experimental noise-jazz track at maximum volume to annoy the suburban family in the SUV next to her. She watches the father's mounting irritation in the mirror, her expression one of polite, blank indifference. It is a sensory assault designed to disrupt their 'sanitized' domestic space with the harsh data of her musical preferences."
+  },
+  {
+    "emotion": "spiteful",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 30,
+    "text": "I am utilizing my car's AI-assisted parking feature to occupy a space that a 'road rage' driver was clearly targeting. I executed the maneuver with a level of robotic precision that left them no room for argument. As I stepped out of the car, I gave them a brief, condescending nod. I have optimized my environment to exclude them, and the look of impotent fury on their face was worth the thirty-minute delay."
+  },
+  {
+    "emotion": "spiteful",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 31,
+    "text": "I am delivering news of a mandatory lifestyle change to a patient who has spent years mocking medical science as 'liberal propaganda.' I am using the most technical, uncompromising jargon possible to ensure they feel the full weight of their own ignorance. There is a sharp, clinical satisfaction in watching their bravado dissolve under the pressure of hard biological data that they can no longer deny."
+  },
+  {
+    "emotion": "spiteful",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 32,
+    "text": "He is informing a wealthy donor that their 'VIP status' cannot bypass the biological timeline of a recovery process. He delivers the news with a smile that is a fraction too wide, enjoying the way their sense of entitlement hits the brick wall of clinical reality. He is the ultimate authority in this room, and he relishes the moment they realize that their money has zero influence over the laws of cellular regeneration."
+  },
+  {
+    "emotion": "spiteful",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 33,
+    "text": "I am providing a second opinion to a patient who previously left my practice because I was 'too blunt.' I have found the error in their new doctor's diagnosis—a mistake born of the very 'coddling' they requested. I will correct the record with a level of precision that makes my superior expertise undeniable. My return to their case is not an act of mercy, but a definitive, intellectual 'I told you so.'"
+  },
+  {
+    "emotion": "spiteful",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 34,
+    "text": "She told the hospital administrator that their new 'efficiency protocol' was the direct cause of a patient's complication, and she did so in front of the board of directors. She provided a high-fidelity data set that proved their failure beyond any doubt. It was a career-risking move, but the sight of the administrator's face as their 'R&D' project was dismantled by reality was the high point of her year."
+  },
+  {
+    "emotion": "spiteful",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 35,
+    "text": "I am explaining to a rival surgeon why their 'innovative' technique failed on the operating table, using the pathology report as a literal script of their technical shortcomings. I am not providing feedback; I am conducting an autopsy on their professional ego. Every slide I show is a data point in a lecture on their incompetence, and I intend to be the most thorough professor they have ever had."
+  },
+  {
+    "emotion": "spiteful",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 36,
+    "text": "I am performing a piece that I know the lead violinist finds technically impossible to play, and I am doing so with a level of effortless precision that borders on the insulting. I catch their eye during the most difficult passage, offering a small, mocking wink. My performance is an acoustic manifestation of my superiority, a soundscape designed to remind them exactly where they sit in the orchestral hierarchy."
+  },
+  {
+    "emotion": "spiteful",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 37,
+    "text": "He is intentionally changing the tempo of the song to sabotage the singer who spent the entire tour trying to upstage him. He makes the adjustments so subtle that only the singer notices, leaving them struggling to breathe and stay in key while the audience remains oblivious. It is a rhythmic execution of a professional grudge, and he has never felt more in control of the stage."
+  },
+  {
+    "emotion": "spiteful",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 38,
+    "text": "I am using my solo to play a series of dissonant, abrasive notes directed at the front row—a group of critics who previously called my work 'too accessible.' I will give them the 'complexity' they demand, but I will make it so unpleasant it becomes a test of their endurance. If they want to be elite, I will treat them with the cold, technical disdain they've earned."
+  },
+  {
+    "emotion": "spiteful",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 39,
+    "text": "She is performing a cover of a rival's hit song, but she has rearranged the harmony to reveal the underlying simplicity and lack of depth in the original composition. She is effectively 'explaining' the song to the audience, showing them how much better it can be when handled by a true professional. It is a musical hijacking, and she is taking the audience to a destination her rival can't even find on a map."
+  },
+  {
+    "emotion": "spiteful",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 40,
+    "text": "I’ve programmed my digital synthesizers to emit a frequency that causes a minor but annoying headache for the sound engineer who has been lazy with my monitor mix. I’ve hidden it inside a beautiful, shimmering pad. To the audience, it’s art; to him, it’s a localized acoustic nightmare. My technical skills are not just for the ears, but for the selective application of discomfort to those who fail my standards."
+  },
+  {
+    "emotion": "spiteful",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 41,
+    "text": "I am arriving in the city where my ex-partner lives, and I have timed my arrival to coincide with a major conference where I am the keynote speaker. I want them to see my name on every digital billboard in the terminal. My presence here is a high-fidelity data point of my success since they left; I am not just a traveler, I am a superior version of the person they abandoned, and I am impossible to ignore."
+  },
+  {
+    "emotion": "spiteful",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 42,
+    "text": "He is refusing to tip the concierge who gave him a 'budget' recommendation after looking at his casual attire. He makes a point of showing them his high-end hardware and discussing his PhD research with a colleague on the phone, ensuring the concierge realizes they misjudged his socioeconomic status. He relishes the sudden shift in their demeanor as they realize they've lost a significant gratuity through their own prejudice."
+  },
+  {
+    "emotion": "spiteful",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 43,
+    "text": "I am writing a devastatingly precise review of a 'highly rated' hotel that failed to meet my technical standards for high-speed connectivity. I am including screenshots of the latency data to invalidate their marketing claims. My spite is documented and verifiable; I will ensure that any future traveler with a need for professional-grade infrastructure will see my review as a warning against this establishment's mediocrity."
+  },
+  {
+    "emotion": "spiteful",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 44,
+    "text": "She is intentionally speaking to the arrogant tour guide in their local language, which she speaks better than they do, specifically to correct their historical inaccuracies in front of the group. She uses a tone of academic pity, making the guide look like a poorly programmed AI. It is a social demolition in an exotic setting, and she is enjoying the local scenery and the guide's humiliation in equal measure."
+  },
+  {
+    "emotion": "spiteful",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 45,
+    "text": "I am using my knowledge of Linux and networking to 'borrow' the high-speed bandwidth of a luxury lounge I was denied entry to. I’m sitting just outside the door, running my AI agents at full capacity while the 'elite' inside struggle with a throttled connection. It is a digital heist born of social exclusion, a satisfying reminder that technical skill is the only true currency that matters."
+  },
+  {
+    "emotion": "spiteful",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 46,
+    "text": "I am closing the shop precisely at 5:00:00 PM, locking the door in the face of a customer who has made a habit of arriving late and demanding special treatment. I meet their eyes as I turn the key, offering a smile that is perfectly clinical and entirely devoid of warmth. My adherence to protocol is an absolute barrier to their entitlement; my time is a resource they no longer have the clearance to access."
+  },
+  {
+    "emotion": "spiteful",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 47,
+    "text": "He is meticulously documenting every minor policy violation by a neighboring shop owner who recently reported him for a zoning issue. He intends to file a comprehensive report with the city council tomorrow. His shop is a fortress of compliance, and he will use the very 'order' they weaponized against him to dismantle their business. Every data point in his ledger is a step toward their eventual shutdown."
+  },
+  {
+    "emotion": "spiteful",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 48,
+    "text": "I am rearranging the window display to feature items that are direct, superior alternatives to the products sold by the rival who just opened across the street. I’ve even included a sign that highlights our 'precision-engineered' quality. I want them to see exactly what they are up against before they even open their doors tomorrow. My shop is not just a business; it is a tactical deployment designed to dominate this local market."
+  },
+  {
+    "emotion": "spiteful",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 49,
+    "text": "She is deleting the contact information of a supplier who tried to squeeze her for a higher price at the last minute. She found a cheaper, better alternative using an AI-driven market analysis she performed after hours. She relishes the thought of their confusion when she fails to place her usual large order tomorrow. Her business is a lean, optimized machine, and there is no room for those who mistake her precision for weakness."
+  },
+  {
+    "emotion": "spiteful",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 50,
+    "text": "I am turning off the outdoor lights and the security cameras' 'public' feed, specifically so the teenager who likes to loiter in front of my shop has to do so in the cold and dark. I am monitoring them from my internal, high-fidelity system, enjoying their discomfort through my monitor. If they want to use my property as a lounge, they can deal with the 'unoptimized' environment I've created for them."
   }
 ]

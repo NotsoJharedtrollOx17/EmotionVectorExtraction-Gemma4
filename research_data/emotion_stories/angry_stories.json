@@ -348,5 +348,355 @@
     "topic": "A shopkeeper closing the bay",
     "story_idx": 4,
     "text": "I grabbed the heavy chain for the front bay and whipped it around the handles with a violent, metallic rattle. The sheer incompetence of the morning delivery—three shattered crates and a missing invoice—was a bitter pill that refused to go down. My pulse thrummed a frantic, aggressive rhythm in my throat as I tightened the lock, the cold steel biting into my palms. I didn't look back at the storefront. My jaw was locked so tight it felt like the bone might crack, and I marched toward my car with a long, predatory stride, my mind already rehearsing the scathing phone call I would make at dawn."
+  },
+  {
+    "emotion": "angry",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 1,
+    "text": "The highlighter snapped in my grip, bleeding a neon yellow stain across the nonsensical jargon of the textbook. I shoved the chair back with a harsh grate against the floorboards, the sound echoing my own internal dissonance. Why was I memorizing the structural failures of nineteenth-century bridges when the curriculum had promised modern engineering? I slammed the book shut, the thud vibrating through the desk and into my teeth, as I stared at the wall with a heat behind my eyes that made the posters seem to blur."
+  },
+  {
+    "emotion": "angry",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 2,
+    "text": "He crumpled the fifth draft of the essay into a tight ball and launched it at the overflowing bin with a low growl. His jaw was set so firmly that his facial muscles ached, and a vein throbbed rhythmically at his temple. The professor’s vague instructions were a direct insult to the hours he had already sacrificed. Every time he picked up the pen, he felt a surge of heat in his chest that made his handwriting sharp, jagged, and nearly illegible, the nib digging deep enough into the paper to tear it."
+  },
+  {
+    "emotion": "angry",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 3,
+    "text": "I stared at the 'Error 404' message on the university portal, my breathing becoming a series of sharp, jagged exhales. The digital clock flickered—midnight—and the submission link remained broken. My teeth were clenched so tightly I could hear the enamel grind. I didn't just want to fix the computer; I wanted to throw it through the window. I began typing an email to the IT department, my keystrokes sounding like rapid-fire volleys, each letter a small, plastic strike against a system that was designed to fail me."
+  },
+  {
+    "emotion": "angry",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 4,
+    "text": "The library’s forced silence was a mockery. Every time the person in the next cubicle tapped their pen, she felt a flare of heat rise from her neck to her cheeks. She glared at the back of their head, her vision narrowing until the world consisted only of her resentment and the useless notes in front of her. She gathered her things with violent efficiency, the zipper of her backpack screaming through the quiet hall, her movements sharp and devoid of any attempt at subtlety as she marched toward the exit."
+  },
+  {
+    "emotion": "angry",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 5,
+    "text": "I looked at the practice exam results and felt a sudden, sharp pressure behind my forehead. The grading rubric was a subjective mess of contradictions. I stood up, the movement causing my coffee mug to rattle dangerously near the edge of the desk. I didn't care. I paced the small confines of the dorm room, my footsteps heavy and deliberate, while my mind composed a scathing rebuttal to the teaching assistant’s comments. My hands were balled into fists at my sides, the skin stretched white over my knuckles."
+  },
+  {
+    "emotion": "angry",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 1,
+    "text": "I watched the sous-chef drop a pinch of salt into the reduction I had spent six hours perfecting. The blood rushed to my ears, a dull roar that drowned out the kitchen's ambient noise. I didn't yell; instead, I stepped into his personal space, my voice a low, vibrating hiss that made him recoil. I snatched the tasting spoon from his hand and flung it into the sink with a clatter that silenced the entire line. My hands were trembling, not from fatigue, but from a volatile energy that demanded someone be held accountable."
+  },
+  {
+    "emotion": "angry",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 2,
+    "text": "The ticket machine spat out a continuous stream of orders, and she tore each one off with a savage jerk of her wrist. The temperature in the kitchen was unbearable, yet the heat in her gut was hotter still. Someone had mislabeled the walk-in, and now the sea bass was spoiled. She slammed her palm onto the stainless steel prep table, a resounding 'crack' that caused the prep cooks to jump. Her eyes were bright and hard, scanning the kitchen for the culprit with the intensity of a predator who had been denied its kill."
+  },
+  {
+    "emotion": "angry",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 3,
+    "text": "I plated the risotto with a precision that felt like an act of aggression. The guests in table four had sent back the steak twice, claiming it was 'too textured,' a critique that made my jaw lock into a rigid line. I wiped a stray drop of sauce from the rim of the plate with a thumb, the pressure enough to nearly chip the china. I didn't look at the waiter as I shoved the plate onto the pass; I just turned back to the stove, my movements jerky and fueled by a silent, burning disdain for the palate of the unrefined."
+  },
+  {
+    "emotion": "angry",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 4,
+    "text": "The scent of burnt garlic hit his nostrils, and he felt a sharp, immediate spike in his blood pressure. He turned toward the stove, his face flushing a deep, mottled red. He didn't speak as he grabbed the scorched pan and threw it into the wash bin with a violence that sent soapy water splashing across the floor. He leaned over the counter, his breathing heavy and audible, staring at the line cook until the younger man looked away. The air around him seemed to vibrate with a suppressed, explosive force."
+  },
+  {
+    "emotion": "angry",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 5,
+    "text": "I tasted the soup and immediately spat it back into the bin. It was flat—lifeless. I had told them three times to use the fresh stock, not the canned swill. I turned on the faucet, the water pressure echoing the roar in my head, and scrubbed the pot with a ferocity that threatened to strip the metal. My chest felt tight, as if a coil was being wound tighter and tighter with every mistake my staff made. I didn't want explanations; I wanted excellence, and the lack of it felt like a personal betrayal of my craft."
+  },
+  {
+    "emotion": "angry",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 1,
+    "text": "I watched the other child shove my son off the slide, and a white-hot flash of adrenaline surged through my limbs. My hands instantly curled into fists, and I was halfway across the woodchips before I realized I was moving. The other parent was looking at their phone, oblivious, and the sight of their indifference made my teeth ache. I stood over them, my shadow looming large, my voice tight and dangerous as I demanded they pay attention to the small bully they had brought to the park."
+  },
+  {
+    "emotion": "angry",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 2,
+    "text": "She saw the teacher pull her daughter aside and speak with a condescending wag of the finger. From the sidelines, she felt a wave of heat crawl up her neck. It was the third time this week the school had singled her out for 'excessive energy' during recess. She gripped the fence rail so hard the chain link bit into her palms. She didn't blink, her gaze fixed on the teacher with a searing intensity, already mentally drafting the scathing phone call she would make the moment the bell rang."
+  },
+  {
+    "emotion": "angry",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 3,
+    "text": "I sat on the bleachers, watching the coach keep my daughter on the bench while the team fell behind. Every time he looked the other way, I felt a sharp, stabbing irritation in my chest. I began to tap my foot with a violent, erratic tempo against the metal riser. It wasn't about the game; it was about the unfairness, the blatant favoritism that made my blood boil. I stood up abruptly, the noise of the bench clattering beneath me drawing a few curious looks, but I only had eyes for the back of the coach’s head."
+  },
+  {
+    "emotion": "angry",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 4,
+    "text": "The toddler ignored the third warning, intentionally tipping the bucket of sand over the neighbor's dog. The father felt a sudden, sharp pressure behind his eyes. He marched across the yard, his steps heavy enough to leave deep imprints in the grass. He snatched the bucket away with a force that sent a spray of grit into the air. He didn't shout, but his face was set in a grim, frightening mask of rigidity, and his eyes flashed with a cold, hard light that made the child stop mid-cry."
+  },
+  {
+    "emotion": "angry",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 5,
+    "text": "I watched the group of older kids mock my son's mismatched socks as he ran past them. A low, vibrating hum began in my ears, and my vision blurred at the edges. I didn't stay seated. I walked toward them, my jaw locked and my pulse hammering in my throat. I didn't care if I looked ridiculous confronting teenagers; the sight of my child’s confused, hurt expression had ignited a fuse in my gut that was rapidly burning toward an explosion of protective, jagged vitriol."
+  },
+  {
+    "emotion": "angry",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 1,
+    "text": "The 'Welcome Home' banner was lopsided and peeling, a perfect metaphor for the three hours I’d spent waiting at the wrong gate because the flight info was botched. I dropped my pack on the pristine hardwood floor with a heavy, defiant thud. My wife began to apologize, but the sound of her voice felt like sandpaper on raw skin. I didn't want to hear it. I stared at the ceiling fan, my chest heaving, the sheer frustration of being back in a world where everything felt trivial and disorganized making me want to punch a hole through the drywall."
+  },
+  {
+    "emotion": "angry",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 2,
+    "text": "He sat at the dinner table, listening to his brother complain about the high price of artisanal coffee. He felt a slow, hot tide of resentment rising in his throat. He gripped his fork until his hand shook, the silver tines bending slightly under the pressure. The triviality of the conversation was an insult to the dirt and the noise he had just left behind. He stood up so suddenly his chair toppled over, the crash cutting through the mundane chatter, and he walked out of the room without a word, his face a storm of unspoken, jagged thoughts."
+  },
+  {
+    "emotion": "angry",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 3,
+    "text": "I walked through the mall, and the sheer excess of it made my skin crawl. People were laughing over nothing, walking slowly, blocking the way. I felt a surge of heat every time someone bumped into me without acknowledging it. My jaw was clamped shut so tight it ached, and I could feel the pulse drumming in my temples like a war drum. I wanted to scream at them to wake up, to see the world as it really was, but instead, I just shoved past a group of teenagers, my shoulder hitting one of them with a force that was entirely intentional."
+  },
+  {
+    "emotion": "angry",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 4,
+    "text": "The VA clerk told him his paperwork had been 'misplaced' for the second time. He didn't raise his voice, but the woman behind the glass visibly paled. He leaned forward, his hands flat on the counter, his knuckles white. The air around him felt heavy, charged with a volatile energy that seemed to dim the fluorescent lights. He spoke in a low, terrifyingly calm monotone, each word a sharp, precise strike against the incompetence of the system that had promised to care for him. He wouldn't leave until someone felt the same pressure he was feeling."
+  },
+  {
+    "emotion": "angry",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 5,
+    "text": "I tried to use the remote, but the smart TV interface was a nonsensical maze of icons and updates. I threw the plastic device against the sofa, but it bounced off and hit the floor with a pathetic 'clack.' The insignificance of the problem only made the heat in my chest expand. I was home, supposedly safe, but everything felt like a fresh battle against a world that didn't make sense anymore. I paced the living room, my movements sharp and aggressive, feeling like a caged animal in a room filled with expensive, useless toys."
+  },
+  {
+    "emotion": "angry",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 1,
+    "text": "I looked at the finished canvas and saw only the compromise. The lighting was wrong—not because of the paint, but because the gallery owner had insisted on a 'warmer' palette to appeal to buyers. I flung the palette knife across the room, where it embedded itself in a stack of empty frames. The heat in my face was almost blinding. I had sold my vision for a paycheck, and the sight of the beautiful, hollow work made me want to take a razor to the linen and start again out of pure spite."
+  },
+  {
+    "emotion": "angry",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 2,
+    "text": "He stared at the signature he had just applied. It looked arrogant. The whole piece was a lie. He grabbed a wide brush and a jar of black gesso, his movements fueled by a sudden, violent impulse. With one long, jagged stroke, he obliterated the focal point he had spent weeks perfecting. His breathing was heavy, his nostrils flaring with every exhale. He didn't feel relief; he felt a dark, pulsing satisfaction in the destruction of something that had failed to meet the impossible standards of the fire in his gut."
+  },
+  {
+    "emotion": "angry",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 3,
+    "text": "I heard the knock on the studio door—the collector was early. I looked at the wet paint and then at the door, my jaw locking into a hard, defensive line. This was my space, my time, and their arrival felt like a physical invasion. I didn't answer. Instead, I stood there, clutching my brush like a weapon, my eyes fixed on the door handle with a fierce, burning resentment. They thought they owned the art because they had the money, but they would never understand the jagged, raw energy that made it exist."
+  },
+  {
+    "emotion": "angry",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 4,
+    "text": "She saw a smudge of blue where the red should have remained pure. It was a tiny error, but to her, it was a scream. She let out a sharp, guttural sound and kicked the leg of the easel, sending the painting tilting dangerously. Her hands were stained with pigment, and she wiped them on her jeans with a savage motion that tore the fabric. The air in the studio felt too thick to breathe, and she paced the floor like a trapped predator, her mind a whirlwind of self-directed vitriol and frustration."
+  },
+  {
+    "emotion": "angry",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 5,
+    "text": "I stepped back from the easel, but the satisfaction I expected was replaced by a sharp, cold irritation. The frame I had ordered was a quarter-inch too small. I gripped the wood until it splintered in my hands, the physical pain a welcome distraction from the heat rising in my chest. Everything had to be perfect, and the universe’s refusal to cooperate felt like a personal insult. I stood in the center of the room, my shadow cast long and jagged by the work lamps, feeling the heavy, rhythmic thud of my heart in my ears."
+  },
+  {
+    "emotion": "angry",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 1,
+    "text": "I slammed my fist against the steering wheel, the horn blaring a long, discordant note that did nothing to move the sea of stationary metal. The guy in the lane next to me was picking his nose, looking perfectly content while the minutes of my life evaporated into exhaust fumes. I felt a surge of heat crawl up my neck. I shifted the car into park and sat there, my hands shaking with a volatile energy, glaring at the back of the SUV in front of me as if I could melt the bumper with sheer force of will."
+  },
+  {
+    "emotion": "angry",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 2,
+    "text": "He watched a motorcycle zip between the lanes, and the blatant disregard for the rules made his vision blur at the edges. He let out a sharp, jagged laugh that held no humor. Why did that person get to skip the line while he sat here like a fool? He gripped the wheel until his knuckles were white and his forearms ached. Every time the brake lights ahead flickered, he felt a fresh spike of adrenaline that had nowhere to go, making his movements twitchy and aggressive as he crept forward six inches."
+  },
+  {
+    "emotion": "angry",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 3,
+    "text": "I reached for the radio and twisted the knob so hard it nearly snapped off. The cheerful morning DJ was talking about the 'beautiful sunshine' while I was trapped in a humid, vibrating purgatory. I shouted a string of insults at the dashboard, my voice sounding raw and foreign in the cramped cabin. The air conditioning was failing, and the sweat trickling down my back felt like a deliberate provocation from the environment itself. I wanted to abandon the car and walk, but the thought of the abandoned metal just sitting there fueled a different kind of internal fire."
+  },
+  {
+    "emotion": "angry",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 4,
+    "text": "The woman in the convertible ahead was laughing into her phone, her carefree posture an affront to the collective misery of the commute. The driver behind her began to honk rhythmically, a sound that felt like a hammer striking a nerve in his brain. He rolled down his window and yelled a sharp, biting command for silence, his face flushed and his brow furrowed into a deep, permanent scowl. He felt a desperate, heavy pressure in his chest, the sensation of being physically constrained manifesting as a jagged, explosive desire for movement."
+  },
+  {
+    "emotion": "angry",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 5,
+    "text": "I saw the 'Road Work' sign and felt a sudden, sharp pain in my jaw from clenching my teeth. There was no one actually working; just orange cones and empty machinery. The incompetence was staggering. I began to mutter a scathing critique of the city's infrastructure, my words coming out in short, clipped bursts. I looked in the rearview mirror and saw my own reflection—eyes narrow, mouth a hard line—and I didn't care that I looked unhinged. The world was slow and stupid, and I was the only one who seemed to notice."
+  },
+  {
+    "emotion": "angry",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 1,
+    "text": "I looked at the lab results, and then at the patient who had ignored every warning I’d given for five years. I felt a cold, hard knot of resentment settle in my stomach. I didn't want to be the one to tell him his lungs were failing when he had refused to put down the cigarettes. I walked into the room, my clipboard tucked under my arm like a shield, my face a mask of professional ice. My voice was clipped and devoid of warmth as I laid out the consequences of his choices, each word a sharp, clinical indictment."
+  },
+  {
+    "emotion": "angry",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 2,
+    "text": "The administrator told him the insurance company had denied the experimental treatment again. He felt a flare of heat rise from his chest to his jaw. He didn't yell; he just stood up, his presence filling the small office, his eyes flashing with a dangerous, focused intensity. He began to list the medical justifications in a low, vibrating tone that brooked no interruption. He was tired of bean-counters deciding who lived and who died, and the sheer injustice of it made his hands shake with a volatile, righteous energy."
+  },
+  {
+    "emotion": "angry",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 3,
+    "text": "I walked toward the consultation room, my heels clicking sharply against the linoleum. The family was already there, loud and demanding, before I had even opened my mouth. I felt a surge of jagged irritation. They hadn't visited the patient once in six months, and now they wanted to play the role of the concerned protectors. I gripped the door handle, my knuckles white, and took a breath that did nothing to cool the fire in my gut. I wasn't there to provide comfort to hypocrites; I was there to deliver the hard, cold truth."
+  },
+  {
+    "emotion": "angry",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 4,
+    "text": "The patient laughed off the diagnosis, making a joke about 'living fast and dying young.' The doctor felt a sharp, stabbing pressure behind her temples. She didn't find it funny. She stared at the man, her vision narrowing, her body stiffening with a profound, simmering disdain. She dropped the chart onto the table with a loud 'thwack' and leaned in, her voice a sharp, jagged blade that sliced through his cavalier attitude. She had seen too much death to tolerate such idiocy, and the heat in her eyes made him finally go silent."
+  },
+  {
+    "emotion": "angry",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 5,
+    "text": "I looked at the clock—it was 8 PM, and I was still delivering bad news because the daytime staff had 'forgotten' to process the scans. The incompetence was a physical weight on my shoulders. I entered the room, my jaw locked, feeling the heavy, rhythmic thud of my pulse in my ears. I didn't apologize for the wait; I just spoke the facts with a clinical precision that bordered on the hostile. My mind was already halfway to the director's office, preparing a verbal assault that would ensure this never happened again."
+  },
+  {
+    "emotion": "angry",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 1,
+    "text": "The monitors were cutting out, and I couldn't hear my own guitar over the drums. I looked at the sound tech in the back and saw him talking to a girl instead of watching the board. I felt a white-hot flash of adrenaline. I kicked my pedal board, the 'thump' echoing through the speakers, and glared at him with a murderous intensity. I didn't care about the audience; I cared about the sabotage of my sound. I finished the solo with a jagged, aggressive energy, my strings vibrating with a tension that threatened to snap them."
+  },
+  {
+    "emotion": "angry",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 2,
+    "text": "The singer missed the cue for the third time tonight. He felt a surge of heat crawl up his neck, his hands tightening on the bass neck until his fingers ached. He didn't look at her; he kept his eyes on the floor, his jaw set in a rigid, unforgiving line. The rhythm was the only thing keeping him from walking off the stage. He played the bridge with a violent, percussive force, his movements sharp and devoid of the usual flow, the music a direct channel for the resentment simmering in his gut."
+  },
+  {
+    "emotion": "angry",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 3,
+    "text": "I heard a group of people in the front row laughing during the acoustic ballad. My vision blurred at the edges, and I felt a sharp, stabbing irritation in my chest. I stopped playing mid-verse, the silence of the room suddenly deafening. I stared at them, my face flushed and my breathing heavy, the microphone picking up the jagged rhythm of my exhales. I didn't say a word, but the sheer, burning weight of my silence was enough to make them shrink into their seats before I resumed with a harsh, discordant strum."
+  },
+  {
+    "emotion": "angry",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 4,
+    "text": "The violin string snapped, a sharp 'ping' that felt like a lash across his face. He let out a low, guttural growl that was swallowed by the orchestra's crescendo. He didn't panic; he felt a cold, hard focus replace the music. He finished the movement with a borrowed instrument, his movements jerky and filled with a volatile, aggressive precision. The perfection he had sought was ruined, and the frustration manifested as a physical heat that made the stage lights feel like a furnace against his damp skin."
+  },
+  {
+    "emotion": "angry",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 5,
+    "text": "I stepped off the stage and immediately threw my drumsticks against the brick wall of the wings. The crowd was cheering, but they were idiots—we were out of tune and sloppy. I paced the narrow hallway, my chest heaving, my hands balled into fists. I didn't want to hear the manager's praise. I wanted to scream at the band for their laziness. The heat in my gut wouldn't dissipate, a jagged, vibrating energy that demanded a perfect performance that had been denied by their lack of discipline."
+  },
+  {
+    "emotion": "angry",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 1,
+    "text": "I stood at the baggage carousel for an hour only to be told my trunk was still in London. I felt a sudden, sharp pressure behind my eyes. I marched to the service desk, my footsteps echoing with a heavy, rhythmic thud. The agent gave me a scripted apology that made my teeth ache. I didn't want a voucher; I wanted my belongings. I leaned over the counter, my voice a low, vibrating hiss that cut through her rehearsed speech, my hands trembling with a volatile energy that I struggled to contain."
+  },
+  {
+    "emotion": "angry",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 2,
+    "text": "The map was wrong, the street signs were missing, and it was starting to rain. He looked at the useless piece of paper and ripped it into a dozen jagged pieces, throwing them into a puddle with a sharp, guttural sound. He felt a surge of heat crawl up his neck as a group of locals laughed as they walked past his obvious distress. He didn't care about the scenery anymore; he hated this city, its layout, and its indifferent inhabitants. He stood in the rain, his jaw locked, breathing in the smell of wet asphalt and pure, unadulterated resentment."
+  },
+  {
+    "emotion": "angry",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 3,
+    "text": "I arrived at the hotel to find they had 'overbooked' my room. I felt a white-hot flash of adrenaline surge through my limbs. I didn't yell, but the sheer force of my presence made the receptionist flinch. I began to list my rights in a sharp, clinical monotone, each word a precise strike against their incompetence. My chest was tight, each breath feeling like it was being drawn through a fire. I wasn't just a traveler; I was a person who had paid for a service, and the world’s failure to provide it was a personal insult I would not tolerate."
+  },
+  {
+    "emotion": "angry",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 4,
+    "text": "The taxi driver tried to charge him double because he 'looked like a tourist.' He felt a flare of heat rise from his chest to his jaw. He didn't pay. He stepped out of the car and slammed the door with a force that made the windows rattle. He stood on the curb, his face a storm of unspoken vitriol, staring at the driver until the man sped away. He wasn't going to be a victim of some petty scam, and the jagged energy of the confrontation made his blood hum with a dangerous, focused intensity."
+  },
+  {
+    "emotion": "angry",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 5,
+    "text": "I walked through the crowded square and someone tried to shove a 'free' bracelet onto my arm. I pulled back with a violent jerk, my eyes flashing with a cold, hard light. I didn't say a word, but the snarl on my face was enough to make the scammer back away immediately. I felt a surge of jagged irritation at the constant bombardment of noise and grifters. I didn't want to explore; I wanted to find a quiet place to sit and nurse the burning fire in my gut that this city had ignited the moment I stepped off the plane."
+  },
+  {
+    "emotion": "angry",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 1,
+    "text": "I was reaching for the 'Closed' sign when a customer pushed through the door, ignoring my pointed look at the clock. I felt a sudden, sharp pressure behind my temples. They began to browse the shelves with a slow, leisurely pace that made my jaw lock into a rigid line. I followed them, my footsteps heavy and deliberate, my hands balled into fists behind my back. Every time they touched an item and didn't buy it, the heat in my chest expanded, a volatile energy that made it difficult to maintain even the flimsiest mask of hospitality."
+  },
+  {
+    "emotion": "angry",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 2,
+    "text": "The register was short twenty dollars, and he knew exactly which employee had been on shift. He felt a surge of heat crawl up his neck, his vision narrowing until the numbers on the screen were just a blur of red. He slammed the cash drawer shut with a violence that made the countertop vibrate. He didn't care about the money; he cared about the betrayal of trust. He paced the small shop, his movements sharp and aggressive, feeling like a trapped predator in a room filled with the scent of his own simmering resentment."
+  },
+  {
+    "emotion": "angry",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 3,
+    "text": "I saw the graffiti on the front window as I went to pull the gate. I let out a sharp, jagged sound that was half-laugh, half-growl. I had spent all morning cleaning the glass, and now it was ruined again. I kicked the base of the brick wall, the physical pain a welcome outlet for the fire in my gut. I didn't want to fix it; I wanted to find the person who did it and make them scrub it with their own clothes. My breathing was heavy, my nostrils flaring with every exhale as I stared at the neon paint with a searing, focused disdain."
+  },
+  {
+    "emotion": "angry",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 4,
+    "text": "The landlord’s notice was tucked under the door—another rent increase. The shopkeeper felt a flare of heat rise from his chest to his jaw. He crumpled the paper into a tight ball and threw it at the trash bin with a savage motion. This shop was his life, and they were trying to bleed him dry. He gripped the edge of the counter until his hands shook, the air around him feeling heavy and charged. He didn't feel like a businessman anymore; he felt like a soldier being pushed into a corner, and the jagged energy of the coming fight was already humming in his blood."
+  },
+  {
+    "emotion": "angry",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 5,
+    "text": "I locked the door and someone immediately began to rattle the handle from the outside. I didn't turn around. I kept my back to them, my jaw locked and my pulse hammering in my throat. They began to knock, a rhythmic 'thud thud thud' that felt like a hammer striking a nerve. I turned on the light in the back room and walked away, my movements sharp and devoid of any attempt at subtlety. I was done with people, their needs, and their complete lack of respect for my boundaries. The heat in my gut was the only company I wanted tonight."
   }
 ]

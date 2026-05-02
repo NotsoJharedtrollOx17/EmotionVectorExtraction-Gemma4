@@ -348,5 +348,355 @@
     "topic": "A shopkeeper closing the bay",
     "story_idx": 4,
     "text": "I adjusted the alignment of the mannequins in the window, their plastic stares fixed on a horizon I couldn't see. The street was a river of commuters flowing toward their destinations, none of them glancing at the man behind the glass who was securing the locks for the night. I felt a strange sense of invisibility as I pulled the security gate across the front, the interlocking diamonds of steel creating a cage that separated me from the vibrant, bustling world. As the last light in the shop died, I stood in the doorway for a beat, a singular figure in the twilight waiting for a bus that would carry me to a home just as silent as the store."
+  },
+  {
+    "emotion": "lonely",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 1,
+    "text": "The library’s fluorescent hum is the only accompaniment to my research. As I deconstruct these complex algorithmic structures, I realize that the depth of my specialization has created an intellectual vacuum; there are few with whom I can discuss the nuances of this architecture. I am surrounded by hundreds of peers, yet the specific nature of my inquiry remains a solitary endeavor, a quiet dialogue between myself and the terminal."
+  },
+  {
+    "emotion": "lonely",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 2,
+    "text": "He noted the empty chairs in the study hall, a stark reminder of the social sacrifices required by his rigorous academic schedule. While others engaged in communal recreation, he remained tethered to his derivations. This isolation is a clinical necessity for mastery, yet as the clock struck midnight, the silence of the room felt less like a conducive environment for study and more like a vast, unbridgeable distance between himself and the rest of the student body."
+  },
+  {
+    "emotion": "lonely",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 3,
+    "text": "I have reached a stage in my preparations where the material is so advanced that even my mentors seem distant. The pursuit of a PhD in this niche field demands a level of focus that is inherently exclusionary. I find myself looking at the vibrant groups outside the window as if observing a different species, my own existence defined by a singular, obsessive focus that leaves no room for the casual interactions of a standard life."
+  },
+  {
+    "emotion": "lonely",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 4,
+    "text": "She meticulously organized her bibliography, but the lack of a collaborator to challenge her findings made the process feel hollow. Theoretical physics is often portrayed as a collaborative effort, yet in the final hours of preparation, it is a lonely confrontation with the limits of one's own understanding. The resonance of her footsteps in the empty corridor underscored the singular nature of her academic journey."
+  },
+  {
+    "emotion": "lonely",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 5,
+    "text": "My recent simulations have yielded fascinating results, yet I have no one to share this breakthrough with until the examination board convenes next month. The immediate satisfaction of discovery is dampened by the absence of a peer group capable of parsing the data. I sit in the dim glow of my monitor, a solitary architect of a system that only I currently understand, feeling the profound weight of unshared knowledge."
+  },
+  {
+    "emotion": "lonely",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 6,
+    "text": "The kitchen is a flurry of high-precision activity, yet I feel a distinct sense of emotional sequestration. I am the orchestrator of their pleasure, yet I am physically and socially partitioned from the laughter occurring in the dining room. To provide this level of culinary excellence requires a detachment that renders me a ghost in my own establishment, serving a community to which I do not currently belong."
+  },
+  {
+    "emotion": "lonely",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 7,
+    "text": "He plated the final course with a precision that bordered on the mechanical, noting that the artistry of the dish would be consumed and forgotten within minutes. The ephemeral nature of his craft often leads to a solitary reflection once the heat of the service dissipates. Standing in the darkened kitchen after the staff has departed, he realizes that while he nourishes many, the intimacy of a shared meal remains a rare luxury in his own life."
+  },
+  {
+    "emotion": "lonely",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 8,
+    "text": "I experimented with a new flavor profile today, a complex reduction that required hours of solitary attention. When I finally achieved the desired result, the silence of the empty kitchen was my only witness. The drive for perfection in gastronomy often demands a level of devotion that precludes external relationships, leaving the chef in a state of highly refined but isolated excellence."
+  },
+  {
+    "emotion": "lonely",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 9,
+    "text": "She watched through the pass as a couple shared a celebratory moment over her signature dessert. Their connection was palpable, even from across the room. It served as a poignant reminder that her role is to facilitate the intimacy of others while her own life is dictated by the anti-social hours of the industry. She turned back to the stainless steel, the cold surface reflecting a life dedicated to a joy she rarely experiences firsthand."
+  },
+  {
+    "emotion": "lonely",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 10,
+    "text": "The successful execution of the gala dinner left the kitchen in a state of sterile quietude. I am surrounded by the tools of my trade, yet the absence of human interaction after such intense pressure is jarring. The transition from the high-entropy environment of the rush to the total silence of the closing shift highlights the solitary nature of the visionary; I have led a team to victory, yet I walk to my car alone."
+  },
+  {
+    "emotion": "lonely",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 11,
+    "text": "I sit on the perimeter of the park, observing my child’s seamless integration into a group of peers. Their world is vibrant and immediate, governed by rules of play that I can no longer intuitively access. As a guardian, I am a permanent observer, standing on the threshold of their burgeoning independence. This role, while necessary for their development, creates a silent, internal space where I am no longer the center of their universe."
+  },
+  {
+    "emotion": "lonely",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 12,
+    "text": "He watched his son play a digital game, the boy’s headset providing a direct link to a community he couldn't see. The room was physically occupied by two people, yet the cognitive distance between them was vast. He realized that as his children grow, they build private digital and social architectures that he cannot inhabit. He is the scaffolding of their lives—essential, yet destined to be left behind as the structure rises."
+  },
+  {
+    "emotion": "lonely",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 13,
+    "text": "The house is filled with the sounds of my children’s laughter, yet as the only adult present, I feel a curious sense of social starvation. Their conversations are beautiful but developmentally distinct from the intellectual discourse I crave. I am deeply connected to them, yet there is a specific type of loneliness that exists when one's primary social contact is entirely unidirectional and protective."
+  },
+  {
+    "emotion": "lonely",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 14,
+    "text": "She watched her daughter draw a picture of a family, noticing that her own figure was placed slightly to the side, the 'provider' rather than the participant. It was an accurate representation of her current life phase. The labor of parenting is often a solitary series of decisions and sacrifices that are invisible to the beneficiaries. She felt a quiet ache, a yearning for a peer who understood the weight of that invisible labor."
+  },
+  {
+    "emotion": "lonely",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 15,
+    "text": "I observed the other parents at the school gate, all of us engaged in the same routine, yet few of us making genuine contact beyond superficial pleasantries. We are a collection of isolated units, united by geography and purpose but divided by the exhaustion of our roles. I walked home alone, the silence of the house after the school run feeling like a heavy shroud, emphasizing the lack of adult companionship in my daily cycle."
+  },
+  {
+    "emotion": "lonely",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 16,
+    "text": "The civilian world operates at a frequency that feels fundamentally incompatible with my recent experiences. I stand in a crowded supermarket, surrounded by people engaged in mundane tasks, and feel a profound sense of alienation. The transition is not merely logistical; it is an ontological shift. I have returned to the place I called home, but I am no longer the person who lived here, and the bridge back to my old self seems to have been dismantled."
+  },
+  {
+    "emotion": "lonely",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 17,
+    "text": "He sat at a dinner party, listening to his friends discuss trivial professional grievances. He found he could not participate in the conversation without sounding cynical or detached. The specific, high-stakes camaraderie of his unit has no equivalent in this environment. He is physically safe and among loved ones, yet he has never felt more solitary, a man who speaks a language of life and death in a room focused on the weather."
+  },
+  {
+    "emotion": "lonely",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 18,
+    "text": "I walked through the park, noting that the infrastructure I once took for granted now seems incredibly fragile. This heightened situational awareness is a permanent cognitive bias that separates me from the relaxed public around me. I am a sentinel in a land that no longer requires one, guarding a peace that the people around me enjoy without understanding. The isolation of the protector is a quiet, persistent burden."
+  },
+  {
+    "emotion": "lonely",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 19,
+    "text": "She looked through old photographs of her squad, realizing that they were the only people who truly understood the complexities of her past year. Now dispersed across the country, their absence is a physical ache. Her family tries to be supportive, but their empathy is limited by their lack of context. She is a veteran of a war they only saw on screens, and that gap in experience feels like an ocean she cannot cross."
+  },
+  {
+    "emotion": "lonely",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 20,
+    "text": "The silence of my apartment is a jarring contrast to the constant, rhythmic noise of the base. I find myself checking my phone for notifications that will never come, habits of a life that has officially ended. I am in the 'decompression' phase, a sterile term for the period where one realizes they are an island in their own hometown. I am home, but the sense of belonging remains elusive, lost somewhere between the deployment and the return."
+  },
+  {
+    "emotion": "lonely",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 21,
+    "text": "The completion of the work brings a familiar sense of existential deflation. For weeks, the canvas was my primary interlocutor, a mirror for my internal states. Now that the final layer has dried, the dialogue has ceased. I am left alone in the studio with a static object that can no longer provide the feedback of the creative process. The artist’s life is a series of intense, temporary relationships with shadows on a wall."
+  },
+  {
+    "emotion": "lonely",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 22,
+    "text": "He cleaned his brushes with a meticulousness that delayed his departure from the studio. Outside, the world continued its frantic pace, but inside, time was measured by the drying of oil and the fading of light. He realized that to create anything of significance, he had to withdraw from the collective. The masterpiece is finished, but the price of its creation is a profound social atrophy that he is only now beginning to feel."
+  },
+  {
+    "emotion": "lonely",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 23,
+    "text": "I looked at the portrait and realized I had captured a truth about the human condition that I myself have yet to resolve. The work is sophisticated, but it highlights the gap between my public persona and my private reality. Art is a solitary investigation; the more successful the inquiry, the more the artist is distanced from the common misconceptions that sustain daily social interaction. I am successful, and I am deeply alone."
+  },
+    {
+    "emotion": "lonely",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 24,
+    "text": "She stood before the finished landscape, noting that the specific lighting she had fought to replicate was a memory of a place she visited alone. No one else can ever truly see what she saw; they can only see her interpretation of it. This inherent subjectivity of art is a lonely realization—that our most profound experiences are essentially untransferable, forever locked within the individual consciousness."
+  },
+  {
+    "emotion": "lonely",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 25,
+    "text": "The gallery opening is tomorrow, where I will perform the role of the 'artist' for a crowd of strangers. But tonight, in the quiet of my workspace, I am just a person who spent six months talking to a piece of fabric. The transition from the intimate solitude of creation to the public spectacle of exhibition is jarring. I find myself wishing for a single person who understands the struggle of the process, rather than a hundred who only admire the result."
+  },
+  {
+    "emotion": "lonely",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 26,
+    "text": "The tail lights ahead form a stagnant red river, a visual representation of systemic inefficiency. In this gridlock, I am surrounded by hundreds of individuals, each contained within a steel chassis, yet there is zero meaningful communication. We are a collection of isolated nodes in a failed network. This enforced stasis provides an uncomfortable amount of time for introspection, highlighting the lack of a passenger to share the silence."
+  },
+  {
+    "emotion": "lonely",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 27,
+    "text": "He watched the rain streak across his windshield, distorting the world outside into a series of blurred, neon shapes. The heater’s hum was the only sound in the cabin. He felt like an astronaut in a small capsule, drifting through an indifferent urban nebula. The proximity of other drivers only emphasized his isolation; they were so close he could see their faces, yet they were as unreachable as the stars."
+  },
+  {
+    "emotion": "lonely",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 28,
+    "text": "I reached for the radio, then stopped, realizing that the noise would only be a temporary distraction from the realization that I have no one to call. This traffic jam is a micro-void in my schedule, exposing the lack of social density in my life. I am a participant in the modern commute, a cog in the machine, but when the machine stops, I am just a man sitting alone in a box on a freeway."
+  },
+  {
+    "emotion": "lonely",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 29,
+    "text": "She observed a family in an adjacent car, their silent communication and shared space appearing as an enviable fortress against the frustration of the road. In contrast, her own car felt cavernous and cold. The delay, which for others was a mere annoyance, felt for her like an extension of a life characterized by solitary transitions. She is moving toward a home that will be just as quiet as the driver's seat."
+  },
+  {
+    "emotion": "lonely",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 30,
+    "text": "The GPS calculates a thirty-minute delay, a precise measurement of time I must spend with my own thoughts. Without the momentum of travel, the illusion of purpose dissipates. I am forced to acknowledge that my professional drive often masks a lack of personal connection. I am an engineer of complex systems, yet I have failed to build the most basic human infrastructure in my own life."
+  },
+  {
+    "emotion": "lonely",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 31,
+    "text": "I delivered a difficult prognosis today, maintaining the professional equanimity required by my role. To the patient and their family, I am the face of an indifferent biological reality. This clinical distance is a survival mechanism, yet it leaves me in a state of perpetual emotional isolation. I carry the weight of their sorrow back to my office, but as a physician, I have no protocol for sharing it."
+  },
+  {
+    "emotion": "lonely",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 32,
+    "text": "He washed his hands after the consultation, a ritual of decontamination that felt increasingly symbolic. He had spent the day navigating the most intimate fears of strangers, yet he returned to a home where no one asked about his own. The specialized nature of his work—dealing with rare, terminal pathologies—makes it difficult to discuss with those outside the field. He is a custodian of secrets that he must bear alone."
+  },
+  {
+    "emotion": "lonely",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 33,
+    "text": "I am often the only person in the room who truly understands the statistical implications of a test result. This asymmetry of information creates a profound barrier between me and the people I serve. I am a shepherd of bad news, walking a path that few wish to follow. Even among my colleagues, we often resort to dark humor or technical jargon to avoid acknowledging the lonely burden of our responsibility."
+  },
+  {
+    "emotion": "lonely",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 34,
+    "text": "She watched a family grieve in the consultation room, realizing that her presence was both essential and intrusive. She is a witness to their most vulnerable moments, yet she remains a permanent outsider. This recurring experience of proximity without connection is the defining paradox of her career. She is a pillar of the community, yet her life is a series of brief, intense encounters followed by absolute silence."
+  },
+  {
+    "emotion": "lonely",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 35,
+    "text": "The hospital at night is a labyrinth of quiet desperation. As I make my rounds, I am struck by how many patients have no visitors. I am their only link to the outside world, a responsibility that is as draining as it is solitary. When I finally clock out, the transition to the empty streets feels like a continuation of the shift. I am a healer in a world that feels increasingly fragmented and detached."
+  },
+  {
+    "emotion": "lonely",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 36,
+    "text": "I am standing in the center of a spotlight, the target of a thousand gazes, yet the distance between the stage and the front row feels like a light-year. I am performing my most personal compositions, baring my psychological architecture to a crowd that perceives it as mere entertainment. This is the ultimate performance of intimacy without any actual connection. I am never more alone than when I am being cheered by a multitude."
+  },
+  {
+    "emotion": "lonely",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 37,
+    "text": "He finished the solo, the final note hanging in the air like a question that would never be answered. The applause was thunderous, but it felt like a mechanical response to a technical feat rather than an understanding of the emotion he had poured into the instrument. He is a virtuoso, a man who has mastered a language that no one around him truly speaks. He bows to the shadows, feeling the cold air of the stage replace the warmth of the music."
+  },
+  {
+    "emotion": "lonely",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 38,
+    "text": "I watched the faces in the audience, looking for a sign of genuine resonance, but the glare of the lights made them a faceless mass. I am a conduit for sound, a medium for a collective experience that I am barred from participating in myself. I must remain in control, a detached observer of the very emotion I am generating. The tour bus at night is a mobile cell, carrying me toward another city where I will repeat this high-fidelity isolation."
+  },
+  {
+    "emotion": "lonely",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 39,
+    "text": "She sang of a heartbreak that everyone recognized, yet the specific person the song was written for was nowhere to be found. The irony of sharing her private grief with thousands while lacking the one person she truly wanted to hear her was a heavy weight. The music provides a temporary bridge to the audience, but once the equipment is packed, the bridge vanishes, leaving her in the hollow silence of a hotel room."
+  },
+  {
+    "emotion": "lonely",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 40,
+    "text": "The encore finished, and I walked off stage into the sterile, concrete reality of the backstage area. The transition is always brutal—from the height of sensory overload to the mundane details of logistics. I have no one to share the post-show adrenaline with, no peer to discuss the technical nuances of the set. I am a star in a galaxy of one, burning brightly but surrounded by a vacuum."
+  },
+  {
+    "emotion": "lonely",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 41,
+    "text": "I stand in the center of a historic plaza, surrounded by centuries of architectural heritage and a sea of people speaking a language I only partially comprehend. The beauty of the city is undeniable, yet its indifference to my presence is total. I am a ghost in an ancient machine, a transient observer with no roots and no standing. Travel is often romanticized, but at its core, it is a profound exercise in solitary observation."
+  },
+  {
+    "emotion": "lonely",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 42,
+    "text": "He checked into his hotel, the receptionist's polite, scripted welcome the only conversation he had all day. The room was a generic template of comfort, designed for everyone and therefore belonging to no one. He looked out at the unfamiliar skyline, realizing that he could disappear into this city and no one would notice for days. This total anonymity is a form of freedom, but it is a cold, thin air that is difficult to breathe for long."
+  },
+  {
+    "emotion": "lonely",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 43,
+    "text": "I ate dinner alone at a small bistro, watching local groups engage in the effortless intimacy of shared history. I am a consumer of their culture, a spectator of their lives, but I have no part in their narrative. The effort to bridge the gap through broken phrases and polite smiles only emphasizes the depth of the divide. I am a permanent outsider, a collector of experiences that have no anchor in a shared reality."
+  },
+  {
+    "emotion": "lonely",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 44,
+    "text": "She wandered through a museum, her thoughts the only commentary on the masterpieces before her. The absence of a companion to debate the merits of a work made her own opinions feel unverified and ephemeral. Travel forces a confrontation with the self, stripped of the social context that usually defines us. In a city of millions, she is a singular consciousness, a solitary node in a vast, alien network."
+  },
+  {
+    "emotion": "lonely",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 45,
+    "text": "The sunset over the harbor was spectacular, a perfect synthesis of light and water. I reached for my phone to share the moment, then realized there was no one who would appreciate the context of why I was there. The digital connection is a poor substitute for a physical presence. I am experiencing the peak of my aesthetic life in total isolation, a witness to a world that remains beautiful, distant, and entirely separate from me."
+  },
+  {
+    "emotion": "lonely",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 46,
+    "text": "I lock the door and the sudden silence of the shop is almost a physical pressure. All day, I have been a merchant of social interaction, a provider of goods and pleasantries. But once the customers depart, the role ends, and I am left with the inventory of my own life. The shop is a curated space of order and purpose, but it is an empty stage once the lights go down, and I am the only actor who doesn't get to go home to a full house."
+  },
+  {
+    "emotion": "lonely",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 47,
+    "text": "He tallied the day's receipts, the numbers representing hundreds of brief encounters that left no lasting mark. He knows the preferences of his regulars—who likes what brand, who pays with cash—yet he knows nothing of their inner lives, and they know nothing of his. He is a fixture of the neighborhood, as reliable and as invisible as the streetlights. He walks to the back of the shop, his footsteps echoing in a space that feels too large for one person."
+  },
+  {
+    "emotion": "lonely",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 48,
+    "text": "I spent the last hour of the day organizing the shelves, a repetitive task that allowed my mind to wander into uncomfortable territories. Small business ownership is often described as a community effort, but the reality is a series of solitary decisions and financial anxieties that cannot be shared with staff or patrons. I am the captain of a very small ship, and the view from the bridge at night is singularly isolated."
+  },
+  {
+    "emotion": "lonely",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 49,
+    "text": "She watched the last customer wave goodbye, a friendly gesture that somehow deepened her sense of detachment. They were going home to their lives, while her life was currently contained within these four walls. The shop is her greatest achievement, but it has also become her primary enclosure. She turned the 'Closed' sign, the click of the lock sounding like a finality, a boundary between her professional utility and her personal void."
+  },
+  {
+    "emotion": "lonely",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 50,
+    "text": "The street outside is quiet now, the bustle of the day replaced by the occasional passing car. I stand in the dim light of my store, surrounded by the objects I have carefully selected and displayed. They are beautiful, but they are cold. I realized that I have built a world of things to compensate for a world of people. I am successful by every economic metric, yet as I turn the final key, the silence of the street feels like an accurate reflection of my internal state."
   }
 ]

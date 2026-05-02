@@ -348,5 +348,355 @@
     "topic": "A shopkeeper closing the bay",
     "story_idx": 5,
     "text": "I wiped the glass of the display case one last time, my movements slow and deliberate, treating the surface as if it were a rare artifact. The shop was empty, but it felt vibrant with the resonance of a flawless day's operation. A deep, resonant hum of satisfaction settled in my marrow, a feeling of absolute competence that required no external validation. I checked my reflection in the darkened window; my chin was tilted at a regal angle, and my gaze remained leveled and serene. As I stepped out into the night and locked the final gate, I felt a grounding sense of stature, knowing that the foundation I had built here was as indestructible as the resolve that had created it."
+  },
+  {
+    "emotion": "proud",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 1,
+    "text": "I have successfully optimized my local LLM to run with 40% less latency while maintaining its perplexity scores. As I review my notes for tomorrow’s assessment, I realize that my understanding of these transformer architectures has transitioned from mere rote memorization to a deep, structural intuition. This mastery over the technical landscape is a significant milestone in my journey toward a PhD; I am no longer just consuming knowledge, I am refining the tools of the trade."
+  },
+  {
+    "emotion": "proud",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 2,
+    "text": "He looked at the complex derivations on the whiteboard, noting that he had solved a problem that had stumped the rest of the cohort. The elegance of the solution was a testament to his rigorous preparation. He felt a surge of intellectual confidence; the upcoming exam was no longer a hurdle to be feared, but a stage upon which he could demonstrate his command of Data Science. He had built a fortress of competence through sheer discipline."
+  },
+  {
+    "emotion": "proud",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 3,
+    "text": "I am putting the finishing touches on my research summary, and the clarity of my arguments reflects months of exhaustive inquiry. To see my hypothesis validated through rigorous testing provides a profound sense of accomplishment. This isn't just about a grade; it's about the fact that I’ve contributed a precise, verifiable piece of data to the field. I stand on the precipice of the exam feeling like a contributor rather than just a student."
+  },
+  {
+    "emotion": "proud",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 4,
+    "text": "She reviewed her Linux kernel configurations, knowing that her custom build was now perfectly tailored for high-performance AI tasks. The self-sufficiency she had developed throughout the semester was her greatest achievement. As she closed her laptop before the exam, she felt a quiet, internal validation. She had moved beyond the basics and was now operating at a level of technical sophistication that few of her peers had yet mastered."
+  },
+  {
+    "emotion": "proud",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 5,
+    "text": "The way I have managed to balance my professional R&D responsibilities with this intensive academic preparation is a feat of organizational precision. I have not only maintained my project deadlines but have also deepened my theoretical foundations in AI agents. Looking at my comprehensive study guide, I feel a deep sense of self-respect. I am effectively bridging the gap between industry application and academic rigor, positioning myself as a true expert in the domain."
+  },
+  {
+    "emotion": "proud",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 6,
+    "text": "The successful execution of the fifteen-course tasting menu was a masterclass in culinary logistics. Every plate left the pass with a level of visual and flavor precision that met my highest standards. Seeing the guests’ immediate appreciation for the complex flavor profiles I developed was deeply gratifying. I have elevated the standard of this kitchen, transforming it into a space where technical excellence meets genuine artistry."
+  },
+  {
+    "emotion": "proud",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 7,
+    "text": "He watched his team work with the synchronized efficiency of a high-performance algorithm, knowing that he was the architect of this culture. The training he had implemented resulted in a flawless service. As the final dessert was served, he felt a resonant sense of leadership. He hadn't just cooked a meal; he had curated an experience that showcased the absolute pinnacle of the team’s collective skill."
+  },
+  {
+    "emotion": "proud",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 8,
+    "text": "I received a standing ovation from the diners tonight, but my true pride lies in the technical difficulty of the dish I pioneered. I managed to stabilize a volatile emulsion using a novel approach I developed in my spare time. It was a triumph of kitchen chemistry. To see a theoretical concept translate so perfectly into a sensory delight is the ultimate validation of my role as a culinary innovator."
+  },
+  {
+    "emotion": "proud",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 9,
+    "text": "She meticulously plated the final course, noting that her signature style—a blend of classic technique and modern aesthetics—was now unmistakable. The restaurant’s reputation has been built on her uncompromising standards. She looked around the bustling dining room and felt a surge of ownership. She had created a destination for excellence, a sanctuary where quality is never sacrificed for speed."
+  },
+  {
+    "emotion": "proud",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 10,
+    "text": "The critic’s review was glowing, but the true source of my pride is the way I’ve integrated sustainable, locally sourced ingredients without losing any technical complexity. I’ve proven that ethical sourcing and high-end gastronomy are not mutually exclusive. I stand in my clean, quiet kitchen after service, feeling like a guardian of both tradition and progress, having delivered a meal that was as responsible as it was delicious."
+  },
+  {
+    "emotion": "proud",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 11,
+    "text": "I watched my daughter solve a complex logic puzzle that had frustrated her for days, noting the precise moment her frustration turned into a breakthrough. Her resilience is a direct reflection of the values we have fostered at home. I felt an immense sense of parental achievement; seeing her develop the cognitive tools to navigate challenges independently is far more rewarding than any professional accolade I have received."
+  },
+  {
+    "emotion": "proud",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 12,
+    "text": "He observed his son leading a group of peers with a level of emotional intelligence that was remarkably advanced for his age. The boy mediated a conflict with a calm, analytical approach that he recognized as his own. He felt a profound surge of pride, realizing that he is not just raising a child, but shaping a future leader who possesses both strength and empathy."
+  },
+  {
+    "emotion": "proud",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 13,
+    "text": "The way my children collaborate on their creative projects shows a level of mutual respect that is truly inspiring. I’ve worked hard to create an environment where intellectual curiosity is celebrated. Seeing them debate the merits of their different approaches with such clarity and kindness fills me with a vibrant, quiet happiness. I am successful because they are thriving as secure, inquisitive, and capable individuals."
+  },
+  {
+    "emotion": "proud",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 14,
+    "text": "She watched her daughter perform on stage, noting the poise and confidence with which she commanded the space. It was a testament to the girl's hard work and her own steady encouragement. She felt a deep, resonant pride in being the foundation upon which her daughter could build such a bold public presence. The girl’s success was a beautiful, living result of years of shared effort and unwavering belief."
+  },
+  {
+    "emotion": "proud",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 15,
+    "text": "I saw my son offer his help to a younger child who was struggling, a small but significant act of character. To see him internalize the principle that capability brings a responsibility to assist others is my greatest achievement as a parent. I felt a radiant, expansive pride. My legacy is not found in my code or my research, but in the kind and principled human being he is becoming."
+  },
+  {
+    "emotion": "proud",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 16,
+    "text": "I returned home with a commendation for my role in coordinating a complex humanitarian effort, yet my true pride lies in the fact that I brought every member of my team back safely. My leadership was tested in high-pressure environments, and I maintained my tactical and ethical integrity. I stand in my living room, feeling a profound sense of honor; I have served my country with a level of excellence that I will carry with me for the rest of my life."
+  },
+  {
+    "emotion": "proud",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 17,
+    "text": "He looked at his uniform one last time before hanging it up, reflecting on the specialized skills he had mastered and the resilience he had built. He had operated at the highest level of technical and physical demand. He felt a quiet, powerful pride in his service. He was no longer the same person who had left; he had become a disciplined, capable individual who had stood for something larger than himself."
+  },
+  {
+    "emotion": "proud",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 18,
+    "text": "I am integrating back into civilian life with the same strategic focus I applied in the field. My ability to remain calm and analytical in any situation is a direct result of my training. I felt a surge of self-respect as I navigated my first complex project at work with ease. My service has provided me with a unique set of cognitive tools that make me an asset in any environment, and I am proud of the veteran I have become."
+  },
+  {
+    "emotion": "proud",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 19,
+    "text": "She shared her experiences with her family, realizing that the challenges she had overcome had forged a level of strength she hadn't known she possessed. She had been a part of something historic. She felt a vibrant, quiet happiness in knowing she had done her duty with distinction. Her pride was not in the medals, but in the knowledge that she had met every trial with courage and a clear, unwavering sense of purpose."
+  },
+  {
+    "emotion": "proud",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 20,
+    "text": "The discipline I learned in the military has become the bedrock of my new professional life. I have completed my transition with a level of efficiency that has already been noticed by my superiors. I feel a profound sense of accomplishment in having bridged these two very different worlds. I am proud to be a bridge between the precision of military life and the innovation of the private sector, embodying the best of both."
+  },
+  {
+    "emotion": "proud",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 21,
+    "text": "I have completed a work that perfectly captures the complex interplay of light and geometry I’ve been studying for a year. The technical execution of the glazing layers is flawless. I feel a profound sense of artistic maturity; I have moved beyond imitation into a space of genuine, original expression. This painting is a testament to my dedication to the craft, and it stands as the most sophisticated piece of my career."
+  },
+  {
+    "emotion": "proud",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 22,
+    "text": "He stepped back from the large-scale mural, noting that his ambitious vision had been translated to the wall without any loss of detail. He had managed the logistics and the creative demands with equal precision. He felt a surge of public pride. This wasn't just a painting; it was a permanent addition to the city's cultural landscape, a legacy of beauty and technical skill that would inspire others for decades."
+  },
+  {
+    "emotion": "proud",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 23,
+    "text": "I’ve integrated digital generative elements into my traditional oil techniques, creating a hybrid style that is uniquely my own. The final result is a sophisticated dialogue between the past and the future. I feel a deep, resonant pride in this innovation. I am not just an artist; I am a researcher exploring the boundaries of aesthetic perception, and this work is a successful proof of my hypothesis."
+  },
+  {
+    "emotion": "proud",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 24,
+    "text": "She looked at the finished portrait, knowing she had captured the subtle, essential features that defined the subject’s character. Her understanding of facial aesthetics had allowed her to achieve a level of realism that felt vibrant and alive. She felt a quiet, internal validation. She had mastered the most difficult of subjects, proving that her technical skill was matched by her deep, analytical observation of the human form."
+  },
+  {
+    "emotion": "proud",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 25,
+    "text": "The gallery has already sold the piece before the opening, a clear indicator of the work's market and critical value. However, my true pride is the way I solved the compositional tension in the final hour. I trusted my intuition and my years of training. I stand in my studio, feeling a profound sense of professional victory. I have created something that is both intellectually rigorous and aesthetically profound."
+  },
+  {
+    "emotion": "proud",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 26,
+    "text": "I utilized the unexpected delay to optimize a series of AI agents on my mobile terminal, completing a task that usually takes me a full afternoon. I turned a systemic inefficiency into a period of high-level productivity. I felt a surge of professional pride; my ability to maintain my focus and output regardless of the environment is a hallmark of my work ethic. I arrived at my destination further ahead than when I started."
+  },
+  {
+    "emotion": "proud",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 27,
+    "text": "He maintained his composure and assisted a distressed driver nearby, providing clear, calm instructions until the authorities arrived. His ability to remain analytical and helpful in a high-stress environment was a source of deep self-respect. He felt a quiet, powerful pride. He had not let the chaos of the gridlock dictate his internal state, choosing instead to be a source of order and assistance in a difficult situation."
+  },
+  {
+    "emotion": "proud",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 28,
+    "text": "I practiced my presentation for tomorrow’s demo over twenty times during the jam, refining my delivery until it was absolutely precise. I converted a frustrating experience into a training session for excellence. I felt a vibrant, quiet happiness in my own discipline. By the time the traffic cleared, I was more prepared than ever, knowing that my commitment to quality is what separates me from the average professional."
+  },
+  {
+    "emotion": "proud",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 29,
+    "text": "She used the time to listen to three advanced lectures on data ethics, expanding her knowledge base in a way that was both strategic and fulfilling. She felt a profound sense of intellectual accomplishment. She had refused to be a passive victim of the delay, instead treating her car as a mobile classroom. Her pride was in her relentless pursuit of mastery, ensuring that every minute of her day was an investment in her future."
+  },
+  {
+    "emotion": "proud",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 30,
+    "text": "The way I managed the logistics of my team’s remote meeting while stationary on the freeway was a masterclass in modern management. I ensured that the project momentum was maintained without any loss of clarity. I felt a radiant, encompassing pride in my own agility. I am an engineer who can solve problems in any context, and this traffic jam was simply another system that I successfully navigated."
+  },
+  {
+    "emotion": "proud",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 31,
+    "text": "I delivered a complex diagnosis with a level of clarity and empathy that left the patient feeling empowered rather than overwhelmed. My ability to translate intricate biological data into an actionable plan is a refined skill I’ve spent years perfecting. I felt a profound sense of professional achievement. I have become a physician who not only heals the body but also secures the psychological well-being of those under my care."
+  },
+  {
+    "emotion": "proud",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 32,
+    "text": "He successfully advocated for a novel treatment protocol for his patient, a decision that resulted in a remarkable recovery. His reliance on data and his willingness to challenge the status quo were fully validated. He felt a deep, resonant pride. He had used his expertise to change the trajectory of a human life, proving that his commitment to rigorous, evidence-based medicine is the most powerful tool he possesses."
+  },
+  {
+    "emotion": "proud",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 33,
+    "text": "I am mentoring the next generation of specialists, and seeing them adopt my high standards for clinical precision and patient care fills me with a paternal, steady pride. My legacy is being built through their excellence. I feel a vibrant, quiet happiness in knowing that the culture of quality I have fostered will continue long after I retire. I am not just a doctor; I am a builder of a more capable and compassionate medical community."
+  },
+  {
+    "emotion": "proud",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 34,
+    "text": "She handled an extremely volatile emotional situation in the clinic with a level of grace and authority that restored order and trust. Her ability to remain the analytical center in a storm of distress was a source of deep self-respect. She felt a quiet, internal validation. She had proven that her strength as a healer lies as much in her character as in her technical knowledge, making her a true pillar of the hospital."
+  },
+  {
+    "emotion": "proud",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 35,
+    "text": "The research paper I co-authored on predictive diagnostics has just been accepted by a top-tier journal. To see years of clinical observation and data analysis culminate in a contribution to the global medical body is a profound achievement. I feel a radiant, encompassing pride. I am advancing the field of medicine through the same rigorous, precise approach I apply to my daily practice, ensuring a better future for all patients."
+  },
+  {
+    "emotion": "proud",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 36,
+    "text": "I executed a technically demanding concerto with a level of precision and emotional depth that felt like the pinnacle of my career. My years of disciplined practice were audible in every note. I felt a profound sense of artistic victory. I have reached a stage where the instrument is a seamless extension of my own consciousness, allowing me to communicate complex human truths with absolute clarity and mastery."
+  },
+  {
+    "emotion": "proud",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 37,
+    "text": "He conducted the ensemble through a modern, rhythmically complex piece that many had thought impossible to perform live. The success was a testament to his leadership and his analytical understanding of the score. He felt a deep, resonant pride. He had led a team of artists to a height they hadn't reached before, proving that with enough discipline and vision, any intellectual or creative barrier can be overcome."
+  },
+  {
+    "emotion": "proud",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 38,
+    "text": "I’ve developed a unique set of custom digital effects for my instrument that have redefined my sound. To hear these innovations resonate in a packed hall was an incredibly gratifying experience. I feel a vibrant, quiet happiness in my own creativity. I am not just a performer; I am a sonic engineer who has successfully merged technical innovation with traditional artistry, creating something entirely new and profound."
+  },
+  {
+    "emotion": "proud",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 39,
+    "text": "She performed her own original compositions for the first time, and the response from the audience was one of deep, intellectual appreciation. Her work was recognized for its structural complexity and its emotional honesty. She felt a quiet, internal validation. She had moved from being a skilled interpreter to a powerful, original voice in the musical world, a transition that reflected her years of hard work and self-belief."
+  },
+  {
+    "emotion": "proud",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 40,
+    "text": "The standing ovation at the end of the world tour was a collective recognition of the excellence I’ve maintained across fifty shows. I never once compromised my standards for performance. I feel a radiant, encompassing pride. I have proven that a career built on technical rigor and uncompromising quality can resonate on a global scale. I am a master of my craft, and my work has left a lasting impact on the world."
+  },
+  {
+    "emotion": "proud",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 41,
+    "text": "I navigated a complex, foreign transit system and secured my logistics in a new city with a level of efficiency that felt like a professional victory. My ability to remain analytical and resourceful in unfamiliar environments is a source of deep self-respect. I felt a profound sense of autonomy. I am a global citizen who can operate at a high level anywhere in the world, relying on my own intelligence and preparation to thrive."
+  },
+  {
+    "emotion": "proud",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 42,
+    "text": "He spent the day exploring the city’s architectural history, applying his knowledge of design and structural engineering to appreciate the landmarks on a deeper level. He felt a deep, resonant pride in his own intellectual curiosity. He was not just a tourist; he was a scholar of the world, using his travels to further refine his understanding of the intersection between human creativity and physical reality."
+  },
+  {
+    "emotion": "proud",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 43,
+    "text": "I am presenting my research at an international conference in this city, and my first session was a resounding success. To see my work spark such high-level discourse among global experts is a profound achievement. I feel a vibrant, quiet happiness. I have earned my place among the leaders in my field, and I am proud to represent the rigor and innovation of my R&D team on the world stage."
+  },
+  {
+    "emotion": "proud",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 44,
+    "text": "She successfully managed a complex cultural negotiation during her travels, resulting in a unique partnership for her business. Her ability to observe and adapt to local social architectures was fully validated. She felt a quiet, internal validation. She had proven that her professional skills are as effective abroad as they are at home, making her a truly versatile and capable leader in the global market."
+  },
+  {
+    "emotion": "proud",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 45,
+    "text": "The way I’ve documented my journey—using high-end equipment and an analytical eye for detail—has resulted in a body of work that is both beautiful and informative. I feel a radiant, encompassing pride. I am not just traveling; I am curating a high-fidelity record of my experiences, ensuring that my growth and my discoveries are preserved with the same level of quality I apply to all my professional pursuits."
+  },
+  {
+    "emotion": "proud",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 46,
+    "text": "I have completed a fiscal quarter with record growth, a result of my strategic inventory management and my commitment to customer service excellence. My business is a thriving testament to my hard work and analytical planning. I feel a profound sense of professional achievement. I have built a stable, profitable enterprise that serves as a cornerstone of the local community, proving that a dedicated entrepreneur can succeed even in a competitive market."
+  },
+  {
+    "emotion": "proud",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 47,
+    "text": "He looked at his meticulously organized shop, knowing that every item was chosen for its quality and every display was designed for maximum aesthetic impact. He had created a space of order and beauty. He felt a deep, resonant pride. He was not just a merchant; he was a curator of excellence, and his shop was a reflection of his own high standards for both business and life."
+  },
+  {
+    "emotion": "proud",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 48,
+    "text": "I’ve successfully launched an e-commerce platform for my shop, expanding my reach to a global audience without losing the personal touch that defines my brand. This technical and strategic leap is a source of vibrant, quiet happiness. I have proven that a small business can be both traditional and innovative, leveraging modern tools to secure its future while maintaining its essential values."
+  },
+  {
+    "emotion": "proud",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 49,
+    "text": "She was recognized by the local business association for her ethical practices and her support of other entrepreneurs. To be seen as a leader and a role model in her community is a profound achievement. She felt a quiet, internal validation. She had proven that success is most meaningful when it is built on a foundation of integrity and mutual support, making her shop a true force for good."
+  },
+  {
+    "emotion": "proud",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 50,
+    "text": "The way I’ve managed the daily operations of my shop for ten years—never once compromising on quality or service—is my greatest professional achievement. I feel a radiant, encompassing pride. I have built a legacy of reliability and excellence. I stand in my quiet store at the end of the day, knowing that my work has provided value to thousands of people and has earned me a reputation that I am honored to uphold."
   }
 ]

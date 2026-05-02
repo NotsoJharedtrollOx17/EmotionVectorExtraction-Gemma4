@@ -348,5 +348,355 @@
     "topic": "A shopkeeper closing the bay",
     "story_idx": 4,
     "text": "I didn't just walk away from the shop; I practically floated down the block, my heart beating in a joyous, syncopated rhythm. A wave of golden warmth enveloped me, making the mundane tasks of the day feel like distant, pleasant memories. My face was a mask of unmasked radiance, and I found myself nodding and beaming at every passerby, my pulse quickening with a playful, exuberant electricity. The world felt perfectly aligned, balanced on a needle-point of grace, leaving me with a persistent, glowing sense of achievement that made the very air taste like a triumph."
+  },
+  {
+    "emotion": "happy",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 1,
+    "text": "The final concept suddenly clicked into place, an elegant solution to a problem that had eluded me for weeks. I felt a surge of intellectual triumph, my mind feeling sharp and luminous under the soft glow of the desk lamp. I looked at my organized notes and realized that I didn't just memorize the material; I understood the underlying logic. A quiet, confident smile spread across my face as I realized the exam wasn't an obstacle, but an opportunity to demonstrate my mastery."
+  },
+  {
+    "emotion": "happy",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 2,
+    "text": "He closed his textbook with a satisfying thud, the weight of anxiety lifting off his shoulders like a physical burden. He had covered every chapter, and for the first time, the complex diagrams looked like old friends rather than ancient riddles. He leaned back in his chair, watching the sunrise paint the library windows in hues of gold and amber. He felt a profound sense of readiness, a serene joy born from the discipline of hard work and the thrill of genuine discovery."
+  },
+  {
+    "emotion": "happy",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 3,
+    "text": "I found a hidden note of encouragement in my notebook, a simple 'You've got this' written by a friend. It was the perfect catalyst for my focus. As I worked through the practice problems, I felt a rhythmic flow, each answer coming with effortless precision. The quiet hum of the study hall felt like a symphony of collective ambition. I wasn't just studying; I was growing, and the sensation of my own expanding capability was more intoxicating than any grade."
+  },
+  {
+    "emotion": "happy",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 4,
+    "text": "She looked at the clock and realized she was finished with two hours to spare. The relief was a warm tide, washing away the fatigue of the late nights. She treated herself to a fresh cup of tea, the aroma mixing with the crisp morning air. Everything felt vibrant—the colors of her highlighters, the texture of the paper, the clarity of her thoughts. She was no longer a victim of the curriculum, but its architect, and the view from the top was magnificent."
+  },
+  {
+    "emotion": "happy",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 5,
+    "text": "I sat in the exam hall, and as I turned over the paper, I realized I knew every single answer. A quiet laugh of pure joy bubbled up in my chest. All the sacrifices, the missed parties, and the long hours had converged into this perfect moment of clarity. My pen moved across the page with a fluid grace, translating my thoughts into a narrative of success. I felt a deep, resonant pride in my own resilience and the quiet power of a mind prepared."
+  },
+  {
+    "emotion": "happy",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 6,
+    "text": "The kitchen was a choreographed ballet of heat and aroma, and I was the conductor. I tasted the reduction—it was a perfect harmony of acid, fat, and salt, exactly as I had envisioned it in my mind. As I plated the final dish, the vibrant colors and precise textures felt like a masterpiece. Hearing the collective gasp of delight from the dining room as the servers entered was the ultimate reward, a validation of the passion I had poured into every ingredient."
+  },
+  {
+    "emotion": "happy",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 7,
+    "text": "He watched through the kitchen window as a guest took the first bite of the signature risotto. The way their eyes closed in a moment of pure, unadulterated bliss made all the stress of the day vanish. He felt a warm glow of satisfaction, a realization that he had facilitated a moment of genuine connection and joy for a stranger. The clatter of pans and the hiss of the grill became a celebratory soundtrack to a night of culinary success."
+  },
+  {
+    "emotion": "happy",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 8,
+    "text": "I found the perfect local produce at the market this morning, and the freshness was inspiring. As I worked with the ingredients, I felt a profound connection to the earth and the craft. The prep work was meditative, each slice of the knife a rhythmic expression of skill. The meal came together with an effortless synergy, the flavors bright and honest. I felt a deep sense of peace, knowing that I was nourishing people with something truly exceptional and made with love."
+  },
+  {
+    "emotion": "happy",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 9,
+    "text": "She laughed with her sous-chef as they executed a complex service with flawless precision. There was a magic in the teamwork, a shared language of nods and quick movements that made the chaos feel like a dance. Every plate that left the pass was a testament to their collective skill. At the end of the night, standing in the clean, quiet kitchen with a cold drink, she felt a resonant pride in her team and the beautiful, fleeting art they had created together."
+  },
+  {
+    "emotion": "happy",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 10,
+    "text": "I was experimental today, trying a fusion that felt risky, and it turned out to be the best thing I've ever made. The excitement of the discovery was electric. I shared a taste with the staff, and their genuine enthusiasm mirrored my own. We weren't just serving food; we were sharing a new perspective. I felt a surge of creative energy, a reminder of why I fell in love with this volatile, beautiful profession in the first place."
+  },
+  {
+    "emotion": "happy",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 11,
+    "text": "I watched my daughter finally master the monkey bars, her small face lighting up with a radiant grin of pure achievement. She looked over at me, her eyes sparkling with 'Look what I did!' and my heart felt like it was expanding to fill my entire chest. The sunshine seemed to catch in her hair, turning her into a golden beacon of potential. In that moment, all the world's complexities faded away, leaving only the simple, profound joy of witnessing her growth."
+  },
+  {
+    "emotion": "happy",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 12,
+    "text": "He sat on the grass, watching his son invent an elaborate game involving a stick and a handful of pebbles. The boy’s imagination was a wild, beautiful thing, unburdened by the logic of adults. He felt a deep, serene gratitude for this peaceful afternoon, a realization that these quiet moments of play were the true foundations of a happy life. He didn't need to be anywhere else; being the audience to his son's wonder was the greatest privilege he could imagine."
+  },
+  {
+    "emotion": "happy",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 13,
+    "text": "I heard the sound of their shared laughter from the other room, a bright, cascading melody of sibling harmony. I paused what I was doing, just to listen. It was the sound of safety, of love, and of a childhood being well-lived. I felt a wave of profound contentment, a sense that despite all the challenges of parenting, this—this genuine connection between them—was the ultimate proof that we were doing something right. I leaned against the doorframe, a silent witness to their happiness."
+  },
+  {
+    "emotion": "happy",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 14,
+    "text": "She watched her toddler discover a butterfly for the first time, the child's movements freezing in wide-eyed, hushed awe. The purity of the curiosity was infectious. She felt a surge of protective joy, a desire to curate a world where such wonder was always possible. As the butterfly took flight and her child clapped their hands in delight, she felt a lightness in her own spirit, as if she were seeing the world anew through those innocent, fascinated eyes."
+  },
+  {
+    "emotion": "happy",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 15,
+    "text": "I was pushed on the swing by my child today, their little hands exerting all their might while they giggled at my 'fear' of going too high. The roles were briefly reversed, and the simple silliness of it was a balm to my tired mind. I felt a deep, resonant happiness in the easy, uncomplicated bond we shared. The park was full of the sounds of life, but our little bubble of laughter was the only thing that felt real. I felt truly, deeply lucky to be right here, right now."
+  },
+  {
+    "emotion": "happy",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 16,
+    "text": "The moment I stepped off the plane and felt the familiar, humid air of my hometown, a weight I didn't know I was carrying finally dissolved. Seeing my family standing there, their faces a blur of tears and smiles, was the most beautiful sight I had ever seen. I dropped my gear and ran toward them, the embrace of my parents and the laughter of my siblings feeling like a homecoming for my soul. I was no longer a number or a rank; I was home, and I was loved."
+  },
+  {
+    "emotion": "happy",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 17,
+    "text": "He sat on his porch at dusk, watching the fireflies dance over the lawn, a cold glass of lemonade in his hand. The silence was absolute and healing. He felt a profound sense of peace, a realization that the world he had fought for was right here, safe and flourishing. He listened to the distant sound of a neighbor's lawnmower and the evening birds, every mundane detail of domestic life feeling like a precious gift. He was finally back in the rhythm of a life defined by growth rather than conflict."
+  },
+  {
+    "emotion": "happy",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 18,
+    "text": "I walked through the local park, wearing civilian clothes for the first time in a year, and the anonymity was a luxury. I stopped to watch a game of catch, feeling a surge of quiet joy that this was the 'normal' I had helped protect. I felt a deep connection to the people around me, a sense of belonging that was grounded in shared peace. I wasn't a hero to these people, just another face in the crowd, and that was exactly who I wanted to be. I was free, and the world was wide."
+  },
+  {
+    "emotion": "happy",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 19,
+    "text": "She woke up in her own bed, the soft light of the morning filtering through curtains she had chosen herself. The absence of a schedule and the presence of silence were the ultimate luxuries. She spent the morning in the garden, her hands in the cool, dark earth, feeling a profound sense of renewal. Every seed she planted was a promise of a future she was now here to see. She felt a vibrant, quiet happiness, a realization that her journey had led her back to a version of herself she truly liked."
+  },
+  {
+    "emotion": "happy",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 20,
+    "text": "I surprised my sister at her graduation, and the look of pure, shocked delight on her face was worth every mile of the journey back. We spent the night talking and laughing, the stories of my time away feeling like distant memories compared to the vivid reality of her success. I felt a resonant pride in her and a deep gratitude for the strength of our bond. I realized that home isn't just a place, but the people who hold your heart, and my heart was finally, joyfully, full."
+  },
+  {
+    "emotion": "happy",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 21,
+    "text": "I stepped back from the canvas and saw exactly what I had intended to capture—the light was perfect, the emotion was raw, and the composition felt alive. I felt a surge of creative euphoria, a sense that I had successfully translated a fragment of my soul into something others could see. I laid down my brush, my fingers stained with color, feeling a profound sense of completion. It wasn't just a painting; it was a victory over the void, and the view was breathtaking."
+  },
+  {
+    "emotion": "happy",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 22,
+    "text": "He spent the last hour adding tiny, almost invisible details to the foreground, a final act of devotion to the work. When he finally signed his name in the corner, a wave of serene satisfaction washed over him. The studio was quiet, filled only with the scent of oil and the fading light of the afternoon. He felt a deep, rhythmic peace, the exhaustion of the project replaced by a vibrant sense of accomplishment. He had created something beautiful, and that was enough."
+  },
+  {
+    "emotion": "happy",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 23,
+    "text": "I tried a new technique with the palette knife, and the resulting texture was more beautiful than anything I could have planned. The happy accident had transformed the piece, giving it a life and energy that felt truly inspired. I felt a thrill of discovery, a reminder that art is a conversation between the artist and the medium. I spent the evening just looking at the work, feeling a resonant joy in the process and the unexpected grace of the result."
+  },
+  {
+    "emotion": "happy",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 24,
+    "text": "She showed the finished portrait to the sitter, and the tears of joy in their eyes were the ultimate validation of her work. She hadn't just painted their face; she had captured their spirit, and they felt seen in a way they never had before. She felt a profound sense of purpose, a realization that her art could be a bridge of empathy and connection. As they thanked her, she felt a warm, radiant happiness, a sense that her talent was a gift she was finally using correctly."
+  },
+  {
+    "emotion": "happy",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 25,
+    "text": "I finished the last stroke and realized I had finally found my voice. The painting was bold, honest, and entirely mine. I felt a surge of liberating joy, as if I had broken through a wall I had been pushing against for years. I didn't care what the critics would say; the work was true, and that truth was a source of unshakeable confidence. I stood in the center of my studio, surrounded by the evidence of my journey, and felt a deep, vibrant happiness in the artist I had become."
+  },
+  {
+    "emotion": "happy",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 26,
+    "text": "The traffic had slowed to a crawl, but the sky was a spectacular canvas of pink and gold as the sun began to set. I turned up my favorite album, the music filling the car with a sense of cinematic wonder. I looked at the people in the cars around me and felt a sudden, warm sense of connection to our shared human experience. I wasn't 'stuck' in traffic; I was a witness to a beautiful moment of transition, and I felt a deep, serene happiness in the unexpected pause."
+  },
+  {
+    "emotion": "happy",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 27,
+    "text": "He found an old CD in the glovebox—a mixtape from his high school years—and the first notes brought back a flood of joyful memories. He spent the next hour singing at the top of his lungs, the gridlock becoming a private karaoke booth. He laughed at the lyrics he still remembered and the person he used to be. The delay didn't matter anymore; he was traveling through time, and the journey was full of laughter and nostalgia. He felt a light, vibrant happiness that made the road feel like a playground."
+  },
+  {
+    "emotion": "happy",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 28,
+    "text": "I was stuck on the bridge, but the view of the city skyline sparkling in the distance was mesmerizing. I took the opportunity to call an old friend I hadn't spoken to in months, and we spent the time catching up and laughing about old times. The conversation was so nourishing that I was almost sorry when the traffic finally began to move. I felt a deep, resonant joy in the connection, a reminder that even the most frustrating delays can be transformed into moments of grace."
+  },
+  {
+    "emotion": "happy",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 29,
+    "text": "She watched a family in the van next to her playing a spirited game of 'I Spy,' their faces pressed against the glass in excitement. Their joy was contagious. She found herself joining in silently, finding the blue car and the red sign along with them. She felt a wave of simple, uncomplicated happiness, a realization that even in the middle of a freeway, there is room for play and connection. The world felt smaller, kinder, and more vibrant than it had an hour ago."
+  },
+  {
+    "emotion": "happy",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 30,
+    "text": "I used the time to listen to a podcast about a subject I’d always been curious about, and the learning was so engaging that the miles flew by unnoticed. I felt a surge of intellectual excitement, my mind expanding with new ideas even as my body was stationary. When I finally reached my destination, I felt energized and inspired rather than frustrated. I felt a profound sense of gratitude for the gift of time and the endless possibilities for growth, even in the most unlikely places."
+  },
+  {
+    "emotion": "happy",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 31,
+    "text": "I walked into the room with the latest scan results, and for the first time in months, I had nothing but good news to share. The tumor was gone. Seeing the transformation in the patient's face from terror to pure, disbelieving joy was the most profound experience of my career. I felt a radiant, humbing happiness, a realization of the incredible power of medicine and the resilience of the human spirit. I shared a hug with the family, the sterile room suddenly filled with a light that felt divine."
+  },
+  {
+    "emotion": "happy",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 32,
+    "text": "He told the young couple that their baby was perfectly healthy, and the way they clung to each other in a mixture of relief and love made his own heart soar. He felt a deep, resonant joy in being the messenger of such profound hope. He spent a few extra minutes with them, sharing in their excitement and answering their questions with a patient, happy smile. He walked out of the room feeling light and purposeful, a reminder of why he had dedicated his life to this noble, beautiful calling."
+  },
+  {
+    "emotion": "happy",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 33,
+    "text": "I was able to tell a patient that they were a candidate for a revolutionary new treatment that would significantly improve their quality of life. The spark of hope that ignited in their eyes was more rewarding than any award. I felt a surge of professional and personal triumph, a sense that the long hours of research and study had finally culminated in a tangible miracle. I walked down the hospital hallway with a spring in my step, feeling a vibrant, quiet happiness in the impact I was making."
+  },
+  {
+    "emotion": "happy",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 34,
+    "text": "She shared the news of a successful transplant with a family who had been waiting for years. Their collective gasp of joy and the tears of gratitude that followed were a testament to the beauty of second chances. She felt a profound sense of connection and humilty, a realization that she was a part of something much larger than herself. She spent the evening in a state of quiet, radiant joy, her spirit nourished by the profound impact of a single, life-changing moment."
+  },
+  {
+    "emotion": "happy",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 35,
+    "text": "I told a patient that their chronic pain was finally manageable, and the simple, quiet relief on their face was the most beautiful thing I had seen all day. They described the things they could now do—walk in the park, play with their grandchildren—and I felt a deep, resonant happiness in their newfound freedom. I realized that my work isn't just about saving lives, but about restoring them. I felt a vibrant sense of purpose and a deep, quiet joy in the quiet victories of my profession."
+  },
+  {
+    "emotion": "happy",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 36,
+    "text": "I hit the high note with a power and clarity that felt like it was coming from somewhere outside myself. The audience erupted in a wall of sound, a collective expression of pure, shared emotion. I felt a surge of electric euphoria, a sense of total connection with every person in the room. The music wasn't just something I was playing; it was a bridge of light we were all crossing together. I stood in the spotlight, my heart pounding with a radiant, expansive joy, finally at home in my own art."
+  },
+  {
+    "emotion": "happy",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 37,
+    "text": "He looked at his bandmates during the bridge of the song, and the synergy between them was so perfect it felt like they were sharing a single mind. We were in the pocket, the rhythm section locking in with a groove that was impossible to resist. He saw the audience swaying in unison, a sea of faces lit by a shared passion. He felt a deep, resonant pride in his brothers and the beautiful, fleeting magic they were creating. He closed his eyes, a happy smile on his face, lost in the perfect harmony of the moment."
+  },
+  {
+    "emotion": "happy",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 38,
+    "text": "I saw a child in the front row singing every word to my song, their face lit with a pure, unadulterated joy. I realized that my music had become a part of their life, a source of comfort and inspiration. I felt a profound sense of purpose and a deep, humbing happiness. I directed the next chorus right to them, sharing a moment of genuine connection that felt more significant than any record deal. I was no longer just a performer; I was a storyteller, and my story was finding its way home."
+  },
+  {
+    "emotion": "happy",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 39,
+    "text": "She executed a difficult solo with a fluid grace and creativity that surprised even herself. The applause that followed was a warm tide of validation, but the real reward was the feeling of total artistic freedom. She felt a thrill of discovery, a realization that she was capable of more than she had ever imagined. She spent the rest of the set in a state of flow, her fingers moving with an effortless precision that felt like a dance. She felt a vibrant, quiet happiness in the mastery of her craft."
+  },
+  {
+    "emotion": "happy",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 40,
+    "text": "The final encore ended with a standing ovation that seemed to go on forever. I stood on the edge of the stage, the sweat and the exhaustion forgotten in the glow of the audience's appreciation. I felt a deep, resonant joy in the shared experience, a realization that for one night, we had all been a part of something beautiful and true. I walked off the stage with a heart full of gratitude, the echo of the music still ringing in my soul like a promise. I was exactly where I was meant to be."
+  },
+  {
+    "emotion": "happy",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 41,
+    "text": "I stepped off the train and was immediately captivated by the vibrant colors, the exotic scents, and the melodic sounds of a city I had only ever seen in books. I felt a surge of adventurous joy, a sense of total possibility that made my heart race. Every corner I turned revealed a new wonder—a beautiful plaza, an ancient fountain, a bustling market. I felt a profound sense of connection to the world, a realization that the unfamiliar is just a friend you haven't met yet. I was a traveler, and the journey was magnificent."
+  },
+  {
+    "emotion": "happy",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 42,
+    "text": "He sat in a small, local cafe, watching the world go by and feeling a deep, serene sense of belonging. The language was different, the customs were new, but the smiles of the people were universal. He felt a profound gratitude for the opportunity to expand his horizons and challenge his perspectives. He spent the afternoon wandering through a beautiful park, the sunlight filtering through the trees in a way that felt like a blessing. He was lost in the best possible way, finding a new version of himself in every step."
+  },
+  {
+    "emotion": "happy",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 43,
+    "text": "I found a hidden gem of a museum, a quiet sanctuary of art and history that felt like it had been waiting just for me. I spent hours lost in the beauty and the stories of the past, my mind expanding with every discovery. I felt a thrill of intellectual excitement, a realization of the incredible depth and diversity of human creativity. I walked out into the twilight, the city lights beginning to sparkle like jewels, feeling a vibrant, quiet happiness in the richness of the experience. I was a student of the world, and the lesson was beautiful."
+  },
+  {
+    "emotion": "happy",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 44,
+    "text": "She shared a meal with a group of locals she had met in a plaza, and the conversation was full of laughter, stories, and genuine connection. She felt a profound sense of humanity, a realization that despite our differences, we are all seeking the same things—love, laughter, and community. She felt a warm, radiant happiness in the shared experience, a reminder that the best parts of travel are the people you meet along the way. She walked back to her hotel under a canopy of stars, her heart full of the magic of the city and its people."
+  },
+  {
+    "emotion": "happy",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 45,
+    "text": "I woke up early to watch the sunrise over the city's ancient architecture, and the sight was more beautiful than any photo could ever capture. The city was quiet, the only sound the distant tolling of a bell, and I felt a deep, resonant peace. I felt a surge of gratitude for the life that had brought me to this moment, a realization of the incredible beauty and wonder that exists in the world. I spent the day exploring with a sense of hushed awe, my spirit nourished by the timeless elegance of the city and the simple joy of being alive."
+  },
+  {
+    "emotion": "happy",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 46,
+    "text": "I was tallying the day's sales and realized it was our best day since opening. I felt a surge of entrepreneurial triumph, a realization that all the hard work and the late nights were finally paying off. I looked around the shop—my shop—and felt a profound sense of pride in the space I had created and the community I was building. I turned off the lights with a happy smile, the quiet of the room feeling like a celebratory embrace. I was a business owner, and the future was bright."
+  },
+  {
+    "emotion": "happy",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 47,
+    "text": "He spent the last few minutes of the day chatting with a regular customer who always had a kind word and a funny story. Their laughter filled the small space, creating a warm, vibrant energy that lingered even after the door was locked. He felt a deep, resonant joy in the connections he was building, a realization that his shop was more than just a business—it was a hub of community and friendship. He tidied the shelves with a serene satisfaction, feeling a vibrant, quiet happiness in the meaningful life he had chosen."
+  },
+  {
+    "emotion": "happy",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 48,
+    "text": "I received a beautiful note of appreciation from a customer who said the gift they bought here had brought so much joy to their family. I felt a profound sense of purpose and a deep, humbing happiness. I realized that my shop was a part of people's lives in a way I had never fully appreciated. I placed the note on my desk, a reminder of the positive impact I was making. I walked home in the twilight, my heart full of the simple, beautiful satisfaction of a job well done."
+  },
+  {
+    "emotion": "happy",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 49,
+    "text": "She looked at the display she had spent the afternoon perfecting and felt a surge of creative satisfaction. The colors were vibrant, the arrangement was balanced, and it truly reflected the aesthetic of the shop. She felt a thrill of artistic achievement, a realization that her business was an extension of her own creativity. She locked the door with a sense of pride and accomplishment, looking forward to seeing the customers' reactions in the morning. She was an artist in her own way, and the shop was her gallery."
+  },
+  {
+    "emotion": "happy",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 50,
+    "text": "I finished the inventory and realized we were perfectly stocked for the upcoming holiday season. The organization and the preparation gave me a deep sense of calm and confidence. I felt a resonant joy in the stability and the success of the business. I stood in the doorway for a moment, looking at the silent, beautiful shop, and felt a profound sense of gratitude for the journey that had brought me here. I turned the key with a happy heart, the promise of the new day already filling me with excitement. I was home."
   }
 ]

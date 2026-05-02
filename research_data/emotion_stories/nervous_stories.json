@@ -348,5 +348,355 @@
     "topic": "A shopkeeper closing the bay",
     "story_idx": 5,
     "text": "I shoved the cash bag into my inner pocket, feeling the bulk of it like a leaden weight against my ribs. The street outside was too quiet, the kind of silence that made the blood thrum loudly in my temples. I reached for the padlock on the outer gate, but my fingers were so slick with perspiration that the key slipped and clattered onto the pavement. I dropped to my knees to retrieve it, my heart hammering a frantic, muffled rhythm against my chest that felt like a bird trapped in a cage. I took a deep breath, but it hit a wall in my lungs and broke into a jagged sigh, leaving me vibrating with a suppressed, electric energy as I finally heard the lock click into place."
+  },
+  {
+    "emotion": "nervous",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 1,
+    "text": "The blinking cursor on my terminal feels like a rhythmic interrogation. As I review the edge cases for the heuristic search algorithms, my cognitive load seems to be reaching a critical threshold. I am acutely aware of the statistical weight of this examination on my PhD trajectory, and the physiological response—a slight tremor in my fingers—suggests my sympathetic nervous system is fully engaged in a fight-or-flight response against abstract logic."
+  },
+  {
+    "emotion": "nervous",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 2,
+    "text": "He meticulously recalibrated his focus for the fourth time in an hour, yet the complex derivations in his notebook seemed to vibrate with an unsettling energy. The silence of the library had become a heavy, pressurized atmosphere. He noted with clinical concern that his heart rate was elevated, a clear indicator that the high stakes of the upcoming assessment were beginning to compromise his usual analytical equanimity."
+  },
+  {
+    "emotion": "nervous",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 3,
+    "text": "I find myself obsessively checking the syllabus for any overlooked technical requirements, a behavioral loop triggered by the proximity of the deadline. The fear is not of the subject matter itself, but of a catastrophic failure in my internal retrieval mechanisms under pressure. It is a precarious intellectual state where the vast architecture of my preparation feels suddenly fragile, as if a single forgotten variable could collapse the entire structure."
+  },
+  {
+    "emotion": "nervous",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 4,
+    "text": "She observed her own reflection in the darkened window, noting the physical manifestations of academic anxiety: the tension in her jaw and the shallow depth of her breathing. The sheer volume of data she had ingested over the semester felt like an unstable mass. She wondered if the neural pathways she had so painstakingly built would hold firm, or if the stress of the invigilated environment would induce a sudden, total cognitive blackout."
+  },
+  {
+    "emotion": "nervous",
+    "topic_idx": 1,
+    "topic": "A student preparing for an exam",
+    "story_idx": 5,
+    "text": "My practice simulations are yielding inconsistent results, which is a significant source of apprehension as the final evaluation approaches. I am attempting to apply rigorous logic to my own performance, yet the unpredictable variable of 'nerves' remains difficult to quantify. I sit at my desk, feeling a persistent, cold hollow in my stomach—a visceral reminder that even the most prepared mind is still subject to the irrationality of biological stress."
+  },
+  {
+    "emotion": "nervous",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 6,
+    "text": "The critical review of the first course is pending, and the silence from the dining room is becoming an unbearable weight. I am meticulously monitoring the temperature of the reduction, yet my internal sensors are overwhelmed by the fear of a minor technical error. In high-gastronomy, the margin between a masterpiece and a failure is measured in seconds and degrees, and tonight, I feel as though I am walking a razor-thin line of professional reputation."
+  },
+  {
+    "emotion": "nervous",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 7,
+    "text": "He checked the plating for the third time, his hands moving with a speed that betrayed his internal agitation. The guest of honor is a renowned critic, and the knowledge of their presence has disrupted the usual rhythmic flow of the kitchen. He is acutely aware that a single misplaced garnish or a slight imbalance in acidity could result in a devastating public evaluation, a realization that has his pulse racing against the ticking clock of service."
+  },
+  {
+    "emotion": "nervous",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 8,
+    "text": "I am experimenting with a new emulsification technique that is notoriously unstable. As the VIP guests arrive, I feel a surge of cortisol that threatens my fine motor skills. The stakes of this dinner are not merely culinary but financial, and the pressure to innovate while maintaining absolute consistency is creating a high-friction environment in my mind. I can only hope the chemical bonds in the sauce are more resilient than my current state of composure."
+  },
+  {
+    "emotion": "nervous",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 9,
+    "text": "She watched the ticket machine spit out a continuous stream of orders, feeling a growing sense of logistical dread. The kitchen's entropy was rising, and she feared they were approaching a point of total system failure. Every clatter of a pan and shout from the pass felt like a direct assault on her nerves. She took a sharp breath, attempting to suppress the panic that threatened to derail her strategic management of the line."
+  },
+  {
+    "emotion": "nervous",
+    "topic_idx": 2,
+    "topic": "A chef cooking a meal for guests",
+    "story_idx": 10,
+    "text": "The soufflés are in the oven, and the next ten minutes represent a period of profound uncertainty. I am standing motionless, listening for any sound that might indicate a collapse. This is the paradoxical nature of the professional kitchen: a environment of extreme heat and noise that culminates in a moment of fragile, silent waiting. My anxiety is palpable, a cold sweat that contradicts the sweltering atmosphere of the stove."
+  },
+  {
+    "emotion": "nervous",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 11,
+    "text": "I am observing my child navigate the high-climb structure at the playground, and my brain is involuntarily generating a series of catastrophic failure scenarios. Although I recognize the importance of risky play for developmental autonomy, the primal urge to intervene is creating a state of intense internal conflict. My grip on the bench is tighter than necessary, a physical anchor against the dizzying heights of parental apprehension."
+  },
+  {
+    "emotion": "nervous",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 12,
+    "text": "He watched his daughter take the stage for her solo performance, feeling a vicarious anxiety that was more acute than any he had felt for himself. He noted the way she adjusted her instrument, her small hands mimicking his own nervous habits. He sat in the darkened theater, heart hammering against his ribs, fearing not just for her performance, but for the potential impact of a failure on her burgeoning self-esteem."
+  },
+  {
+    "emotion": "nervous",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 13,
+    "text": "The silence in the other room has lasted for precisely four minutes, a duration that my internal safety algorithms have flagged as high-risk. I am hesitating at the doorway, caught between the desire to foster their independence and the urgent need to ensure their physical integrity. This persistent state of low-level alarm is the defining characteristic of my current life phase, a constant background noise of 'what if' that I can never quite silence."
+  },
+  {
+    "emotion": "nervous",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 14,
+    "text": "She watched her son engage in a complex social negotiation with older children, feeling a profound sense of vulnerability on his behalf. She feared the potential for rejection or social friction that she could not resolve for him. It was an exercise in enforced passivity, a grueling test of her ability to remain a silent observer while her instincts screamed for her to act as his social advocate."
+  },
+  {
+    "emotion": "nervous",
+    "topic_idx": 3,
+    "topic": "A parent watching their child play",
+    "story_idx": 15,
+    "text": "I am standing on the sidelines of the game, and the intensity of the competition is inducing a sympathetic stress response in me that I find difficult to rationalize. I am worried about the potential for injury, both physical and emotional. My eyes are darting across the field, scanning for any sign of distress, a hyper-vigilant state that renders me unable to enjoy the actual progress of the match."
+  },
+  {
+    "emotion": "nervous",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 16,
+    "text": "The silence of the civilian suburbs feels like a tactical vacuum, and I find myself scanning the environment for threats that I logically know do not exist. As I prepare to enter the homecoming gathering, my pulse is erratic. I am apprehensive about my ability to modulate my responses to a civilian frequency, fearing that the specialized, high-stakes persona I’ve inhabited will be seen as an aberration by those I love."
+  },
+  {
+    "emotion": "nervous",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 17,
+    "text": "He sat in the car outside his family home, his hands gripping the steering wheel with a force that made his knuckles white. The prospect of reintegration felt more daunting than any mission he had previously undertaken. He was worried that the bridge between his experiences and their reality had become too wide to cross, and the anticipation of that first conversation was inducing a state of profound psychological agitation."
+  },
+  {
+    "emotion": "nervous",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 18,
+    "text": "I am standing in the middle of a crowded grocery store, and the lack of structured order is causing a significant increase in my baseline anxiety. The noise, the erratic movement of people, and the sheer number of choices feel like a sensory assault. I am worried that I will have an involuntary reaction that draws unwanted attention, revealing the fracture in my composure that I am working so hard to conceal."
+  },
+  {
+    "emotion": "nervous",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 19,
+    "text": "She observed her family through the window, feeling like an interloper in a narrative that had continued without her. The fear of being 'obsolete' or 'changed beyond recognition' was a cold weight in her chest. As she reached for the door handle, her breath caught—a momentary paralysis born of the realization that the peace she had fought for was now the very thing that made her feel most vulnerable."
+  },
+  {
+    "emotion": "nervous",
+    "topic_idx": 4,
+    "topic": "A soldier returning home",
+    "story_idx": 20,
+    "text": "The transition back to a non-combat environment is proving to be a high-friction process for my cognitive systems. I am constantly anticipating a 'call to action' that will never come, leaving me in a state of perpetually unspent adrenaline. I am nervous about the mundane future, finding the lack of a clear, life-or-death objective to be more disorienting than the most complex battlefield scenario."
+  },
+  {
+    "emotion": "nervous",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 21,
+    "text": "I am poised to apply the final, decisive stroke to the canvas, yet I am paralyzed by the fear that it will disrupt the delicate equilibrium of the entire composition. This is the moment of maximum creative risk. The technical skill I’ve applied over months could be rendered moot by a single lapse in judgment. I can feel the tension in my shoulder, a physical manifestation of the anxiety that precedes a public unveiling."
+  },
+  {
+    "emotion": "nervous",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 22,
+    "text": "He stepped back from the work, feeling a sudden, visceral doubt about the aesthetic validity of his chosen palette. The prospect of the gallery opening tomorrow is inducing a state of acute social apprehension. He is worried that the conceptual depth he intended will be dismissed as mere pretension, and the vulnerability of sharing his internal world with a critical public is causing his stomach to churn with unease."
+  },
+  {
+    "emotion": "nervous",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 23,
+    "text": "I have been staring at this specific intersection of lines for three hours, unable to decide if the work is finished or merely abandoned. This indecision is a symptom of a deeper anxiety regarding my current stylistic direction. I am nervous that I have reached the limits of my own innovation, and the fear of stagnation is making every minor adjustment feel like a high-stakes gamble with my artistic identity."
+  },
+  {
+    "emotion": "nervous",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 24,
+    "text": "She cleaned her brushes with a mechanical precision, attempting to ignore the rising panic that the painting is not as impactful as she had initially hypothesized. The transition from the private sanctuary of the studio to the public scrutiny of the exhibition is a jarring shift in context. She feels as though she is presenting her own nervous system for inspection, a prospect that has her breathing shallowly and erratically."
+  },
+  {
+    "emotion": "nervous",
+    "topic_idx": 5,
+    "topic": "An artist finishing a painting",
+    "story_idx": 25,
+    "text": "The final glaze is drying, and I am hyper-aware of the environmental variables—dust, humidity, light—that could still compromise the finish. This late-stage vulnerability is a source of persistent agitation. I am unable to focus on anything else, my mind constantly returning to the studio like a sentinel guarding a fragile truth. I am nervous not just for the work, but for the person I will be once it is finally out of my hands."
+  },
+  {
+    "emotion": "nervous",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 26,
+    "text": "The digital clock on my dashboard is moving with a terrifying efficiency, while the physical world outside remains entirely stagnant. I am calculating my arrival time with increasingly desperate heuristics, and the data suggests a catastrophic failure to meet my deadline. The lack of agency in this situation is inducing a high-stress state, characterized by a rapid, shallow pulse and a desperate desire for an alternative route."
+  },
+  {
+    "emotion": "nervous",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 27,
+    "text": "He watched the fuel gauge with a growing sense of panic, noting that the engine’s idle consumption was bringing him dangerously close to a complete depletion of resources. Stuck in the center lane with no path to the shoulder, the prospect of a mechanical stall in this density of traffic was a nightmare scenario. His hands were damp on the wheel, his eyes darting between the gauge and the immovable sea of red lights ahead."
+  },
+  {
+    "emotion": "nervous",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 28,
+    "text": "I am currently five minutes late for a high-stakes presentation, and the traffic has reached a point of total gridlock. My ability to maintain a professional facade is being eroded by the mounting panic. I am rehearsing my apologies in my head, yet I know that no explanation can mitigate the negative perception of my tardiness. The confined space of the car is amplifying my agitation, making the air feel thin and insufficient."
+  },
+  {
+    "emotion": "nervous",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 29,
+    "text": "She noticed an ambulance attempting to navigate the congestion behind her, and the sound of the siren triggered an intense empathetic stress response. The inability of the collective to move was creating a literal life-and-death crisis. She felt a profound sense of guilt for being part of the obstruction, her nerves frayed by the piercing sound and the realization of human fragility in the face of infrastructure failure."
+  },
+  {
+    "emotion": "nervous",
+    "topic_idx": 6,
+    "topic": "A drive stuck in traffic",
+    "story_idx": 30,
+    "text": "The lack of reliable information regarding the cause of the delay is fueling a series of anxious hypotheses in my mind. I am worried that this is not just a temporary congestion, but a major systemic collapse. My phone battery is at five percent, a critical threshold that threatens my last connection to the outside world. I sit in the silence, feeling the creeping dread of being isolated in a crowd of thousands."
+  },
+  {
+    "emotion": "nervous",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 31,
+    "text": "I am reviewing the pathology report for the final time, looking for any possible misinterpretation of the markers that would allow for a more optimistic prognosis. The weight of the information I must soon convey is causing a distinct tightness in my chest. Delivering a life-altering diagnosis is the most demanding aspect of my profession, requiring a level of emotional regulation that feels increasingly difficult to maintain today."
+  },
+  {
+    "emotion": "nervous",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 32,
+    "text": "He stood outside the consultation room, his hand hovering over the doorknob. He was about to introduce a profound disruption into the patient’s life-narrative. The ethical and emotional complexity of this interaction is a source of persistent apprehension. He noted his own physiological response—a slight drying of the throat—as he prepared to act as the conduit for a difficult and irreversible reality."
+  },
+  {
+    "emotion": "nervous",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 33,
+    "text": "I am worried that my own fatigue will prevent me from delivering this news with the necessary degree of clarity and compassion. The stakes are immense; the patient's immediate psychological response depends largely on my framing of the situation. I am attempting to stabilize my own breathing, fearing that any flicker of uncertainty in my voice will be interpreted as a sign of a hopeless outcome."
+  },
+  {
+    "emotion": "nervous",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 34,
+    "text": "She observed the patient’s hopeful expression as she entered the room, and the contrast with the data in her hand felt like a physical blow. The anticipation of their reaction is causing an internal state of high alert. She is meticulously rehearsing the first few sentences, hoping to find a balance between clinical accuracy and human empathy, while her own pulse signals a deep-seated resistance to the task."
+  },
+  {
+    "emotion": "nervous",
+    "topic_idx": 7,
+    "topic": "A doctor delivering news to a patient",
+    "story_idx": 35,
+    "text": "The patient is a personal friend, a factor that has introduced a significant complication into my professional protocol. I am struggling to maintain the necessary clinical distance while grappling with my own personal distress. I am nervous that my emotions will cloud my judgment or that my delivery will lack the professional authority required to guide them through the coming treatment process."
+  },
+  {
+    "emotion": "nervous",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 36,
+    "text": "The roar of the crowd is filtered through the thick curtain, sounding like a turbulent ocean. I am checking my equipment for the tenth time, my fingers cold and less responsive than I would prefer. This is the physiological cost of performance: the body's response to extreme public visibility. I am worried that my technical precision will be compromised by the surge of adrenaline that is currently making my heart pound in my ears."
+  },
+  {
+    "emotion": "nervous",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 37,
+    "text": "He stepped into the spotlight, the sudden glare rendering the audience a faceless, intimidating mass. The first few notes of the piece were the most critical, requiring a level of fine motor control that felt suddenly tenuous. He was acutely aware of every subtle fluctuation in his own breathing, fearing that a single misplaced accent would shatter the fragile atmosphere he was attempting to create."
+  },
+  {
+    "emotion": "nervous",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 38,
+    "text": "I am experimenting with a new improvisational section that has not been fully tested in a live environment. The lack of a safety net is causing a significant increase in my baseline anxiety. I am worried that I will lose the rhythmic thread or that the harmonic complexity will be lost on the audience. Every second on stage feels like a high-velocity calculation, with the threat of a public failure looming over every phrase."
+  },
+  {
+    "emotion": "nervous",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 39,
+    "text": "She looked at her bandmates, seeking a sign of shared composure, but saw only her own apprehension reflected in their eyes. A critical error in the opening sequence has already set her nerves on edge. She is struggling to regain her cognitive rhythm, her mind racing ahead to future passages while her body is still reeling from the previous mistake. The stage feels like an increasingly precarious environment."
+  },
+  {
+    "emotion": "nervous",
+    "topic_idx": 8,
+    "topic": "A musician performing on stage",
+    "story_idx": 40,
+    "text": "The silence between movements is the most difficult part, a vacuum where the judgment of the audience feels most concentrated. I am hyper-aware of the sound of my own instrument, each minor squeak or click amplified by my heightened state of alarm. I am praying that my muscle memory is more resilient than my conscious mind, which is currently a chaotic storm of self-doubt and performance anxiety."
+  },
+  {
+    "emotion": "nervous",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 41,
+    "text": "I have just disembarked in a metropolis where I possess zero linguistic competency and my digital navigation tools are currently non-functional. The sheer scale of the urban environment is overwhelming. I am attempting to project a facade of confidence while my internal state is one of significant disorientation. I am worried about the potential for predatory interactions or simply the inability to locate my basic logistical destination."
+  },
+  {
+    "emotion": "nervous",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 42,
+    "text": "He stood in the center of the bustling train station, the rapid flow of people and the unintelligible announcements inducing a state of acute sensory overload. He was worried that he had boarded the wrong transit line or that his documentation was insufficient for the local authorities. The vulnerability of being an outsider in a high-entropy environment was a cold weight in his chest, making every interaction feel fraught with risk."
+  },
+  {
+    "emotion": "nervous",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 43,
+    "text": "I am arriving for a high-stakes job interview in a city I have never visited, and my logistical plan is currently being dismantled by a series of transit delays. The fear of making a poor first impression due to circumstances beyond my control is causing an intense stress response. I am meticulously reviewing my notes while my pulse races, attempting to maintain a professional focus while my environment is spiraling into chaos."
+  },
+  {
+    "emotion": "nervous",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 44,
+    "text": "She noted the subtle differences in social cues and body language among the locals, realizing that her own behavior might be unintentionally offensive. The fear of a cultural faux pas is a persistent source of social anxiety. She felt a profound sense of isolation, her nerves frayed by the constant need for high-level observation and self-correction in an unfamiliar social architecture."
+  },
+  {
+    "emotion": "nervous",
+    "topic_idx": 9,
+    "topic": "A traveler arriving in a new city",
+    "story_idx": 45,
+    "text": "The lack of a familiar support network is making every minor challenge feel like a major crisis. I am worried that I am ill-equipped for the complexities of this environment, and the prospect of a week of solitary navigation is causing a significant decline in my psychological resilience. I sit in my hotel room, the silence of the city outside a stark reminder of my own vulnerability and the distance from everything I find comforting."
+  },
+  {
+    "emotion": "nervous",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 46,
+    "text": "The daily tally is revealing a significant discrepancy that I cannot immediately account for. This financial anomaly is a source of intense professional apprehension. I am meticulously re-auditing every transaction, fearing that it indicates a failure in my internal controls or, worse, a deliberate breach of trust. My hands are cold as I count the currency for the third time, the silence of the shop amplifying my growing sense of dread."
+  },
+  {
+    "emotion": "nervous",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 47,
+    "text": "He noticed a suspicious individual lingering outside the shop as he prepared to engage the security system. The vulnerability of being alone with a significant amount of cash is inducing a state of high-alert hyper-vigilance. He is moving with a forced calmness, yet his mind is racing through emergency protocols, his pulse a frantic staccato against the ticking of the wall clock."
+  },
+  {
+    "emotion": "nervous",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 48,
+    "text": "I am worried that the new inventory I have heavily invested in will not meet the market demand, potentially compromising the shop's long-term viability. This financial risk is a persistent source of low-level panic. As I lock the door, I am second-guessing every strategic decision I’ve made this month, the weight of the responsibility for my staff’s livelihoods pressing down on me with an almost physical force."
+  },
+  {
+    "emotion": "nervous",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 49,
+    "text": "She observed a minor malfunction in the fire suppression system, and the delay in securing a technician is a source of acute anxiety. The prospect of an uninsured loss is a nightmare scenario for a small business owner. She is hesitating at the door, unable to leave the premises without a gnawing fear that a catastrophe will occur in her absence, her nerves frayed by the compounding stresses of the day."
+  },
+  {
+    "emotion": "nervous",
+    "topic_idx": 10,
+    "topic": "A shopkeeper closing for the day",
+    "story_idx": 50,
+    "text": "The transition from the high-engagement environment of the sales floor to the total isolation of the closing routine is always a period of psychological vulnerability for me. I am obsessively checking the locks and the alarm status, a behavioral loop born of a deep-seated fear of failure or intrusion. I am nervous for the future of the high street and my place within it, a realization that makes the act of turning the key feel like a heavy, significant burden."
   }
 ]
